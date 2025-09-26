@@ -2,7 +2,7 @@
 
 ## Data source
 
-The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer){target="_blank"} in September 2025.
+The dataset from Københavns Kommune was downloaded from<a href="https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer" target="_blank">Open Data DK</a> in September 2025.
 
 ## Cleaning steps
 
