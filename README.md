@@ -22,9 +22,11 @@ Step 10 and 11 assumes the scientific names are the ground truth. This is probab
 
 12. Flag entries with identical locations.
 
-All changes have been recorded in a [changelog](output/) 
+All changes have been recorded in a [changelog](output/).
 
 
 ## Online Shiny-app
+
+I used the cleaned dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen!
 
 ![App image](app_screenshot.png)
