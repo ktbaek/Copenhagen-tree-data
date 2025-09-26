@@ -2,7 +2,7 @@
 
 ## Data source
 
-The dataset from Københavns Kommune was downloaded from<a href="https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer" target="_blank">Open Data DK</a> in September 2025.
+The dataset from Københavns Kommune was downloaded from <a href="https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer" target="_blank">Open Data DK</a> in September 2025.
 
 ## Cleaning steps
 
@@ -27,6 +27,6 @@ All changes have been recorded in a [changelog](output/).
 
 ## Online Shiny-app
 
-I used the cleaned dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen!
+I used the cleaned dataset to develop an <a href="https://ktbaek.shinyapps.io/treemap_basic/" target="_blank">interactive map</a> as a handy tool to explore the trees of Copenhagen!
 
 ![App image](app_screenshot.png)
