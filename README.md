@@ -19,7 +19,7 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 11. Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv)
 12. Flag entries with identical locations.
 
-Steps 10 and 11 assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
+Steps 10 and 11 assume that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
 
 The rule sets are not yet complete, but reflect an ongoing effort.
 
