@@ -7,7 +7,7 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 ## Cleaning steps
 
 1. Check for duplicate UUIDs
-2. Check that year of planting is not out of bounds
+2. Check that year of planting is within an expected range
 3. Swap accented letters in the scientific names for accepted latin letters
 4. De-capitalize Danish names with multiple words
 5. Normalize hybrid markers (e.g. `x` to `hybr.`)
