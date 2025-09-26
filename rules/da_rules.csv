@@ -1,0 +1,35 @@
+column;pattern;replacement;note;priority
+dansk_navn;astanie;astanje;danish name spelling fix;100
+dansk_navn;ortebrik;ortebirk;danish name spelling fix;100
+dansk_navn;Smallbladet sølvblad;Smalbladet sølvblad;danish name spelling fix;100
+dansk_navn;^Skarlagens\s+eg;Skarlagen-eg;danish name compund word;90
+dansk_navn;^Hybrid\s+løn;Hybrid-løn;danish name compund word;90
+dansk_navn;Fuldmåne\s+løn;Fuldmåne-løn;danish name compund word;90
+dansk_navn;Kugle[\- ]+ahorn;Kugleahorn;danish name compund word;90
+dansk_navn;Grå[\- ]+el;Gråel;danish name compund word;90
+dansk_navn;Rød[\- ]+el;Rødel;danish name compund word;90
+dansk_navn;Dværg[\- ]+elm;Dværgelm;danish name compund word;90
+dansk_navn;Frynse[\- ]+eg;Frynseeg;danish name compund word;90
+dansk_navn;Stilk[\- ]+eg;Stilkeg;danish name compund word;90
+dansk_navn;Pyramide[\- ]+avnbøg;Pyramideavnbøg;danish name compund word;90
+dansk_navn;Hænge[\- ]+ask;Hængeask;danish name compund word;90
+dansk_navn;Manna[:blank:]+ask;Manna-ask;danish name compund word;90
+dansk_navn;Sakhalin[\- ]+kirsebær;Sakhalinkirsebær;danish name compund word;90
+dansk_navn;Turner eg;Turner-eg;danish name compund word;90
+dansk_navn;Pragt[\- ]+robinie;Pragtrobinie;danish name compund word;90
+dansk_navn;Selje[\- ]+pil;Seljepil;danish name compund word;90
+dansk_navn;Purpur[\- ]+pil;Purpurpil;danish name compund word;90
+dansk_navn;Skærm[\- ]+elm;Skærmelm;danish name compund word;90
+dansk_navn;^Charneau\s+pære;Charneau-pære;danish name compund word;90
+dansk_navn;Paradisæbel;Paradisæble;danish name spelling fix;100
+dansk_navn;Parybusk;Parykbusk;danish name spelling fix;100
+dansk_navn;Ambertræ;Ambratræ;danish name spelling fix;100
+dansk_navn;Almindelig magnolia;Almindelig magnolie;danish name spelling fix;100
+slaegtsnavn;Magnolia;Magnolie;danish name spelling fix;100
+dansk_navn;Magnolia;Magnolie;danish name spelling fix;100
+dansk_navn;Japansk magnolia;Japansk magnolie;danish name spelling fix;100
+dansk_navn;Clara frijs-pære;Clara Frijs-pære;backcorrect case fix;80
+slaegtsnavn;astanie;astanje;danish name spelling fix;100
+dansk_navn;^Alm\.;Almindelig;danish expand abbrev.;110
+dansk_navn;Robinia;Robinie;danish name spelling fix;100
+slaegtsnavn;Ægte kastanje;Kastanje;danish genus name fix;90

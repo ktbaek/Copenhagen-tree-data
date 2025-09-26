@@ -1,0 +1,63 @@
+column;pattern;replacement;note;priority
+traeart;Malus 'Alice Balsgaard';Malus domestica 'Alice Balsgaard';insert species for cultivars;NA
+traeart;Malus 'Angold';Malus domestica 'Angold';insert species for cultivars;NA
+traeart;Malus 'Bramley's Seedling';Malus domestica 'Bramley's Seedling';insert species for cultivars;NA
+traeart;Malus 'Cox Orange';Malus domestica 'Cox Orange';insert species for cultivars;NA
+traeart;Malus 'Cox Queen';Malus domestica 'Cox Queen';insert species for cultivars;NA
+traeart;Malus 'Golden Hornet';Malus hybr. 'Golden Hornet';insert species for cultivars;NA
+traeart;Malus 'Holsteiner Cox';Malus domestica 'Holsteiner Cox';insert species for cultivars;NA
+traeart;Malus 'Neville Copeman';Malus hybr. 'Neville Copeman';insert species for cultivars;NA
+traeart;Malus 'Rød ananas';Malus domestica 'Rød ananas';insert species for cultivars;NA
+traeart;Malus 'Säftaholm';Malus domestica 'Säftaholm';insert species for cultivars;NA
+traeart;Malus 'Topaz';Malus domestica 'Topaz';insert species for cultivars;NA
+traeart;Malus 'Åkerø Hassel';Malus domestica 'Åkerø Hassel';insert species for cultivars;NA
+traeart;Malus Signe Tillisch;Malus domestica 'Signe Tillisch';insert species for cultivars;NA
+traeart;Malus baccata 'Snowdrift';Malus baccata 'Snowdrift';NA;NA
+traeart;Malus discovery;Malus domestica 'Discovery';insert species for cultivars;NA
+traeart;Malus domestica 'Aroma';Malus domestica 'Aroma';NA;NA
+traeart;Malus domestica 'Bøghs citronæble';Malus domestica 'Bøghs citronæble';NA;NA
+traeart;Malus domestica 'Filippa';Malus domestica 'Filippa';NA;NA
+traeart;Malus domestica 'Golden Delicious';Malus domestica 'Golden Delicious';NA;NA
+traeart;Malus domestica 'Goldparmäne';Malus domestica 'Goldparmäne';NA;NA
+traeart;Malus domestica 'Gul Gråsten';Malus domestica 'Gul Gråsten';NA;NA
+traeart;Malus domestica 'Guldborg';Malus domestica 'Guldborg';NA;NA
+traeart;Malus domestica 'Ildrød Pigeon';Malus domestica 'Ildrød Pigeon';NA;NA
+traeart;Malus domestica 'Ingrid Marie';Malus domestica 'Ingrid Marie';NA;NA
+traeart;Malus domestica 'Katinka';Malus domestica 'Katinka';NA;NA
+traeart;Malus domestica 'Katja';Malus domestica 'Katja';NA;NA
+traeart;Malus domestica 'Nanna';Malus domestica 'Nanna';NA;NA
+traeart;Malus domestica 'Rød Belle De Boskoop';Malus domestica 'Rød Belle De Boskoop';NA;NA
+traeart;Malus domestica 'Rød Gråsten';Malus domestica 'Rød Gråsten';NA;NA
+traeart;Malus domestica 'Rød aroma';Malus domestica 'Rød aroma';NA;NA
+traeart;Malus domestica 'Spartan';Malus domestica 'Spartan';NA;NA
+traeart;Malus floribunda;Malus hybr. floribunda;add hybrid marker;NA
+traeart;Malus hybr. 'Akso';Malus baccata 'Akso';fix latin name;NA
+traeart;Malus hybr. 'Braendkjaer';Malus hybr. 'Braendkjaer';NA;NA
+traeart;Malus hybr. 'Butterball';Malus hybr. 'Butterball';NA;NA
+traeart;Malus hybr. 'Dir. Moerland';Malus hybr. 'Dir. Moerland';NA;NA
+traeart;Malus hybr. 'Elstar';Malus hybr. 'Elstar';fix latin name;NA
+traeart;Malus hybr. 'Evereste';Malus hybr. 'Evereste';NA;NA
+traeart;Malus hybr. 'Gorgeous';Malus hybr. 'Gorgeous';NA;NA
+traeart;Malus hybr. 'James Greive';Malus domestica 'James Grieve';fix latin name;NA
+traeart;Malus hybr. 'John Downie';Malus hybr. 'John Downie';NA;NA
+traeart;Malus hybr. 'Professor Sprenger';Malus hybr. 'Professor Sprenger';NA;NA
+traeart;Malus hybr. 'Red Sentinel';Malus hybr. 'Red Sentinel';NA;NA
+traeart;Malus hybr. 'Red Splendor';Malus hybr. 'Red Splendor';NA;NA
+traeart;Malus hybr. 'Robusta';Malus hybr. robusta;fix latin name;NA
+traeart;Malus hybr. 'Rudolf';Malus hybr. 'Rudolf';NA;NA
+traeart;Malus hybr. 'Street Parade';Malus baccata 'Street Parade';fix latin name;NA
+traeart;Malus hybr. 'david';Malus hybr. 'david';NA;NA
+traeart;Malus hybrid Hyslop;Malus hybr. 'Hyslop';normalize hybrid marker;NA
+traeart;Malus ioensis  'Plena';Malus ioensis  'Plena';NA;NA
+traeart;Malus rubinola;Malus domestica 'Rubinola';insert species for cultivars;NA
+traeart;Malus sargentii;Malus sargentii;NA;NA
+traeart;Malus sieboldii;Malus sieboldii;NA;NA
+traeart;Malus sieboldii  'Browers beauty';Malus sieboldii 'Brouwers beauty';cultivar spelling fix;NA
+traeart;Malus sieboldii  'Freja';Malus sieboldii 'Freja';fix whitespace;NA
+traeart;Malus sieboldii 'Hesse';Malus sieboldii 'Hesse';fix whitespace;NA
+traeart;Malus sp.;Malus sp.;NA;NA
+traeart;Malus sylvestris;Malus sylvestris;NA;NA
+traeart;Malus sylvestris 'Masyl';Malus sylvestris 'Masyl';NA;NA
+traeart;Malus toringo;Malus toringo;NA;NA
+traeart;Malus trilobata;Malus trilobata;NA;NA
+traeart;Malus tschonoskii;Malus tschonoskii;NA;NA

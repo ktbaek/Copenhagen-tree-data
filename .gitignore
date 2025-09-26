@@ -1,0 +1,10 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*cache/
+code/
+output/kk_trees*
+raw_data/
