@@ -10,8 +10,8 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 2. Check that year of planting is not out of bounds
 3. Swap accented letters in the scientific names for accepted latin letters
 4. De-capitalize Danish names with multiple words
-5. Normalize hybrid markers (e.g. x to hybr.)
-6. Normalize cultivar quotes (e.g. " to ')
+5. Normalize hybrid markers (e.g. `x` to `hybr.`)
+6. Normalize cultivar quotes (e.g. `"` to `'`)
 7. Fix mistakes in scientific names (e.g. spelling, missing species epiphet in cultivars, missing hybrid markers) according to [these rules](rules/latin_rules.csv)
 8. Fix mistakes in Danish names (e.g. spelling, compound words) according to [these rules](rules/da_rules.csv)
 9. Separate scientific names into their components
