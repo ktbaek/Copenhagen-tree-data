@@ -15,7 +15,7 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 7. Fix mistakes in scientific names (e.g. spelling, missing species epiphet in cultivars, missing hybrid markers) according to [these rules](rules/latin_rules.csv).
 8. Fix mistakes in Danish names (e.g. spelling, compound words) according to [these rules](rules/da_rules.csv).
 9. Separate scientific names into their components
-10. Fix Danish names based on the scientific name (incl. special names for cultivars and variants) according to [these](rules/latin_da_map.csv) and [these](rules/latin_da_map_malus.csv) rules.
+10. Fix Danish names based on the scientific name (incl. special names for cultivars and variants) according to [these](rules/latin_da_map.csv) and [these](rules/latin_da_map_malus.csv) rules. These rules are not yet complete, but reflect an ongoing effort.
 11. Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv).
 
 Step 10 and 11 assumes the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.  
