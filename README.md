@@ -19,7 +19,7 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 11. Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv)
 12. Flag entries with identical locations.
 
-Step 10 and 11 assumes the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
+Steps 10 and 11 assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
 
 The rule sets are not yet complete, but reflect an ongoing effort.
 
@@ -28,6 +28,6 @@ All changes have been recorded in a [changelog](output/). So far, ~17,000 change
 
 ## Online Shiny-app
 
-I used the cleaned dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen!
+I used the cleaned and quality controlled dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen!
 
 ![App image](app_screenshot.png)
