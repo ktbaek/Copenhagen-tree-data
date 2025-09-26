@@ -1,540 +1,540 @@
-code;value_from;value_to;message;n
-DUPLICATE_UUID_DROPPED;2 rows;1 row;UUID deleted when all values identical;1
-ILLEGAL_CHAR_LATIN;Liquidámbar styracíflua;Liquidambar styraciflua;remove accents;43
-ILLEGAL_CHAR_LATIN;Cedrús atlántica;Cedrus atlantica;remove accents;6
-ILLEGAL_CHAR_LATIN;Ácer gríseum;Acer griseum;remove accents;20
-ILLEGAL_CHAR_LATIN;Prúnus sérrula;Prunus serrula;remove accents;14
-ILLEGAL_CHAR_LATIN;Táxus baccáta;Taxus baccata;remove accents;82
-ILLEGAL_CHAR_LATIN;Fráxinus pennsylvánica;Fraxinus pennsylvanica;remove accents;35
-ILLEGAL_CHAR_LATIN;Sórbus commíxta;Sorbus commixta;remove accents;27
-ILLEGAL_CHAR_LATIN;Ácer tatáricum;Acer tataricum;remove accents;8
-ILLEGAL_CHAR_LATIN;Nothofágus antárctica;Nothofagus antarctica;remove accents;30
-ILLEGAL_CHAR_LATIN;Fágus sylvática 'Atropunicea';Fagus sylvatica 'Atropunicea';remove accents;14
-ILLEGAL_CHAR_LATIN;Pterocárya fraxinifólia;Pterocarya fraxinifolia;remove accents;39
-ILLEGAL_CHAR_LATIN;Sórbus commixta 'Dodong';Sorbus commixta 'Dodong';remove accents;45
-ILLEGAL_CHAR_LATIN;Davídia involuncráta;Davidia involuncrata;remove accents;17
-ILLEGAL_CHAR_LATIN;Liriodéndron tulipífera;Liriodendron tulipifera;remove accents;108
-ILLEGAL_CHAR_LATIN;Magnólia sp.;Magnolia sp.;remove accents;17
-ILLEGAL_CHAR_LATIN;Paulównia tomentósa;Paulownia tomentosa;remove accents;39
-ILLEGAL_CHAR_LATIN;Cercidiphýllum japónicum;Cercidiphyllum japonicum;remove accents;41
-ILLEGAL_CHAR_LATIN;Prunus subhirtélla 'Accolade';Prunus subhirtella 'Accolade';remove accents;74
-ILLEGAL_CHAR_LATIN;Mórus álba;Morus alba;remove accents;5
-ILLEGAL_CHAR_LATIN;Amelánchier laevis;Amelanchier laevis;remove accents;64
-ILLEGAL_CHAR_LATIN;Pínus tabulifórmis;Pinus tabuliformis;remove accents;3
-ILLEGAL_CHAR_LATIN;Bétula maximowicziána;Betula maximowicziana;remove accents;4
-ILLEGAL_CHAR_LATIN;Catálpa bignonioídes;Catalpa bignonioides;remove accents;14
-ILLEGAL_CHAR_LATIN;Cedrús líbani;Cedrus libani;remove accents;17
-ILLEGAL_CHAR_LATIN;Ácer rúbrum;Acer rubrum;remove accents;17
-ILLEGAL_CHAR_LATIN;Cydónia oblónga;Cydonia oblonga;remove accents;17
-ILLEGAL_CHAR_LATIN;Mórus nígra;Morus nigra;remove accents;20
-ILLEGAL_CHAR_LATIN;Fágus orientális;Fagus orientalis;remove accents;10
-ILLEGAL_CHAR_LATIN;Quércus x túrneri;Quercus x turneri;remove accents;8
-ILLEGAL_CHAR_LATIN;Bétula papyrífera;Betula papyrifera;remove accents;14
-ILLEGAL_CHAR_LATIN;Ácer argutum;Acer argutum;remove accents;5
-ILLEGAL_CHAR_LATIN;Zelkóva serráta;Zelkova serrata;remove accents;11
-ILLEGAL_CHAR_LATIN;Sórbus doméstica;Sorbus domestica;remove accents;3
-ILLEGAL_CHAR_LATIN;Júglans nígra;Juglans nigra;remove accents;11
-ILLEGAL_CHAR_LATIN;Fágus sylvática 'Asplenifolia';Fagus sylvatica 'Asplenifolia';remove accents;4
-ILLEGAL_CHAR_LATIN;Sequoiadéndron gigantéum;Sequoiadendron giganteum;remove accents;6
-ILLEGAL_CHAR_LATIN;Rhus potanínii;Rhus potaninii;remove accents;5
-ILLEGAL_CHAR_LATIN;Méspilus germánica;Mespilus germanica;remove accents;12
-ILLEGAL_CHAR_LATIN;Tetradium daniéllii;Tetradium daniellii;remove accents;3
-ILLEGAL_CHAR_LATIN;Ácer carpinifólium;Acer carpinifolium;remove accents;1
-ILLEGAL_CHAR_LATIN;Pterocárya sp.;Pterocarya sp.;remove accents;1
-ILLEGAL_CHAR_LATIN;Álnus inokumea;Alnus inokumea;remove accents;6
-ILLEGAL_CHAR_LATIN;Cydónia sp.;Cydonia sp.;remove accents;5
-ILLEGAL_CHAR_LATIN;Pterocárya rhederiana;Pterocarya rhederiana;remove accents;1
-ILLEGAL_CHAR_LATIN;Méspilus sp.;Mespilus sp.;remove accents;2
-ILLEGAL_CHAR_LATIN;Robínia luxúrians;Robinia luxurians;remove accents;1
-WRONG_CASE_DANISH;Park-Lind;Park-lind;to sentence case;2238
-WRONG_CASE_DANISH;rød-el;Rød-el;to sentence case;222
-WRONG_CASE_DANISH;Kirsebær/Blomme;Kirsebær/blomme;to sentence case;501
-WRONG_CASE_DANISH;Blå Douglasgran;Blå douglasgran;to sentence case;4
-WRONG_CASE_DANISH;Hybrid-Lærk;Hybrid-lærk;to sentence case;26
-WRONG_CASE_DANISH;ildløn;Ildløn;to sentence case;22
-WRONG_CASE_DANISH;Selje Pil;Selje pil;to sentence case;10
-WRONG_CASE_DANISH;Europæisk Humlebøg;Europæisk humlebøg;to sentence case;16
-WRONG_CASE_DANISH;Kirsebærblomme/Mirabel;Kirsebærblomme/mirabel;to sentence case;55
-WRONG_CASE_DANISH;Yoshino-Kirsebær;Yoshino-kirsebær;to sentence case;13
-WRONG_CASE_DANISH;Hybrid-Guldregn;Hybrid-guldregn;to sentence case;16
-WRONG_CASE_DANISH;Almindelig Sumpcypres;Almindelig sumpcypres;to sentence case;34
-WRONG_CASE_DANISH;Almindelig Benved;Almindelig benved;to sentence case;10
-WRONG_CASE_DANISH;Hybrid-Troldnød;Hybrid-troldnød;to sentence case;3
-WRONG_CASE_DANISH;Clara Frijs-pære;Clara frijs-pære;to sentence case;6
-WRONG_CASE_DANISH;Bjerg-Hemlock;Bjerg-hemlock;to sentence case;3
-WRONG_CASE_DANISH;Californisk Nøddetaks;Californisk nøddetaks;to sentence case;2
-WRONG_CASE_DANISH;Sten-Eg;Sten-eg;to sentence case;2
-WRONG_CASE_DANISH;Indiansk banan (Pawpaw);Indiansk banan (pawpaw);to sentence case;3
-WRONG_CASE_DANISH;Skovfyr fra Norge;Skovfyr fra norge;to sentence case;7
-WRONG_CASE_DANISH;Sølvgran Nobilis;Sølvgran nobilis;to sentence case;22
-WRONG_CASE_DANISH;Gul Hestekastanje;Gul hestekastanje;to sentence case;1
-WRONG_CASE_DANISH;Glat Hestekastanje;Glat hestekastanje;to sentence case;3
-WRONG_CASE_DANISH;Adams Guldregn;Adams guldregn;to sentence case;1
-WRONG_CASE_DANISH;Kaukasisk Blærenød;Kaukasisk blærenød;to sentence case;1
-WRONG_CASE_DANISH;Japansk Løn;Japansk løn;to sentence case;5
-WRONG_CASE_DANISH;Japansk Hemlock;Japansk hemlock;to sentence case;1
-WRONG_CASE_DANISH;Rhusbladet Vingevalnød;Rhusbladet vingevalnød;to sentence case;2
-WRONG_CASE_DANISH;Askebladet Løn;Askebladet løn;to sentence case;1
-WRONG_CASE_DANISH;Spansk Ædelgran;Spansk ædelgran;to sentence case;1
-WRONG_CASE_DANISH;Tyrkisk Løn;Tyrkisk løn;to sentence case;1
-WRONG_CASE_DANISH;Tjørnebladet Løn;Tjørnebladet løn;to sentence case;1
-WRONG_CASE_DANISH;Europæisk Judastræ;Europæisk judastræ;to sentence case;1
-WRONG_CASE_DANISH;Fuldmåne Løn;Fuldmåne løn;to sentence case;1
-WRONG_CASE_DANISH;Skarlagens Eg;Skarlagens eg;to sentence case;2
-WRONG_CASE_DANISH;Armensk Eg;Armensk eg;to sentence case;1
-WRONG_CASE_DANISH;Sakhalin Kirsebær;Sakhalin kirsebær;to sentence case;1
-WRONG_CASE_DANISH;Rødbladet Stilkeg;Rødbladet stilkeg;to sentence case;1
-WRONG_CASE_DANISH;Ellebladet Røn;Ellebladet røn;to sentence case;1
-WRONG_CASE_DANISH;Grøn Douglasgran;Grøn douglasgran;to sentence case;1
-APPLIED_REGEX_RULE;Prunus x hilleri 'Spire';Prunus hybr. hilleri 'Spire';normalize hybrid marker;10
-APPLIED_REGEX_RULE;Tilia x 'Zwarte Linde';Tilia hybr. 'Zwarte Linde';normalize hybrid marker;9
-APPLIED_REGEX_RULE;Hamamelis X intermedia;Hamamelis hybr. intermedia;normalize hybrid marker;3
-APPLIED_REGEX_RULE;Prunus x 'Stevnsbær';Prunus hybr. 'Stevnsbær';normalize hybrid marker;15
-APPLIED_REGEX_RULE;Malus x 'Elstar';Malus hybr. 'Elstar';normalize hybrid marker;19
-APPLIED_REGEX_RULE;Quercus x turneri;Quercus hybr. turneri;normalize hybrid marker;8
-APPLIED_REGEX_RULE;Malus x 'James Greive';Malus hybr. 'James Greive';normalize hybrid marker;7
-APPLIED_REGEX_RULE;Robinia x margaretta 'Pink Cascade';Robinia hybr. margaretta 'Pink Cascade';normalize hybrid marker;2
-APPLIED_REGEX_RULE;Prunus x 'Stella';Prunus hybr. 'Stella';normalize hybrid marker;4
-APPLIED_REGEX_RULE;Magnolia x Soulangiana;Magnolia hybr. Soulangiana;normalize hybrid marker;8
-APPLIED_REGEX_RULE;Magnolia x 'Galaxy';Magnolia hybr. 'Galaxy';normalize hybrid marker;2
-APPLIED_REGEX_RULE;Catalpa X erubescens;Catalpa hybr. erubescens;normalize hybrid marker;1
-APPLIED_REGEX_RULE;Prunus X amygdalo-persica;Prunus hybr. amygdalo-persica;normalize hybrid marker;2
-APPLIED_REGEX_RULE;Magnolia x thompsoniana;Magnolia hybr. thompsoniana;normalize hybrid marker;1
-APPLIED_REGEX_RULE;Acer x zoeschense 'Annae';Acer hybr. zoeschense 'Annae';normalize hybrid marker;1
-APPLIED_REGEX_RULE;Viburnum x bodnantense;Viburnum hybr. bodnantense;normalize hybrid marker;3
-APPLIED_REGEX_RULE;"Carpinus betulus ""Frans Fontaine""";Carpinus betulus 'Frans Fontaine';normalize cultivar style;27
-APPLIED_REGEX_RULE;"Fagus sylvatica ""Dawyck""";Fagus sylvatica 'Dawyck';normalize cultivar style;1
-APPLIED_REGEX_RULE;Ulmus minor  ”Suberosa”;Ulmus minor  'Suberosa';normalize cultivar style;1
-APPLIED_REGEX_RULE;Fraxinus pensylvanica 'Zundert';Fraxinus pennsylvanica 'Zundert';latin spelling fix;627
-APPLIED_REGEX_RULE;Prunus ceracifera 'Nigra';Prunus cerasifera 'Nigra';latin spelling fix;107
-APPLIED_REGEX_RULE;Prunus mackii 'Amber Shade';Prunus maackii 'Amber Shade';latin spelling fix;2
-APPLIED_REGEX_RULE;Almus inceana;Alnus incana;latin spelling fix;76
-APPLIED_REGEX_RULE;Amelachier canadensis;Amelanchier canadensis;latin spelling fix;65
-APPLIED_REGEX_RULE;Aronia meloncarpia;Aronia melanocarpa;latin spelling fix;3
-APPLIED_REGEX_RULE;Tilia plathyphyllos 'Odin';Tilia platyphyllos 'Odin';latin spelling fix;9
-APPLIED_REGEX_RULE;Alnus inokumea;Alnus inokumae;latin spelling fix;6
-APPLIED_REGEX_RULE;Forthergilla major;Fothergilla major;latin spelling fix;1
-APPLIED_REGEX_RULE;Zanthozylum piperitum;Zanthoxylum piperitum;latin spelling fix;4
-APPLIED_REGEX_RULE;Hippophea rhamnoides;Hippophae rhamnoides;latin spelling fix;5
-APPLIED_REGEX_RULE;Laburnocytisus adami;+Laburnocytisus adami;latin normalization;1
-APPLIED_REGEX_RULE;Physocarbus opulifolius  'El Diabolo';Physocarpus opulifolius  'El Diabolo';latin spelling fix;1
-APPLIED_REGEX_RULE;Sambuscus nigra;Sambucus nigra;latin spelling fix;12
-APPLIED_REGEX_RULE;Sambuscus sp.;Sambucus sp.;latin spelling fix;30
-APPLIED_REGEX_RULE;Davidia involucrate 'Vilmoriniana';Davidia involucrata 'Vilmoriniana';latin spelling fix;1
-APPLIED_REGEX_RULE;Davidia involuncrata;Davidia involucrata;latin spelling fix;17
-APPLIED_REGEX_RULE;Malus sieboldie  'Browers beauty';Malus sieboldii  'Browers beauty';latin spelling fix;3
-APPLIED_REGEX_RULE;Malus sieboldie  'Freja';Malus sieboldii  'Freja';latin spelling fix;1
-APPLIED_REGEX_RULE;Hamamelis 'brevitala';Hamamelis 'Brevipetala';latin spelling fix;1
-APPLIED_REGEX_RULE;Picea punges 'Argenta';Picea pungens 'Argenta';latin spelling fix;1
-APPLIED_REGEX_RULE;Pseudotsuga menziezii var. caesia;Pseudotsuga menziesii var. caesia;latin spelling fix;14
-APPLIED_REGEX_RULE;Pseudotsuga menziezii var. glauca;Pseudotsuga menziesii var. glauca;latin spelling fix;4
-APPLIED_REGEX_RULE;Pseudotsuga menziezii var. menziezii;Pseudotsuga menziesii var. menziezii;latin spelling fix;1
-APPLIED_REGEX_RULE;Betula albo sinensis;Betula albosinensis;latin compound word;1
-APPLIED_REGEX_RULE;Larix eurolepis;Larix hybr. eurolepis;add hybrid marker;14
-APPLIED_REGEX_RULE;Populus canescens;Populus hybr. canescens;add hybrid marker;2
-APPLIED_REGEX_RULE;Populus canadensis;Populus hybr. canadensis;add hybrid marker;11
-APPLIED_REGEX_RULE;Populus canadensis 'Bachalierii';Populus hybr. canadensis 'Bachalierii';add hybrid marker;6
-APPLIED_REGEX_RULE;Populus canadensis 'De Moffat';Populus hybr. canadensis 'De Moffat';add hybrid marker;16
-APPLIED_REGEX_RULE;Populus gileadensis;Populus hybr. gileadensis;add hybrid marker;1
-APPLIED_REGEX_RULE;Acer freemanii 'Elegant';Acer hybr. freemanii 'Elegant';add hybrid marker;17
-APPLIED_REGEX_RULE;Acer freemanii X;Acer hybr. freemanii;add hybrid marker;1
-APPLIED_REGEX_RULE;Tilia europaea;Tilia hybr. europaea;add hybrid marker;2238
-APPLIED_REGEX_RULE;Aesculus hippoc. 'Baumannii';Aesculus hippocastanum 'Baumannii';latin expand abbrev.;20
-APPLIED_REGEX_RULE;Acer pseudoplatanoides 'Spaethii';Acer pseudoplatanus 'Spaethii';could also be platanoides;5
-APPLIED_REGEX_RULE;Ulmus Fiorente;Ulmus hybr. 'Fiorente';add hybrid marker;22
-APPLIED_REGEX_RULE;Ulmus 'New Horizon';Ulmus hybr. 'New Horizon';add hybrid marker;261
-APPLIED_REGEX_RULE;Ulmus 'Rebona';Ulmus hybr. 'Rebona';add hybrid marker;143
-APPLIED_REGEX_RULE;Ulmus 'Columella';Ulmus hybr. 'Columella';add hybrid marker;95
-APPLIED_REGEX_RULE;Ulmus 'Regal';Ulmus hybr. 'Regal';add hybrid marker;1
-APPLIED_REGEX_RULE;Ulmus 'Sapporo Autumn Gold';Ulmus hybr. 'Sapporo Autumn Gold';add hybrid marker;1
-APPLIED_REGEX_RULE;Ulmus 'Vada';Ulmus hybr. 'Vada';add hybrid marker;6
-APPLIED_REGEX_RULE;Aesculus carnea;Aesculus hybr. carnea;add hybrid marker;21
-APPLIED_REGEX_RULE;Ginkgo sp.;Ginkgo biloba;monotypic extant;1
-APPLIED_REGEX_RULE;Metasequoia sp.;Metasequoia glyptostroboides;monotypic extant;3
-APPLIED_REGEX_RULE;Larix leptolepis;Larix kaempferi;latin synonym -> accepted;1
-APPLIED_REGEX_RULE;Crytomeria japonica;Cryptomeria japonica;latin spelling fix;2
-APPLIED_REGEX_RULE;Eleagnus angustifolia;Elaeagnus angustifolia;latin spelling fix;30
-APPLIED_REGEX_RULE;Sophora japonica (Styphnolobium japonica);Styphnolobium japonica;latin accepted genus;9
-APPLIED_REGEX_RULE;Magnolia hybr. Soulangiana;Magnolia hybr. soulangeana;latin case fix;8
-APPLIED_REGEX_RULE;Prunus 'Rivers Early Prolific';Prunus domestica 'Rivers Early Prolific';insert species for cultivars;3
-APPLIED_REGEX_RULE;Pyrus 'Grev Moltke';Pyrus communis 'Grev Moltke';insert species for cultivars;1
-APPLIED_REGEX_RULE;Ribes 'Jonkheer Van Tets';Ribes rubrum 'Jonkheer Van Tets';insert species for cultivars;7
-APPLIED_REGEX_RULE;Ribes 'Rondom';Ribes rubrum 'Rondom';insert species for cultivars;16
-APPLIED_REGEX_RULE;Amelanchier 'Autumn Brilliance';Amelanchier hybr. grandiflora 'Autumn Brilliance';insert species for cultivars;1
-APPLIED_REGEX_RULE;Hamamelis 'Brevipetala';Hamamelis hybr. intermedia 'Brevipetala';insert species for cultivars;1
-APPLIED_REGEX_RULE;Prunus domestica 'Incititia';Prunus domestica ssp. insisitia;cultivar to subspecies;18
-APPLIED_REGEX_RULE;Prunus 'Italiensk sveske';Prunus domestica 'Italiensk sveske';insert species for cultivars;3
-APPLIED_REGEX_RULE;Malus 'Alice Balsgaard';Malus domestica 'Alice Balsgaard';insert species for cultivars;2
-APPLIED_REGEX_RULE;Malus 'Angold';Malus domestica 'Angold';insert species for cultivars;2
-APPLIED_REGEX_RULE;Malus 'Bramley's Seedling';Malus domestica 'Bramley's Seedling';insert species for cultivars;3
-APPLIED_REGEX_RULE;Malus 'Cox Orange';Malus domestica 'Cox Orange';insert species for cultivars;5
-APPLIED_REGEX_RULE;Malus 'Cox Queen';Malus domestica 'Cox Queen';insert species for cultivars;3
-APPLIED_REGEX_RULE;Malus 'Golden Hornet';Malus hybr. 'Golden Hornet';insert species for cultivars;6
-APPLIED_REGEX_RULE;Malus 'Holsteiner Cox';Malus domestica 'Holsteiner Cox';insert species for cultivars;7
-APPLIED_REGEX_RULE;Malus 'Neville Copeman';Malus hybr. 'Neville Copeman';insert species for cultivars;5
-APPLIED_REGEX_RULE;Malus 'Rød ananas';Malus domestica 'Rød ananas';insert species for cultivars;14
-APPLIED_REGEX_RULE;Malus 'Säftaholm';Malus domestica 'Säftaholm';insert species for cultivars;1
-APPLIED_REGEX_RULE;Malus 'Topaz';Malus domestica 'Topaz';insert species for cultivars;3
-APPLIED_REGEX_RULE;Malus 'Åkerø Hassel';Malus domestica 'Åkerø Hassel';insert species for cultivars;1
-APPLIED_REGEX_RULE;Malus Signe Tillisch;Malus domestica 'Signe Tillisch';insert species for cultivars;2
-APPLIED_REGEX_RULE;Malus discovery;Malus domestica 'Discovery';insert species for cultivars;5
-APPLIED_REGEX_RULE;Malus floribunda;Malus hybr. floribunda;add hybrid marker;51
-APPLIED_REGEX_RULE;Malus hybr. 'Akso';Malus baccata 'Akso';fix latin name;22
-APPLIED_REGEX_RULE;Malus hybr. 'James Greive';Malus domestica 'James Grieve';fix latin name;7
-APPLIED_REGEX_RULE;Malus hybr. 'Robusta';Malus hybr. robusta;fix latin name;1
-APPLIED_REGEX_RULE;Malus hybr. 'Street Parade';Malus baccata 'Street Parade';fix latin name;70
-APPLIED_REGEX_RULE;Malus hybrid Hyslop;Malus hybr. 'Hyslop';normalize hybrid marker;15
-APPLIED_REGEX_RULE;Malus rubinola;Malus domestica 'Rubinola';insert species for cultivars;1
-APPLIED_REGEX_RULE;Malus sieboldii  'Browers beauty';Malus sieboldii 'Brouwers beauty';cultivar spelling fix;3
-APPLIED_REGEX_RULE;Malus sieboldii  'Freja';Malus sieboldii 'Freja';fix whitespace;1
-APPLIED_REGEX_RULE;Alm. æble 'Åkerø Hassel';Almindelig æble 'Åkerø Hassel';danish expand abbrev.;1
-APPLIED_REGEX_RULE;Alm. æble 'Signe Tillisch';Almindelig æble 'Signe Tillisch';danish expand abbrev.;2
-APPLIED_REGEX_RULE;Alm. æble 'Katja';Almindelig æble 'Katja';danish expand abbrev.;1
-APPLIED_REGEX_RULE;Alm. æble 'Angold';Almindelig æble 'Angold';danish expand abbrev.;2
-APPLIED_REGEX_RULE;Alm. æble 'Cox Queen';Almindelig æble 'Cox Queen';danish expand abbrev.;3
-APPLIED_REGEX_RULE;Alm. æble 'Säftaholm';Almindelig æble 'Säftaholm';danish expand abbrev.;1
-APPLIED_REGEX_RULE;Alm. æble 'Goldparmäne';Almindelig æble 'Goldparmäne';danish expand abbrev.;1
-APPLIED_REGEX_RULE;Hestekastanie;Hestekastanje;danish name spelling fix;2432
-APPLIED_REGEX_RULE;Kastanie;Kastanje;danish name spelling fix;105
-APPLIED_REGEX_RULE;Ægte kastanie;Ægte kastanje;danish name spelling fix;93
-APPLIED_REGEX_RULE;Fyldtblomstret hestekastanie;Fyldtblomstret hestekastanje;danish name spelling fix;20
-APPLIED_REGEX_RULE;Rød hestekastanie;Rød hestekastanje;danish name spelling fix;32
-APPLIED_REGEX_RULE;Busk-hestekastanie;Busk-hestekastanje;danish name spelling fix;1
-APPLIED_REGEX_RULE;Virginsk hestekastanie;Virginsk hestekastanje;danish name spelling fix;1
-APPLIED_REGEX_RULE;Vortebrik;Vortebirk;danish name spelling fix;273
-APPLIED_REGEX_RULE;Smallbladet sølvblad;Smalbladet sølvblad;danish name spelling fix;30
-APPLIED_REGEX_RULE;Parybusk;Parykbusk;danish name spelling fix;2
-APPLIED_REGEX_RULE;Ambertræ;Ambratræ;danish name spelling fix;61
-APPLIED_REGEX_RULE;Almindelig magnolia;Almindelig magnolie;danish name spelling fix;19
-APPLIED_REGEX_RULE;Magnolia;Magnolie;danish name spelling fix;96
-APPLIED_REGEX_RULE;Magnolia hybr. loebneri 'Merrill';Magnolie hybr. loebneri 'Merrill';danish name spelling fix;8
-APPLIED_REGEX_RULE;Magnolia 'Galaxy';Magnolie 'Galaxy';danish name spelling fix;2
-APPLIED_REGEX_RULE;Japansk magnolia;Japansk magnolie;danish name spelling fix;24
-APPLIED_REGEX_RULE;Robinia 'Pink Cascade';Robinie 'Pink Cascade';danish name spelling fix;2
-APPLIED_REGEX_RULE;Skarlagens eg;Skarlagen-eg;danish name compund word;2
-APPLIED_REGEX_RULE;Hybrid løn 'Annae';Hybrid-løn 'Annae';danish name compund word;1
-APPLIED_REGEX_RULE;Fuldmåne løn;Fuldmåne-løn;danish name compund word;1
-APPLIED_REGEX_RULE;Kugle ahorn;Kugleahorn;danish name compund word;1
-APPLIED_REGEX_RULE;Grå el;Gråel;danish name compund word;76
-APPLIED_REGEX_RULE;Rød-el;Rødel;danish name compund word;353
-APPLIED_REGEX_RULE;Frynse-eg;Frynseeg;danish name compund word;199
-APPLIED_REGEX_RULE;Stilk-eg;Stilkeg;danish name compund word;1135
-APPLIED_REGEX_RULE;Stilk-eg 'Pectinata';Stilkeg 'Pectinata';danish name compund word;5
-APPLIED_REGEX_RULE;Pyramide avnbøg;Pyramideavnbøg;danish name compund word;261
-APPLIED_REGEX_RULE;Hænge ask;Hængeask;danish name compund word;1
-APPLIED_REGEX_RULE;Manna ask;Manna-ask;danish name compund word;39
-APPLIED_REGEX_RULE;Sakhalin-kirsebær;Sakhalinkirsebær;danish name compund word;16
-APPLIED_REGEX_RULE;Sakhalin kirsebær;Sakhalinkirsebær;danish name compund word;1
-APPLIED_REGEX_RULE;Turner eg;Turner-eg;danish name compund word;8
-APPLIED_REGEX_RULE;Pragt robinie;Pragtrobinie;danish name compund word;1
-APPLIED_REGEX_RULE;Selje pil;Seljepil;danish name compund word;10
-APPLIED_REGEX_RULE;Purpur pil;Purpurpil;danish name compund word;2
-APPLIED_REGEX_RULE;Skærm elm;Skærmelm;danish name compund word;10
-APPLIED_REGEX_RULE;Charneau pære;Charneau-pære;danish name compund word;3
-APPLIED_REGEX_RULE;Ægte kastanje;Kastanje;danish genus name fix;1
-APPLIED_REGEX_RULE;Clara frijs-pære;Clara Frijs-pære;backcorrect case fix;6
-APPLIED_DICT_RULE;Birk, pollenfri;Fligbladet birk (pollenfri);change danish name based on latin name;154
-APPLIED_DICT_RULE;Pyrus caucasica, ikke navngivet på dansk;Prydpære;change danish name based on latin name;58
-APPLIED_DICT_RULE;Tretorn;Almindelig tretorn;change danish name based on latin name;359
-APPLIED_DICT_RULE;Bøg;Almindelig bøg;change danish name based on latin name;537
-APPLIED_DICT_RULE;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;change danish name based on latin name;159
-APPLIED_DICT_RULE;NA;Kinesisk ligkistetræ;change danish name based on latin name;3
-APPLIED_DICT_RULE;Lærk;Hybrid-lærk;change danish name based on latin name;14
-APPLIED_DICT_RULE;Hvidtjørn;Engriflet hvidtjørn;change danish name based on latin name;36
-APPLIED_DICT_RULE;Gingko;Tempeltræ;change danish name based on latin name;1
-APPLIED_DICT_RULE;Balsampoppel;Vestamerikansk balsampoppel;change danish name based on latin name;19
-APPLIED_DICT_RULE;NA;Almindelig magnolie;change danish name based on latin name;8
-APPLIED_DICT_RULE;NA;Hjortetaktræ;change danish name based on latin name;2
-APPLIED_DICT_RULE;NA;Kaukasisk vrietorn;change danish name based on latin name;1
-APPLIED_DICT_RULE;Bitræ;Honningtræ;change danish name based on latin name;3
-APPLIED_DICT_RULE;NA;Hortensia;change danish name based on latin name;1
-APPLIED_DICT_RULE;NA;Williamsianum rhododendron;change danish name based on latin name;1
-APPLIED_DICT_RULE;NA;Japansk lærk;change danish name based on latin name;1
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Butterball';change danish name based on latin name;80
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Braendkjaer';change danish name based on latin name;114
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Rudolf';change danish name based on latin name;17
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Red Splendor';change danish name based on latin name;8
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Evereste';change danish name based on latin name;331
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Ingrid Marie';change danish name based on latin name;27
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Aroma';change danish name based on latin name;13
-APPLIED_DICT_RULE;Cox orange æble;Almindelig æble 'Cox Orange';change danish name based on latin name;5
-APPLIED_DICT_RULE;Æble 'Snowdrift';Paradisæble 'Snowdrift';change danish name based on latin name;3
-APPLIED_DICT_RULE;Malus sieboldii;Japansk prydæble;change danish name based on latin name;46
-APPLIED_DICT_RULE;Æble 'Alice Balsgaard';Almindelig æble 'Alice Balsgaard';change danish name based on latin name;2
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Dir. Moerland';change danish name based on latin name;17
-APPLIED_DICT_RULE;Æble;Sargents æble;change danish name based on latin name;14
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'John Downie';change danish name based on latin name;28
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Street Parade';change danish name based on latin name;70
-APPLIED_DICT_RULE;Japansk prydæble;Japansk prydæble 'Hesse';change danish name based on latin name;85
-APPLIED_DICT_RULE;Æble 'Belle De Boskoop';Almindelig æble 'Rød Belle De Boskoop';change danish name based on latin name;5
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Gorgeous';change danish name based on latin name;57
-APPLIED_DICT_RULE;Æble 'Hyslop';Paradisæble 'Hyslop';change danish name based on latin name;15
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Red Sentinel';change danish name based on latin name;26
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Filippa';change danish name based on latin name;25
-APPLIED_DICT_RULE;Æble 'Rød aroma';Almindelig æble 'Rød aroma';change danish name based on latin name;4
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'david';change danish name based on latin name;2
-APPLIED_DICT_RULE;Æble 'Elstar';Paradisæble 'Elstar';change danish name based on latin name;19
-APPLIED_DICT_RULE;Æble 'Holsteiner Cox';Almindelig æble 'Holsteiner Cox';change danish name based on latin name;7
-APPLIED_DICT_RULE;Æble 'Bøghs citronæble';Almindelig æble 'Bøghs citronæble';change danish name based on latin name;3
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Rød Gråsten';change danish name based on latin name;19
-APPLIED_DICT_RULE;Rød ananas æble;Almindelig æble 'Rød ananas';change danish name based on latin name;14
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Akso';change danish name based on latin name;22
-APPLIED_DICT_RULE;Æble 'Jame Grieve';Almindelig æble 'James Grieve';change danish name based on latin name;7
-APPLIED_DICT_RULE;Æble discovery;Almindelig æble 'Discovery';change danish name based on latin name;5
-APPLIED_DICT_RULE;Æble rubinola;Almindelig æble 'Rubinola';change danish name based on latin name;1
-APPLIED_DICT_RULE;Æble 'Bramley's Seedlings';Almindelig æble 'Bramley';change danish name based on latin name;3
-APPLIED_DICT_RULE;Æble 'Nanna';Almindelig æble 'Nanna';change danish name based on latin name;3
-APPLIED_DICT_RULE;Æble 'Golden Delicious';Almindelig æble 'Golden Delicious';change danish name based on latin name;1
-APPLIED_DICT_RULE;Malus 'Spartan';Almindelig æble 'Spartan';change danish name based on latin name;1
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Ildrød Pigeon';change danish name based on latin name;5
-APPLIED_DICT_RULE;Almindelig æble;Almindelig æble 'Guldborg';change danish name based on latin name;11
-APPLIED_DICT_RULE;Paradisæble;Paradisæble 'Professor Sprenger';change danish name based on latin name;13
-APPLIED_DICT_RULE;Paradisæble;Japansk prydæble 'Brouwers beauty';change danish name based on latin name;3
-APPLIED_DICT_RULE;Paradisæble;Japansk prydæble 'Freja';change danish name based on latin name;1
-APPLIED_DICT_RULE;Japansk paradisæble;Fujiyama-æble;change danish name based on latin name;7
-APPLIED_DICT_RULE;Æble 'Katinka';Almindelig æble 'Katinka';change danish name based on latin name;5
-APPLIED_DICT_RULE;Æble 'Gul Gråsten';Almindelig æble 'Gul Gråsten';change danish name based on latin name;1
-APPLIED_DICT_RULE;Æble 'Topaz';Almindelig æble 'Topaz';change danish name based on latin name;3
-APPLIED_DICT_RULE;Kirsebær/Blomme;Løn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Platan;Løn;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Sumak;Løn;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Ædelgran;Løn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Ask;Løn;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Albizia (Ærteblomst-fam,);Albizia;fix danish genus based on binomial;10
-APPLIED_DICT_RULE;Røn;El;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Araucarie;Abeskræk;fix danish genus based on binomial;9
-APPLIED_DICT_RULE;Buxbom;Buksbom;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Bøg;Avnbøg;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Judastræs slægten;Judastræ;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Dværgcypres;Dværgcypres/Ædelcypres;fix danish genus based on binomial;114
-APPLIED_DICT_RULE;Kladrastis;Cladrastis;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Trompetkrone;Hassel;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Kornel;Hassel;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;El;Hassel;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Avnbøg;Tjørn;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Tretorn;Tjørn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Hestekastanje;Tjørn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Pil;Cunninghamia;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Pære;Kvæde;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Avnbøg;Bøg;fix danish genus based on binomial;4
-APPLIED_DICT_RULE;Ask;Bøg;fix danish genus based on binomial;6
-APPLIED_DICT_RULE;Stor troldel;Troldel;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Kirsebær/Blomme;Ask;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Gingko;Tempeltræ;fix danish genus based on binomial;159
-APPLIED_DICT_RULE;Bjergthe;Tretorn;fix danish genus based on binomial;3
-APPLIED_DICT_RULE;Hibiscus-slægten;Hibiscus;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Adams Guldregn;Adams guldregn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Løn;Guldregn;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Tulipantræ;Ambratræ;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Osagetorn;Maclura;fix danish genus based on binomial;6
-APPLIED_DICT_RULE;Kirsebær/Blomme;Æble;fix danish genus based on binomial;29
-APPLIED_DICT_RULE;Tjørn;Vandgran;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Nyssa;Tupelotræ;fix danish genus based on binomial;21
-APPLIED_DICT_RULE;Parrotia, ikke navngivet på dansk;Papegøjebusk;fix danish genus based on binomial;12
-APPLIED_DICT_RULE;Paulównia;Kejsertræ;fix danish genus based on binomial;39
-APPLIED_DICT_RULE;Blærespirea;Blærespiræa;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Platan;Fyr;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Løn;Kirsebær/Blomme;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Eg;Kirsebær/Blomme;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Lind;Kirsebær/Blomme;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Valnød;Vingevalnød;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Ask;Pære;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Røn;Eg;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Robinie;Eg;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Vrietorn;Korsved;fix danish genus based on binomial;8
-APPLIED_DICT_RULE;Røn;Rose;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;El;Pil;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Slåen;Hyld;fix danish genus based on binomial;37
-APPLIED_DICT_RULE;Sequoiadendron, ikke navngivet på dansk;Mammuttræ;fix danish genus based on binomial;6
-APPLIED_DICT_RULE;Æble;Røn;fix danish genus based on binomial;9
-APPLIED_DICT_RULE;Sophora;Pagodetræ;fix danish genus based on binomial;46
-APPLIED_DICT_RULE;Storaks;Styrax;fix danish genus based on binomial;6
-APPLIED_DICT_RULE;Benved;Snebær;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Syren-slægten;Syren;fix danish genus based on binomial;8
-APPLIED_DICT_RULE;Taxodium, ikke navngivet på dansk;Sumpcypres;fix danish genus based on binomial;34
-APPLIED_DICT_RULE;Løn;Lind;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Robinie;Lind;fix danish genus based on binomial;2
-APPLIED_DICT_RULE;Hørpalme;Hørpalme-slægten;fix danish genus based on binomial;10
-APPLIED_DICT_RULE;Eg;Elm;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Snebolle;Kvalkved;fix danish genus based on binomial;8
-APPLIED_DICT_RULE;Broussonetia sp.;Broussonetia;fix danish genus based on binomial;1
-APPLIED_DICT_RULE;Zelkova, ikke navngivet på dansk;Zelkova;fix danish genus based on binomial;11
-DUPLICATE_LOCATION;12.5329129553003 55.6557491749955;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6180754823862 55.6573777315029;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5258155399705 55.7167610936814;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5217548524378 55.7167078551799;NA;flagged for deletion;2
-DUPLICATE_LOCATION;12.5645962586382 55.7019716111158;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4874146656561 55.6523916016872;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.487380188028 55.6523671701681;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4873598301646 55.6524003438393;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4873021795265 55.6523996015305;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5260871748097 55.6572676844445;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5217567516712 55.6376176403143;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5020571880228 55.6683551530255;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5418390190206 55.6992011834249;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5417724863363 55.6992064743282;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5417904305329 55.6992627228377;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5418999509298 55.6992911837403;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5418645968647 55.6993316043351;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5418434257122 55.6993993380646;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.542167730392 55.6993868869037;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5421140330062 55.6994410462744;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5422206799963 55.6995291466335;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5421650792281 55.6995844618351;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5422718949135 55.699607153054;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5422336267547 55.6996965250439;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.542066052239 55.6997689273334;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5421428715225 55.6997975250599;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5421418120595 55.6998654310099;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5421557533644 55.6999197291118;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5420382594144 55.6999674030467;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5422341261309 55.6999917007366;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5487231761031 55.69893780157;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5303284169814 55.6524839014377;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5322093113986 55.6530095637312;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5313615348593 55.6527760805729;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5303809240961 55.6524778899608;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5640170207512 55.7205228677246;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5424410173263 55.6998143420342;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5424351085858 55.6998948101456;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5424817972556 55.6999202924751;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5425254908676 55.6999746637938;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5426281842436 55.6999881463946;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5426062163202 55.7000620035995;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5425747261828 55.7000306733196;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.572648100153 55.7048479621215;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5626854809171 55.7019965915308;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5646461428999 55.7037704216503;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5706954429246 55.7015224171968;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5184269250539 55.6377194792613;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5584004382871 55.6404098309427;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6398506123182 55.6522608704627;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5695472106232 55.6925234268482;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5892287441364 55.6412380333744;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5109740720271 55.6657830918836;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5506909324858 55.6954380372478;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5508964335952 55.6954343857592;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5505747984053 55.6954056748776;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5503508947458 55.6953802861638;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6185212946688 55.6623405929192;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5494554632775 55.6917070630362;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5504525903932 55.6887275737247;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5501173097624 55.6889497799367;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5500647374983 55.6889135795379;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5493326170639 55.6916960066268;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6146014396356 55.6568571597302;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6146146419909 55.657409802789;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6136524099952 55.6568508850386;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6160058272114 55.6573108119153;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5328906796972 55.6557046998633;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5329434169607 55.6557048191267;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5329248946464 55.6556728972208;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.52522685011 55.6617779697506;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5276925938514 55.6595896037187;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5269484738003 55.658674172046;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.528733894657 55.6623647981013;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5330172638298 55.658618548943;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.617778476868 55.6568790344977;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5238659485733 55.71766155586;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5256077192249 55.71501020916;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5294669685489 55.7136813067941;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5236913317254 55.7115592845055;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5305072664354 55.7136807534503;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5269353196605 55.7169682919136;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5003856250129 55.6870075366829;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5002641780364 55.6868046984393;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4941268679295 55.683961232665;NA;flagged for deletion;2
-DUPLICATE_LOCATION;12.5194422190543 55.6397502349414;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5197229934587 55.6179624696676;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4638550274036 55.6958701098536;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6331167744933 55.6666403514503;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330914197392 55.6666322786236;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330625123607 55.6666254121679;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330286598101 55.6666160291056;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330188469393 55.6666016725845;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330381438752 55.6665811270971;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330579106723 55.6665605676817;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330801025466 55.6665356753549;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6330971978372 55.6665167929935;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.633111968347 55.6664982458409;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.633127801788 55.6664809987604;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6331442793303 55.6664605368091;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6331583810468 55.6664449389354;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6331709475741 55.6664301964092;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6333104747013 55.6664335788403;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.633185705295 55.6664123901027;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6331984529511 55.6664041696761;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6332245728511 55.6664102062811;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6332523402548 55.6664182579045;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6332801198286 55.6664265491135;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5422870265806 55.7072033954756;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5377353835175 55.716646648863;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5369732360985 55.716703596288;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5368191531073 55.7166843583213;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5362873335648 55.716693574656;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5674832290917 55.714144465864;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5673308142064 55.7142194254602;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5637422106331 55.7211898148755;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5637186343978 55.7212758460784;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5652434060243 55.714844224178;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5671139606934 55.7154313944406;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5536610177683 55.6967476611799;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5417298491066 55.7072879822518;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5936340979635 55.6939915833574;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4823318159537 55.6543427127648;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.481646931697 55.6547611214945;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.6185685925651 55.6622920097045;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.518397383749 55.6446590983623;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5200453796553 55.6411962111167;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.4819873301012 55.6730782690096;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5986623183951 55.6948169416198;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5985330748118 55.6947565054636;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.596914058161 55.6940343302319;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5968159437939 55.6939332156532;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5972005591697 55.6938473730274;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5972419733682 55.6937986333929;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5971505800109 55.6939574673159;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5970397024683 55.6941239893766;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5937983980976 55.6940238547404;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.597165198703 55.6940095011048;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5971573614 55.6939004854056;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5968602789484 55.6939851278782;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5972037933377 55.6940608316602;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5971119595468 55.6941745142225;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5972552394779 55.6941093164282;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5971827035658 55.6942150345374;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5973233870616 55.6941492876081;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5973936254443 55.6943243041613;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5973212954598 55.6942882099565;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5972530276384 55.6942545917947;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5974631815136 55.6942109152207;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5976189213463 55.6942782596341;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5976940192677 55.6943084596922;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5973873691571 55.6941765003023;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5978578120254 55.6943694177381;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.598025061323 55.6944315146095;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5977752039134 55.694340287596;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5983597535054 55.6945560692881;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5993276114536 55.6951426155281;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5982744256913 55.6945262323765;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5984584097223 55.6947149733015;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5984414973232 55.6945893566958;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5983825584822 55.6946832593886;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5981340146635 55.6945933623641;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5981921572486 55.6944947356331;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5985940592758 55.69464852902;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5986772834232 55.6946767927881;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5987549865184 55.6949004305833;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5986996635729 55.6948597297138;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5987941542689 55.6949552412939;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5992603967457 55.6950413508326;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5992943435468 55.6950841565648;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5994342548244 55.6952646467924;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5995539301747 55.6953851644591;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5994947550842 55.6953198133023;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5993823026885 55.6952022247118;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5991937712909 55.694982888461;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5985165711519 55.6946191113935;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.527477325118 55.64990758224;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5273959906902 55.6499448229397;NA;flagged for deletion;1
-DUPLICATE_LOCATION;12.5275341327825 55.6499401187391;NA;flagged for deletion;1
+code,value_from,value_to,message,n
+DUPLICATE_UUID_DROPPED,2 rows,1 row,UUID deleted when all values identical,1
+ILLEGAL_CHAR_LATIN,Liquidámbar styracíflua,Liquidambar styraciflua,remove accents,43
+ILLEGAL_CHAR_LATIN,Cedrús atlántica,Cedrus atlantica,remove accents,6
+ILLEGAL_CHAR_LATIN,Ácer gríseum,Acer griseum,remove accents,20
+ILLEGAL_CHAR_LATIN,Prúnus sérrula,Prunus serrula,remove accents,14
+ILLEGAL_CHAR_LATIN,Táxus baccáta,Taxus baccata,remove accents,82
+ILLEGAL_CHAR_LATIN,Fráxinus pennsylvánica,Fraxinus pennsylvanica,remove accents,35
+ILLEGAL_CHAR_LATIN,Sórbus commíxta,Sorbus commixta,remove accents,27
+ILLEGAL_CHAR_LATIN,Ácer tatáricum,Acer tataricum,remove accents,8
+ILLEGAL_CHAR_LATIN,Nothofágus antárctica,Nothofagus antarctica,remove accents,30
+ILLEGAL_CHAR_LATIN,Fágus sylvática 'Atropunicea',Fagus sylvatica 'Atropunicea',remove accents,14
+ILLEGAL_CHAR_LATIN,Pterocárya fraxinifólia,Pterocarya fraxinifolia,remove accents,39
+ILLEGAL_CHAR_LATIN,Sórbus commixta 'Dodong',Sorbus commixta 'Dodong',remove accents,45
+ILLEGAL_CHAR_LATIN,Davídia involuncráta,Davidia involuncrata,remove accents,17
+ILLEGAL_CHAR_LATIN,Liriodéndron tulipífera,Liriodendron tulipifera,remove accents,108
+ILLEGAL_CHAR_LATIN,Magnólia sp.,Magnolia sp.,remove accents,17
+ILLEGAL_CHAR_LATIN,Paulównia tomentósa,Paulownia tomentosa,remove accents,39
+ILLEGAL_CHAR_LATIN,Cercidiphýllum japónicum,Cercidiphyllum japonicum,remove accents,41
+ILLEGAL_CHAR_LATIN,Prunus subhirtélla 'Accolade',Prunus subhirtella 'Accolade',remove accents,74
+ILLEGAL_CHAR_LATIN,Mórus álba,Morus alba,remove accents,5
+ILLEGAL_CHAR_LATIN,Amelánchier laevis,Amelanchier laevis,remove accents,64
+ILLEGAL_CHAR_LATIN,Pínus tabulifórmis,Pinus tabuliformis,remove accents,3
+ILLEGAL_CHAR_LATIN,Bétula maximowicziána,Betula maximowicziana,remove accents,4
+ILLEGAL_CHAR_LATIN,Catálpa bignonioídes,Catalpa bignonioides,remove accents,14
+ILLEGAL_CHAR_LATIN,Cedrús líbani,Cedrus libani,remove accents,17
+ILLEGAL_CHAR_LATIN,Ácer rúbrum,Acer rubrum,remove accents,17
+ILLEGAL_CHAR_LATIN,Cydónia oblónga,Cydonia oblonga,remove accents,17
+ILLEGAL_CHAR_LATIN,Mórus nígra,Morus nigra,remove accents,20
+ILLEGAL_CHAR_LATIN,Fágus orientális,Fagus orientalis,remove accents,10
+ILLEGAL_CHAR_LATIN,Quércus x túrneri,Quercus x turneri,remove accents,8
+ILLEGAL_CHAR_LATIN,Bétula papyrífera,Betula papyrifera,remove accents,14
+ILLEGAL_CHAR_LATIN,Ácer argutum,Acer argutum,remove accents,5
+ILLEGAL_CHAR_LATIN,Zelkóva serráta,Zelkova serrata,remove accents,11
+ILLEGAL_CHAR_LATIN,Sórbus doméstica,Sorbus domestica,remove accents,3
+ILLEGAL_CHAR_LATIN,Júglans nígra,Juglans nigra,remove accents,11
+ILLEGAL_CHAR_LATIN,Fágus sylvática 'Asplenifolia',Fagus sylvatica 'Asplenifolia',remove accents,4
+ILLEGAL_CHAR_LATIN,Sequoiadéndron gigantéum,Sequoiadendron giganteum,remove accents,6
+ILLEGAL_CHAR_LATIN,Rhus potanínii,Rhus potaninii,remove accents,5
+ILLEGAL_CHAR_LATIN,Méspilus germánica,Mespilus germanica,remove accents,12
+ILLEGAL_CHAR_LATIN,Tetradium daniéllii,Tetradium daniellii,remove accents,3
+ILLEGAL_CHAR_LATIN,Ácer carpinifólium,Acer carpinifolium,remove accents,1
+ILLEGAL_CHAR_LATIN,Pterocárya sp.,Pterocarya sp.,remove accents,1
+ILLEGAL_CHAR_LATIN,Álnus inokumea,Alnus inokumea,remove accents,6
+ILLEGAL_CHAR_LATIN,Cydónia sp.,Cydonia sp.,remove accents,5
+ILLEGAL_CHAR_LATIN,Pterocárya rhederiana,Pterocarya rhederiana,remove accents,1
+ILLEGAL_CHAR_LATIN,Méspilus sp.,Mespilus sp.,remove accents,2
+ILLEGAL_CHAR_LATIN,Robínia luxúrians,Robinia luxurians,remove accents,1
+WRONG_CASE_DANISH,Park-Lind,Park-lind,to sentence case,2238
+WRONG_CASE_DANISH,rød-el,Rød-el,to sentence case,222
+WRONG_CASE_DANISH,Kirsebær/Blomme,Kirsebær/blomme,to sentence case,501
+WRONG_CASE_DANISH,Blå Douglasgran,Blå douglasgran,to sentence case,4
+WRONG_CASE_DANISH,Hybrid-Lærk,Hybrid-lærk,to sentence case,26
+WRONG_CASE_DANISH,ildløn,Ildløn,to sentence case,22
+WRONG_CASE_DANISH,Selje Pil,Selje pil,to sentence case,10
+WRONG_CASE_DANISH,Europæisk Humlebøg,Europæisk humlebøg,to sentence case,16
+WRONG_CASE_DANISH,Kirsebærblomme/Mirabel,Kirsebærblomme/mirabel,to sentence case,55
+WRONG_CASE_DANISH,Yoshino-Kirsebær,Yoshino-kirsebær,to sentence case,13
+WRONG_CASE_DANISH,Hybrid-Guldregn,Hybrid-guldregn,to sentence case,16
+WRONG_CASE_DANISH,Almindelig Sumpcypres,Almindelig sumpcypres,to sentence case,34
+WRONG_CASE_DANISH,Almindelig Benved,Almindelig benved,to sentence case,10
+WRONG_CASE_DANISH,Hybrid-Troldnød,Hybrid-troldnød,to sentence case,3
+WRONG_CASE_DANISH,Clara Frijs-pære,Clara frijs-pære,to sentence case,6
+WRONG_CASE_DANISH,Bjerg-Hemlock,Bjerg-hemlock,to sentence case,3
+WRONG_CASE_DANISH,Californisk Nøddetaks,Californisk nøddetaks,to sentence case,2
+WRONG_CASE_DANISH,Sten-Eg,Sten-eg,to sentence case,2
+WRONG_CASE_DANISH,Indiansk banan (Pawpaw),Indiansk banan (pawpaw),to sentence case,3
+WRONG_CASE_DANISH,Skovfyr fra Norge,Skovfyr fra norge,to sentence case,7
+WRONG_CASE_DANISH,Sølvgran Nobilis,Sølvgran nobilis,to sentence case,22
+WRONG_CASE_DANISH,Gul Hestekastanje,Gul hestekastanje,to sentence case,1
+WRONG_CASE_DANISH,Glat Hestekastanje,Glat hestekastanje,to sentence case,3
+WRONG_CASE_DANISH,Adams Guldregn,Adams guldregn,to sentence case,1
+WRONG_CASE_DANISH,Kaukasisk Blærenød,Kaukasisk blærenød,to sentence case,1
+WRONG_CASE_DANISH,Japansk Løn,Japansk løn,to sentence case,5
+WRONG_CASE_DANISH,Japansk Hemlock,Japansk hemlock,to sentence case,1
+WRONG_CASE_DANISH,Rhusbladet Vingevalnød,Rhusbladet vingevalnød,to sentence case,2
+WRONG_CASE_DANISH,Askebladet Løn,Askebladet løn,to sentence case,1
+WRONG_CASE_DANISH,Spansk Ædelgran,Spansk ædelgran,to sentence case,1
+WRONG_CASE_DANISH,Tyrkisk Løn,Tyrkisk løn,to sentence case,1
+WRONG_CASE_DANISH,Tjørnebladet Løn,Tjørnebladet løn,to sentence case,1
+WRONG_CASE_DANISH,Europæisk Judastræ,Europæisk judastræ,to sentence case,1
+WRONG_CASE_DANISH,Fuldmåne Løn,Fuldmåne løn,to sentence case,1
+WRONG_CASE_DANISH,Skarlagens Eg,Skarlagens eg,to sentence case,2
+WRONG_CASE_DANISH,Armensk Eg,Armensk eg,to sentence case,1
+WRONG_CASE_DANISH,Sakhalin Kirsebær,Sakhalin kirsebær,to sentence case,1
+WRONG_CASE_DANISH,Rødbladet Stilkeg,Rødbladet stilkeg,to sentence case,1
+WRONG_CASE_DANISH,Ellebladet Røn,Ellebladet røn,to sentence case,1
+WRONG_CASE_DANISH,Grøn Douglasgran,Grøn douglasgran,to sentence case,1
+APPLIED_REGEX_RULE,Prunus x hilleri 'Spire',Prunus hybr. hilleri 'Spire',normalize hybrid marker,10
+APPLIED_REGEX_RULE,Tilia x 'Zwarte Linde',Tilia hybr. 'Zwarte Linde',normalize hybrid marker,9
+APPLIED_REGEX_RULE,Hamamelis X intermedia,Hamamelis hybr. intermedia,normalize hybrid marker,3
+APPLIED_REGEX_RULE,Prunus x 'Stevnsbær',Prunus hybr. 'Stevnsbær',normalize hybrid marker,15
+APPLIED_REGEX_RULE,Malus x 'Elstar',Malus hybr. 'Elstar',normalize hybrid marker,19
+APPLIED_REGEX_RULE,Quercus x turneri,Quercus hybr. turneri,normalize hybrid marker,8
+APPLIED_REGEX_RULE,Malus x 'James Greive',Malus hybr. 'James Greive',normalize hybrid marker,7
+APPLIED_REGEX_RULE,Robinia x margaretta 'Pink Cascade',Robinia hybr. margaretta 'Pink Cascade',normalize hybrid marker,2
+APPLIED_REGEX_RULE,Prunus x 'Stella',Prunus hybr. 'Stella',normalize hybrid marker,4
+APPLIED_REGEX_RULE,Magnolia x Soulangiana,Magnolia hybr. Soulangiana,normalize hybrid marker,8
+APPLIED_REGEX_RULE,Magnolia x 'Galaxy',Magnolia hybr. 'Galaxy',normalize hybrid marker,2
+APPLIED_REGEX_RULE,Catalpa X erubescens,Catalpa hybr. erubescens,normalize hybrid marker,1
+APPLIED_REGEX_RULE,Prunus X amygdalo-persica,Prunus hybr. amygdalo-persica,normalize hybrid marker,2
+APPLIED_REGEX_RULE,Magnolia x thompsoniana,Magnolia hybr. thompsoniana,normalize hybrid marker,1
+APPLIED_REGEX_RULE,Acer x zoeschense 'Annae',Acer hybr. zoeschense 'Annae',normalize hybrid marker,1
+APPLIED_REGEX_RULE,Viburnum x bodnantense,Viburnum hybr. bodnantense,normalize hybrid marker,3
+APPLIED_REGEX_RULE,"Carpinus betulus ""Frans Fontaine""",Carpinus betulus 'Frans Fontaine',normalize cultivar style,27
+APPLIED_REGEX_RULE,"Fagus sylvatica ""Dawyck""",Fagus sylvatica 'Dawyck',normalize cultivar style,1
+APPLIED_REGEX_RULE,Ulmus minor  ”Suberosa”,Ulmus minor  'Suberosa',normalize cultivar style,1
+APPLIED_REGEX_RULE,Fraxinus pensylvanica 'Zundert',Fraxinus pennsylvanica 'Zundert',latin spelling fix,627
+APPLIED_REGEX_RULE,Prunus ceracifera 'Nigra',Prunus cerasifera 'Nigra',latin spelling fix,107
+APPLIED_REGEX_RULE,Prunus mackii 'Amber Shade',Prunus maackii 'Amber Shade',latin spelling fix,2
+APPLIED_REGEX_RULE,Almus inceana,Alnus incana,latin spelling fix,76
+APPLIED_REGEX_RULE,Amelachier canadensis,Amelanchier canadensis,latin spelling fix,65
+APPLIED_REGEX_RULE,Aronia meloncarpia,Aronia melanocarpa,latin spelling fix,3
+APPLIED_REGEX_RULE,Tilia plathyphyllos 'Odin',Tilia platyphyllos 'Odin',latin spelling fix,9
+APPLIED_REGEX_RULE,Alnus inokumea,Alnus inokumae,latin spelling fix,6
+APPLIED_REGEX_RULE,Forthergilla major,Fothergilla major,latin spelling fix,1
+APPLIED_REGEX_RULE,Zanthozylum piperitum,Zanthoxylum piperitum,latin spelling fix,4
+APPLIED_REGEX_RULE,Hippophea rhamnoides,Hippophae rhamnoides,latin spelling fix,5
+APPLIED_REGEX_RULE,Laburnocytisus adami,+Laburnocytisus adami,latin normalization,1
+APPLIED_REGEX_RULE,Physocarbus opulifolius  'El Diabolo',Physocarpus opulifolius  'El Diabolo',latin spelling fix,1
+APPLIED_REGEX_RULE,Sambuscus nigra,Sambucus nigra,latin spelling fix,12
+APPLIED_REGEX_RULE,Sambuscus sp.,Sambucus sp.,latin spelling fix,30
+APPLIED_REGEX_RULE,Davidia involucrate 'Vilmoriniana',Davidia involucrata 'Vilmoriniana',latin spelling fix,1
+APPLIED_REGEX_RULE,Davidia involuncrata,Davidia involucrata,latin spelling fix,17
+APPLIED_REGEX_RULE,Malus sieboldie  'Browers beauty',Malus sieboldii  'Browers beauty',latin spelling fix,3
+APPLIED_REGEX_RULE,Malus sieboldie  'Freja',Malus sieboldii  'Freja',latin spelling fix,1
+APPLIED_REGEX_RULE,Hamamelis 'brevitala',Hamamelis 'Brevipetala',latin spelling fix,1
+APPLIED_REGEX_RULE,Picea punges 'Argenta',Picea pungens 'Argenta',latin spelling fix,1
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. caesia,Pseudotsuga menziesii var. caesia,latin spelling fix,14
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. glauca,Pseudotsuga menziesii var. glauca,latin spelling fix,4
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. menziezii,Pseudotsuga menziesii var. menziezii,latin spelling fix,1
+APPLIED_REGEX_RULE,Betula albo sinensis,Betula albosinensis,latin compound word,1
+APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,14
+APPLIED_REGEX_RULE,Populus canescens,Populus hybr. canescens,add hybrid marker,2
+APPLIED_REGEX_RULE,Populus canadensis,Populus hybr. canadensis,add hybrid marker,11
+APPLIED_REGEX_RULE,Populus canadensis 'Bachalierii',Populus hybr. canadensis 'Bachalierii',add hybrid marker,6
+APPLIED_REGEX_RULE,Populus canadensis 'De Moffat',Populus hybr. canadensis 'De Moffat',add hybrid marker,16
+APPLIED_REGEX_RULE,Populus gileadensis,Populus hybr. gileadensis,add hybrid marker,1
+APPLIED_REGEX_RULE,Acer freemanii 'Elegant',Acer hybr. freemanii 'Elegant',add hybrid marker,17
+APPLIED_REGEX_RULE,Acer freemanii X,Acer hybr. freemanii,add hybrid marker,1
+APPLIED_REGEX_RULE,Tilia europaea,Tilia hybr. europaea,add hybrid marker,2238
+APPLIED_REGEX_RULE,Aesculus hippoc. 'Baumannii',Aesculus hippocastanum 'Baumannii',latin expand abbrev.,20
+APPLIED_REGEX_RULE,Acer pseudoplatanoides 'Spaethii',Acer pseudoplatanus 'Spaethii',could also be platanoides,5
+APPLIED_REGEX_RULE,Ulmus Fiorente,Ulmus hybr. 'Fiorente',add hybrid marker,22
+APPLIED_REGEX_RULE,Ulmus 'New Horizon',Ulmus hybr. 'New Horizon',add hybrid marker,261
+APPLIED_REGEX_RULE,Ulmus 'Rebona',Ulmus hybr. 'Rebona',add hybrid marker,143
+APPLIED_REGEX_RULE,Ulmus 'Columella',Ulmus hybr. 'Columella',add hybrid marker,95
+APPLIED_REGEX_RULE,Ulmus 'Regal',Ulmus hybr. 'Regal',add hybrid marker,1
+APPLIED_REGEX_RULE,Ulmus 'Sapporo Autumn Gold',Ulmus hybr. 'Sapporo Autumn Gold',add hybrid marker,1
+APPLIED_REGEX_RULE,Ulmus 'Vada',Ulmus hybr. 'Vada',add hybrid marker,6
+APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
+APPLIED_REGEX_RULE,Ginkgo sp.,Ginkgo biloba,monotypic extant,1
+APPLIED_REGEX_RULE,Metasequoia sp.,Metasequoia glyptostroboides,monotypic extant,3
+APPLIED_REGEX_RULE,Larix leptolepis,Larix kaempferi,latin synonym -> accepted,1
+APPLIED_REGEX_RULE,Crytomeria japonica,Cryptomeria japonica,latin spelling fix,2
+APPLIED_REGEX_RULE,Eleagnus angustifolia,Elaeagnus angustifolia,latin spelling fix,30
+APPLIED_REGEX_RULE,Sophora japonica (Styphnolobium japonica),Styphnolobium japonica,latin accepted genus,9
+APPLIED_REGEX_RULE,Magnolia hybr. Soulangiana,Magnolia hybr. soulangeana,latin case fix,8
+APPLIED_REGEX_RULE,Prunus 'Rivers Early Prolific',Prunus domestica 'Rivers Early Prolific',insert species for cultivars,3
+APPLIED_REGEX_RULE,Pyrus 'Grev Moltke',Pyrus communis 'Grev Moltke',insert species for cultivars,1
+APPLIED_REGEX_RULE,Ribes 'Jonkheer Van Tets',Ribes rubrum 'Jonkheer Van Tets',insert species for cultivars,7
+APPLIED_REGEX_RULE,Ribes 'Rondom',Ribes rubrum 'Rondom',insert species for cultivars,16
+APPLIED_REGEX_RULE,Amelanchier 'Autumn Brilliance',Amelanchier hybr. grandiflora 'Autumn Brilliance',insert species for cultivars,1
+APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. intermedia 'Brevipetala',insert species for cultivars,1
+APPLIED_REGEX_RULE,Prunus domestica 'Incititia',Prunus domestica ssp. insisitia,cultivar to subspecies,18
+APPLIED_REGEX_RULE,Prunus 'Italiensk sveske',Prunus domestica 'Italiensk sveske',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Alice Balsgaard',Malus domestica 'Alice Balsgaard',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus 'Angold',Malus domestica 'Angold',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus 'Bramley's Seedling',Malus domestica 'Bramley's Seedling',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Cox Orange',Malus domestica 'Cox Orange',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus 'Cox Queen',Malus domestica 'Cox Queen',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Golden Hornet',Malus hybr. 'Golden Hornet',insert species for cultivars,6
+APPLIED_REGEX_RULE,Malus 'Holsteiner Cox',Malus domestica 'Holsteiner Cox',insert species for cultivars,7
+APPLIED_REGEX_RULE,Malus 'Neville Copeman',Malus hybr. 'Neville Copeman',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus 'Rød ananas',Malus domestica 'Rød ananas',insert species for cultivars,14
+APPLIED_REGEX_RULE,Malus 'Säftaholm',Malus domestica 'Säftaholm',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus 'Topaz',Malus domestica 'Topaz',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Åkerø Hassel',Malus domestica 'Åkerø Hassel',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus Signe Tillisch,Malus domestica 'Signe Tillisch',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus discovery,Malus domestica 'Discovery',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus floribunda,Malus hybr. floribunda,add hybrid marker,51
+APPLIED_REGEX_RULE,Malus hybr. 'Akso',Malus baccata 'Akso',fix latin name,22
+APPLIED_REGEX_RULE,Malus hybr. 'James Greive',Malus domestica 'James Grieve',fix latin name,7
+APPLIED_REGEX_RULE,Malus hybr. 'Robusta',Malus hybr. robusta,fix latin name,1
+APPLIED_REGEX_RULE,Malus hybr. 'Street Parade',Malus baccata 'Street Parade',fix latin name,70
+APPLIED_REGEX_RULE,Malus hybrid Hyslop,Malus hybr. 'Hyslop',normalize hybrid marker,15
+APPLIED_REGEX_RULE,Malus rubinola,Malus domestica 'Rubinola',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus sieboldii  'Browers beauty',Malus sieboldii 'Brouwers beauty',cultivar spelling fix,3
+APPLIED_REGEX_RULE,Malus sieboldii  'Freja',Malus sieboldii 'Freja',fix whitespace,1
+APPLIED_REGEX_RULE,Alm. æble 'Åkerø Hassel',Almindelig æble 'Åkerø Hassel',danish expand abbrev.,1
+APPLIED_REGEX_RULE,Alm. æble 'Signe Tillisch',Almindelig æble 'Signe Tillisch',danish expand abbrev.,2
+APPLIED_REGEX_RULE,Alm. æble 'Katja',Almindelig æble 'Katja',danish expand abbrev.,1
+APPLIED_REGEX_RULE,Alm. æble 'Angold',Almindelig æble 'Angold',danish expand abbrev.,2
+APPLIED_REGEX_RULE,Alm. æble 'Cox Queen',Almindelig æble 'Cox Queen',danish expand abbrev.,3
+APPLIED_REGEX_RULE,Alm. æble 'Säftaholm',Almindelig æble 'Säftaholm',danish expand abbrev.,1
+APPLIED_REGEX_RULE,Alm. æble 'Goldparmäne',Almindelig æble 'Goldparmäne',danish expand abbrev.,1
+APPLIED_REGEX_RULE,Hestekastanie,Hestekastanje,danish name spelling fix,2432
+APPLIED_REGEX_RULE,Kastanie,Kastanje,danish name spelling fix,105
+APPLIED_REGEX_RULE,Ægte kastanie,Ægte kastanje,danish name spelling fix,93
+APPLIED_REGEX_RULE,Fyldtblomstret hestekastanie,Fyldtblomstret hestekastanje,danish name spelling fix,20
+APPLIED_REGEX_RULE,Rød hestekastanie,Rød hestekastanje,danish name spelling fix,32
+APPLIED_REGEX_RULE,Busk-hestekastanie,Busk-hestekastanje,danish name spelling fix,1
+APPLIED_REGEX_RULE,Virginsk hestekastanie,Virginsk hestekastanje,danish name spelling fix,1
+APPLIED_REGEX_RULE,Vortebrik,Vortebirk,danish name spelling fix,273
+APPLIED_REGEX_RULE,Smallbladet sølvblad,Smalbladet sølvblad,danish name spelling fix,30
+APPLIED_REGEX_RULE,Parybusk,Parykbusk,danish name spelling fix,2
+APPLIED_REGEX_RULE,Ambertræ,Ambratræ,danish name spelling fix,61
+APPLIED_REGEX_RULE,Almindelig magnolia,Almindelig magnolie,danish name spelling fix,19
+APPLIED_REGEX_RULE,Magnolia,Magnolie,danish name spelling fix,96
+APPLIED_REGEX_RULE,Magnolia hybr. loebneri 'Merrill',Magnolie hybr. loebneri 'Merrill',danish name spelling fix,8
+APPLIED_REGEX_RULE,Magnolia 'Galaxy',Magnolie 'Galaxy',danish name spelling fix,2
+APPLIED_REGEX_RULE,Japansk magnolia,Japansk magnolie,danish name spelling fix,24
+APPLIED_REGEX_RULE,Robinia 'Pink Cascade',Robinie 'Pink Cascade',danish name spelling fix,2
+APPLIED_REGEX_RULE,Skarlagens eg,Skarlagen-eg,danish name compund word,2
+APPLIED_REGEX_RULE,Hybrid løn 'Annae',Hybrid-løn 'Annae',danish name compund word,1
+APPLIED_REGEX_RULE,Fuldmåne løn,Fuldmåne-løn,danish name compund word,1
+APPLIED_REGEX_RULE,Kugle ahorn,Kugleahorn,danish name compund word,1
+APPLIED_REGEX_RULE,Grå el,Gråel,danish name compund word,76
+APPLIED_REGEX_RULE,Rød-el,Rødel,danish name compund word,353
+APPLIED_REGEX_RULE,Frynse-eg,Frynseeg,danish name compund word,199
+APPLIED_REGEX_RULE,Stilk-eg,Stilkeg,danish name compund word,1135
+APPLIED_REGEX_RULE,Stilk-eg 'Pectinata',Stilkeg 'Pectinata',danish name compund word,5
+APPLIED_REGEX_RULE,Pyramide avnbøg,Pyramideavnbøg,danish name compund word,261
+APPLIED_REGEX_RULE,Hænge ask,Hængeask,danish name compund word,1
+APPLIED_REGEX_RULE,Manna ask,Manna-ask,danish name compund word,39
+APPLIED_REGEX_RULE,Sakhalin-kirsebær,Sakhalinkirsebær,danish name compund word,16
+APPLIED_REGEX_RULE,Sakhalin kirsebær,Sakhalinkirsebær,danish name compund word,1
+APPLIED_REGEX_RULE,Turner eg,Turner-eg,danish name compund word,8
+APPLIED_REGEX_RULE,Pragt robinie,Pragtrobinie,danish name compund word,1
+APPLIED_REGEX_RULE,Selje pil,Seljepil,danish name compund word,10
+APPLIED_REGEX_RULE,Purpur pil,Purpurpil,danish name compund word,2
+APPLIED_REGEX_RULE,Skærm elm,Skærmelm,danish name compund word,10
+APPLIED_REGEX_RULE,Charneau pære,Charneau-pære,danish name compund word,3
+APPLIED_REGEX_RULE,Ægte kastanje,Kastanje,danish genus name fix,1
+APPLIED_REGEX_RULE,Clara frijs-pære,Clara Frijs-pære,backcorrect case fix,6
+APPLIED_DICT_RULE,"Birk, pollenfri",Fligbladet birk (pollenfri),change danish name based on latin name,154
+APPLIED_DICT_RULE,"Pyrus caucasica, ikke navngivet på dansk",Prydpære,change danish name based on latin name,58
+APPLIED_DICT_RULE,Tretorn,Almindelig tretorn,change danish name based on latin name,359
+APPLIED_DICT_RULE,Bøg,Almindelig bøg,change danish name based on latin name,537
+APPLIED_DICT_RULE,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,change danish name based on latin name,159
+APPLIED_DICT_RULE,NA,Kinesisk ligkistetræ,change danish name based on latin name,3
+APPLIED_DICT_RULE,Lærk,Hybrid-lærk,change danish name based on latin name,14
+APPLIED_DICT_RULE,Hvidtjørn,Engriflet hvidtjørn,change danish name based on latin name,36
+APPLIED_DICT_RULE,Gingko,Tempeltræ,change danish name based on latin name,1
+APPLIED_DICT_RULE,Balsampoppel,Vestamerikansk balsampoppel,change danish name based on latin name,19
+APPLIED_DICT_RULE,NA,Almindelig magnolie,change danish name based on latin name,8
+APPLIED_DICT_RULE,NA,Hjortetaktræ,change danish name based on latin name,2
+APPLIED_DICT_RULE,NA,Kaukasisk vrietorn,change danish name based on latin name,1
+APPLIED_DICT_RULE,Bitræ,Honningtræ,change danish name based on latin name,3
+APPLIED_DICT_RULE,NA,Hortensia,change danish name based on latin name,1
+APPLIED_DICT_RULE,NA,Williamsianum rhododendron,change danish name based on latin name,1
+APPLIED_DICT_RULE,NA,Japansk lærk,change danish name based on latin name,1
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Butterball',change danish name based on latin name,80
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Braendkjaer',change danish name based on latin name,114
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Rudolf',change danish name based on latin name,17
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Red Splendor',change danish name based on latin name,8
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Evereste',change danish name based on latin name,331
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Ingrid Marie',change danish name based on latin name,27
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Aroma',change danish name based on latin name,13
+APPLIED_DICT_RULE,Cox orange æble,Almindelig æble 'Cox Orange',change danish name based on latin name,5
+APPLIED_DICT_RULE,Æble 'Snowdrift',Paradisæble 'Snowdrift',change danish name based on latin name,3
+APPLIED_DICT_RULE,Malus sieboldii,Japansk prydæble,change danish name based on latin name,46
+APPLIED_DICT_RULE,Æble 'Alice Balsgaard',Almindelig æble 'Alice Balsgaard',change danish name based on latin name,2
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Dir. Moerland',change danish name based on latin name,17
+APPLIED_DICT_RULE,Æble,Sargents æble,change danish name based on latin name,14
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'John Downie',change danish name based on latin name,28
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Street Parade',change danish name based on latin name,70
+APPLIED_DICT_RULE,Japansk prydæble,Japansk prydæble 'Hesse',change danish name based on latin name,85
+APPLIED_DICT_RULE,Æble 'Belle De Boskoop',Almindelig æble 'Rød Belle De Boskoop',change danish name based on latin name,5
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Gorgeous',change danish name based on latin name,57
+APPLIED_DICT_RULE,Æble 'Hyslop',Paradisæble 'Hyslop',change danish name based on latin name,15
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Red Sentinel',change danish name based on latin name,26
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Filippa',change danish name based on latin name,25
+APPLIED_DICT_RULE,Æble 'Rød aroma',Almindelig æble 'Rød aroma',change danish name based on latin name,4
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'david',change danish name based on latin name,2
+APPLIED_DICT_RULE,Æble 'Elstar',Paradisæble 'Elstar',change danish name based on latin name,19
+APPLIED_DICT_RULE,Æble 'Holsteiner Cox',Almindelig æble 'Holsteiner Cox',change danish name based on latin name,7
+APPLIED_DICT_RULE,Æble 'Bøghs citronæble',Almindelig æble 'Bøghs citronæble',change danish name based on latin name,3
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Rød Gråsten',change danish name based on latin name,19
+APPLIED_DICT_RULE,Rød ananas æble,Almindelig æble 'Rød ananas',change danish name based on latin name,14
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Akso',change danish name based on latin name,22
+APPLIED_DICT_RULE,Æble 'Jame Grieve',Almindelig æble 'James Grieve',change danish name based on latin name,7
+APPLIED_DICT_RULE,Æble discovery,Almindelig æble 'Discovery',change danish name based on latin name,5
+APPLIED_DICT_RULE,Æble rubinola,Almindelig æble 'Rubinola',change danish name based on latin name,1
+APPLIED_DICT_RULE,Æble 'Bramley's Seedlings',Almindelig æble 'Bramley',change danish name based on latin name,3
+APPLIED_DICT_RULE,Æble 'Nanna',Almindelig æble 'Nanna',change danish name based on latin name,3
+APPLIED_DICT_RULE,Æble 'Golden Delicious',Almindelig æble 'Golden Delicious',change danish name based on latin name,1
+APPLIED_DICT_RULE,Malus 'Spartan',Almindelig æble 'Spartan',change danish name based on latin name,1
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Ildrød Pigeon',change danish name based on latin name,5
+APPLIED_DICT_RULE,Almindelig æble,Almindelig æble 'Guldborg',change danish name based on latin name,11
+APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Professor Sprenger',change danish name based on latin name,13
+APPLIED_DICT_RULE,Paradisæble,Japansk prydæble 'Brouwers beauty',change danish name based on latin name,3
+APPLIED_DICT_RULE,Paradisæble,Japansk prydæble 'Freja',change danish name based on latin name,1
+APPLIED_DICT_RULE,Japansk paradisæble,Fujiyama-æble,change danish name based on latin name,7
+APPLIED_DICT_RULE,Æble 'Katinka',Almindelig æble 'Katinka',change danish name based on latin name,5
+APPLIED_DICT_RULE,Æble 'Gul Gråsten',Almindelig æble 'Gul Gråsten',change danish name based on latin name,1
+APPLIED_DICT_RULE,Æble 'Topaz',Almindelig æble 'Topaz',change danish name based on latin name,3
+APPLIED_DICT_RULE,Kirsebær/Blomme,Løn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Platan,Løn,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Sumak,Løn,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Ædelgran,Løn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Ask,Løn,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,"Albizia (Ærteblomst-fam,)",Albizia,fix danish genus based on binomial,10
+APPLIED_DICT_RULE,Røn,El,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Araucarie,Abeskræk,fix danish genus based on binomial,9
+APPLIED_DICT_RULE,Buxbom,Buksbom,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Bøg,Avnbøg,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Judastræs slægten,Judastræ,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Dværgcypres,Dværgcypres/Ædelcypres,fix danish genus based on binomial,114
+APPLIED_DICT_RULE,Kladrastis,Cladrastis,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Trompetkrone,Hassel,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Kornel,Hassel,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,El,Hassel,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Avnbøg,Tjørn,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Tretorn,Tjørn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Hestekastanje,Tjørn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Pil,Cunninghamia,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Pære,Kvæde,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Avnbøg,Bøg,fix danish genus based on binomial,4
+APPLIED_DICT_RULE,Ask,Bøg,fix danish genus based on binomial,6
+APPLIED_DICT_RULE,Stor troldel,Troldel,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Kirsebær/Blomme,Ask,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Gingko,Tempeltræ,fix danish genus based on binomial,159
+APPLIED_DICT_RULE,Bjergthe,Tretorn,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,Hibiscus-slægten,Hibiscus,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Adams Guldregn,Adams guldregn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Løn,Guldregn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Tulipantræ,Ambratræ,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Osagetorn,Maclura,fix danish genus based on binomial,6
+APPLIED_DICT_RULE,Kirsebær/Blomme,Æble,fix danish genus based on binomial,29
+APPLIED_DICT_RULE,Tjørn,Vandgran,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Nyssa,Tupelotræ,fix danish genus based on binomial,21
+APPLIED_DICT_RULE,"Parrotia, ikke navngivet på dansk",Papegøjebusk,fix danish genus based on binomial,12
+APPLIED_DICT_RULE,Paulównia,Kejsertræ,fix danish genus based on binomial,39
+APPLIED_DICT_RULE,Blærespirea,Blærespiræa,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Platan,Fyr,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Løn,Kirsebær/Blomme,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Eg,Kirsebær/Blomme,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Lind,Kirsebær/Blomme,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Valnød,Vingevalnød,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Ask,Pære,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Røn,Eg,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Robinie,Eg,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Vrietorn,Korsved,fix danish genus based on binomial,8
+APPLIED_DICT_RULE,Røn,Rose,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,El,Pil,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Slåen,Hyld,fix danish genus based on binomial,37
+APPLIED_DICT_RULE,"Sequoiadendron, ikke navngivet på dansk",Mammuttræ,fix danish genus based on binomial,6
+APPLIED_DICT_RULE,Æble,Røn,fix danish genus based on binomial,9
+APPLIED_DICT_RULE,Sophora,Pagodetræ,fix danish genus based on binomial,46
+APPLIED_DICT_RULE,Storaks,Styrax,fix danish genus based on binomial,6
+APPLIED_DICT_RULE,Benved,Snebær,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Syren-slægten,Syren,fix danish genus based on binomial,8
+APPLIED_DICT_RULE,"Taxodium, ikke navngivet på dansk",Sumpcypres,fix danish genus based on binomial,34
+APPLIED_DICT_RULE,Løn,Lind,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Robinie,Lind,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,Hørpalme,Hørpalme-slægten,fix danish genus based on binomial,10
+APPLIED_DICT_RULE,Eg,Elm,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,Snebolle,Kvalkved,fix danish genus based on binomial,8
+APPLIED_DICT_RULE,Broussonetia sp.,Broussonetia,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,"Zelkova, ikke navngivet på dansk",Zelkova,fix danish genus based on binomial,11
+DUPLICATE_LOCATION,12.5329129553003 55.6557491749955,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6180754823862 55.6573777315029,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5258155399705 55.7167610936814,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5217548524378 55.7167078551799,NA,flagged for deletion,2
+DUPLICATE_LOCATION,12.5645962586382 55.7019716111158,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4874146656561 55.6523916016872,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.487380188028 55.6523671701681,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4873598301646 55.6524003438393,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4873021795265 55.6523996015305,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5260871748097 55.6572676844445,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5217567516712 55.6376176403143,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5020571880228 55.6683551530255,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5418390190206 55.6992011834249,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5417724863363 55.6992064743282,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5417904305329 55.6992627228377,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5418999509298 55.6992911837403,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5418645968647 55.6993316043351,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5418434257122 55.6993993380646,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.542167730392 55.6993868869037,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5421140330062 55.6994410462744,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5422206799963 55.6995291466335,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5421650792281 55.6995844618351,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5422718949135 55.699607153054,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5422336267547 55.6996965250439,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.542066052239 55.6997689273334,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5421428715225 55.6997975250599,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5421418120595 55.6998654310099,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5421557533644 55.6999197291118,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5420382594144 55.6999674030467,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5422341261309 55.6999917007366,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5487231761031 55.69893780157,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5303284169814 55.6524839014377,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5322093113986 55.6530095637312,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5313615348593 55.6527760805729,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5303809240961 55.6524778899608,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5640170207512 55.7205228677246,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5424410173263 55.6998143420342,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5424351085858 55.6998948101456,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5424817972556 55.6999202924751,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5425254908676 55.6999746637938,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5426281842436 55.6999881463946,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5426062163202 55.7000620035995,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5425747261828 55.7000306733196,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.572648100153 55.7048479621215,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5626854809171 55.7019965915308,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5646461428999 55.7037704216503,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5706954429246 55.7015224171968,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5184269250539 55.6377194792613,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5584004382871 55.6404098309427,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6398506123182 55.6522608704627,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5695472106232 55.6925234268482,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5892287441364 55.6412380333744,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5109740720271 55.6657830918836,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5506909324858 55.6954380372478,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5508964335952 55.6954343857592,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5505747984053 55.6954056748776,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5503508947458 55.6953802861638,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6185212946688 55.6623405929192,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5494554632775 55.6917070630362,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5504525903932 55.6887275737247,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5501173097624 55.6889497799367,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5500647374983 55.6889135795379,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5493326170639 55.6916960066268,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6146014396356 55.6568571597302,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6146146419909 55.657409802789,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6136524099952 55.6568508850386,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6160058272114 55.6573108119153,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5328906796972 55.6557046998633,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5329434169607 55.6557048191267,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5329248946464 55.6556728972208,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.52522685011 55.6617779697506,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5276925938514 55.6595896037187,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5269484738003 55.658674172046,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.528733894657 55.6623647981013,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5330172638298 55.658618548943,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.617778476868 55.6568790344977,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5238659485733 55.71766155586,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5256077192249 55.71501020916,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5294669685489 55.7136813067941,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5236913317254 55.7115592845055,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5305072664354 55.7136807534503,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5269353196605 55.7169682919136,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5003856250129 55.6870075366829,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5002641780364 55.6868046984393,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4941268679295 55.683961232665,NA,flagged for deletion,2
+DUPLICATE_LOCATION,12.5194422190543 55.6397502349414,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5197229934587 55.6179624696676,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4638550274036 55.6958701098536,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6331167744933 55.6666403514503,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330914197392 55.6666322786236,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330625123607 55.6666254121679,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330286598101 55.6666160291056,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330188469393 55.6666016725845,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330381438752 55.6665811270971,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330579106723 55.6665605676817,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330801025466 55.6665356753549,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6330971978372 55.6665167929935,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.633111968347 55.6664982458409,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.633127801788 55.6664809987604,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6331442793303 55.6664605368091,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6331583810468 55.6664449389354,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6331709475741 55.6664301964092,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6333104747013 55.6664335788403,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.633185705295 55.6664123901027,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6331984529511 55.6664041696761,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6332245728511 55.6664102062811,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6332523402548 55.6664182579045,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6332801198286 55.6664265491135,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5422870265806 55.7072033954756,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5377353835175 55.716646648863,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5369732360985 55.716703596288,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5368191531073 55.7166843583213,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5362873335648 55.716693574656,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5674832290917 55.714144465864,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5673308142064 55.7142194254602,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5637422106331 55.7211898148755,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5637186343978 55.7212758460784,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5652434060243 55.714844224178,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5671139606934 55.7154313944406,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5536610177683 55.6967476611799,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5417298491066 55.7072879822518,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5936340979635 55.6939915833574,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4823318159537 55.6543427127648,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.481646931697 55.6547611214945,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.6185685925651 55.6622920097045,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.518397383749 55.6446590983623,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5200453796553 55.6411962111167,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.4819873301012 55.6730782690096,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5986623183951 55.6948169416198,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5985330748118 55.6947565054636,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.596914058161 55.6940343302319,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5968159437939 55.6939332156532,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5972005591697 55.6938473730274,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5972419733682 55.6937986333929,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5971505800109 55.6939574673159,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5970397024683 55.6941239893766,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5937983980976 55.6940238547404,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.597165198703 55.6940095011048,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5971573614 55.6939004854056,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5968602789484 55.6939851278782,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5972037933377 55.6940608316602,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5971119595468 55.6941745142225,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5972552394779 55.6941093164282,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5971827035658 55.6942150345374,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5973233870616 55.6941492876081,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5973936254443 55.6943243041613,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5973212954598 55.6942882099565,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5972530276384 55.6942545917947,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5974631815136 55.6942109152207,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5976189213463 55.6942782596341,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5976940192677 55.6943084596922,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5973873691571 55.6941765003023,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5978578120254 55.6943694177381,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.598025061323 55.6944315146095,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5977752039134 55.694340287596,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5983597535054 55.6945560692881,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5993276114536 55.6951426155281,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5982744256913 55.6945262323765,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5984584097223 55.6947149733015,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5984414973232 55.6945893566958,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5983825584822 55.6946832593886,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5981340146635 55.6945933623641,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5981921572486 55.6944947356331,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5985940592758 55.69464852902,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5986772834232 55.6946767927881,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5987549865184 55.6949004305833,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5986996635729 55.6948597297138,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5987941542689 55.6949552412939,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5992603967457 55.6950413508326,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5992943435468 55.6950841565648,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5994342548244 55.6952646467924,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5995539301747 55.6953851644591,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5994947550842 55.6953198133023,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5993823026885 55.6952022247118,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5991937712909 55.694982888461,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5985165711519 55.6946191113935,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.527477325118 55.64990758224,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5273959906902 55.6499448229397,NA,flagged for deletion,1
+DUPLICATE_LOCATION,12.5275341327825 55.6499401187391,NA,flagged for deletion,1
