@@ -1,4 +1,4 @@
-# Cleaning and QC of Copenhagen's municipal tree dataset
+# Cleaning, QC of Copenhagen's municipal tree dataset
 
 ## Data source
 
