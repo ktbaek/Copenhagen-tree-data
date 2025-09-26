@@ -17,12 +17,13 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 9. Separate scientific names into their components
 10. Fix Danish names based on the scientific name (incl. special names for cultivars and variants) according to [these](rules/latin_da_map.csv) and [these](rules/latin_da_map_malus.csv) rules
 11. Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv)
-
-Step 10 and 11 assumes the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.  
-
 12. Flag entries with identical locations.
 
-The rule sets are not yet complete, but reflect an ongoing effort. All changes have been recorded in a [changelog](output/).
+Step 10 and 11 assumes the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
+
+The rule sets are not yet complete, but reflect an ongoing effort.
+
+All changes have been recorded in a [changelog](output/). So far, ~17,000 changes (543 unique) have been made to the original dataset.
 
 
 ## Online Shiny-app
