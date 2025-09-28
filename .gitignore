@@ -6,5 +6,6 @@
 .DS_Store
 *cache/
 code/
+tests/
 output/kk_trees*
 raw_data/
