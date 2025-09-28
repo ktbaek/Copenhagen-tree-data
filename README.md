@@ -29,6 +29,6 @@ So far, ~17,000 changes (545 unique) have been made to the original dataset. All
 
 ## Online Shiny-app
 
-I used the cleaned and quality controlled dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen!
+I used the cleaned and quality controlled dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen. Go check it out, it's really great!
 
 ![App image](app_screenshot.png)
