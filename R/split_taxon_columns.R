@@ -13,5 +13,4 @@ split_taxon_columns <- function(df) {
   df$genus <- str_squish(df$genus)
   
   df
-  
-}
+  }

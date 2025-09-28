@@ -18,5 +18,4 @@ drop_dup_uuid <- function(df, report = NULL) {
     if (nrow(dupes)) report$add("DUPLICATE_UUID_DROPPED", dupes$uuid, "uuid", paste0(dupes$n, " rows"), "1 row", message = "UUID deleted when all values identical")
   }
   df2
-  
-}
+  }

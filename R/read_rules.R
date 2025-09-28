@@ -4,5 +4,6 @@ read_rules <- function(path, sort_col = "priority") {
   nm <- tools::file_path_sans_ext(basename(path))
   attr(df, "ruleset") <- nm
   if (sort_col %in% names(df)) df <- arrange(df, desc(.data[[sort_col]]))
+  
   df
 }
