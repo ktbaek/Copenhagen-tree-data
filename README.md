@@ -24,7 +24,7 @@ The last two steps assume that the scientific names are the ground truth. This i
 
 The rule sets are not complete, but reflect an ongoing effort.
 
-All changes have been recorded in a [changelog](output/). So far, ~17,000 changes (545 unique) have been made to the original dataset.
+So far, ~17,000 changes (545 unique) have been made to the original dataset. All changes have been recorded in a [changelog](output/).
 
 
 ## Online Shiny-app
