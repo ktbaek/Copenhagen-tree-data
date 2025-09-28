@@ -1,0 +1,421 @@
+traeart;dansk_navn;slaegtsnavn;column;value_to;ruleset;message
+Acer freemanii 'Elegant';Ahorn;Løn;traeart;Acer hybr. freemanii 'Elegant';latin_rules;add hybrid marker
+Acer freemanii X;NA;Løn;traeart;Acer hybr. freemanii;latin_rules;add hybrid marker
+Aesculus carnea;Rød hestekastanie;Hestekastanie;traeart;Aesculus hybr. carnea;latin_rules;add hybrid marker
+Larix eurolepis;Lærk;Lærk;traeart;Larix hybr. eurolepis;latin_rules;add hybrid marker
+Malus floribunda;Japansk paradisæble;Æble;traeart;Malus hybr. floribunda;latin_rules_malus;add hybrid marker
+Populus canadensis;Poppel;Poppel;traeart;Populus hybr. canadensis;latin_rules;add hybrid marker
+Populus canadensis 'Bachalierii';Poppel;Poppel;traeart;Populus hybr. canadensis 'Bachalierii';latin_rules;add hybrid marker
+Populus canescens;Poppel;Poppel;traeart;Populus hybr. canescens;latin_rules;add hybrid marker
+Populus gileadensis;Poppel;Poppel;traeart;Populus hybr. gileadensis;latin_rules;add hybrid marker
+Tilia europaea;Park-Lind;Lind;traeart;Tilia hybr. europaea;latin_rules;add hybrid marker
+Ulmus 'Columella';Elm 'Columella';Elm;traeart;Ulmus hybr. 'Columella';latin_rules;add hybrid marker
+Ulmus Fiorente;Elm 'Fiorente';Elm;traeart;Ulmus hybr. 'Fiorente';latin_rules;add hybrid marker
+Pyrus communis 'Clara Frijs';Clara Frijs-pære;Pære;dansk_navn;Clara Frijs-pære;da_rules;backcorrect case fix
+Acer cissifolia;NA;Løn;dansk_navn;unknown;latin_da_map;change danish name based on latin name
+Alnus spaethii;Alnus spaethii, ikke navngivet på dansk;El;dansk_navn;unknown;latin_da_map;change danish name based on latin name
+Betula pendula 'Dalecarlica';Birk, pollenfri;Birk;dansk_navn;Fligbladet birk (pollenfri);latin_da_map;change danish name based on latin name
+Crataegus monogyna 'PKP select';Hvidtjørn;Tjørn;dansk_navn;Engriflet hvidtjørn;latin_da_map;change danish name based on latin name
+Cunninghamia lanceolata;NA;NA;dansk_navn;Kinesisk ligkistetræ;latin_da_map;change danish name based on latin name
+Fagus sylvatica;Bøg;Bøg;dansk_navn;Almindelig bøg;latin_da_map;change danish name based on latin name
+Ginkgo sp.;Gingko;Gingko;dansk_navn;Tempeltræ;latin_da_map;change danish name based on latin name
+Gleditsia triacanthos;Tretorn;Tretorn;dansk_navn;Almindelig tretorn;latin_da_map;change danish name based on latin name
+Gleditsia triacanthos 'Sunburst';Tretorn;Tretorn;dansk_navn;Almindelig tretorn;latin_da_map;change danish name based on latin name
+Hydrangea arboreum;NA;NA;dansk_navn;Hortensia;latin_da_map;change danish name based on latin name
+Larix eurolepis;Lærk;Lærk;dansk_navn;Hybrid-lærk;latin_da_map;change danish name based on latin name
+Larix leptolepis;NA;Lærk;dansk_navn;Japansk lærk;latin_da_map;change danish name based on latin name
+Magnolia x Soulangiana;NA;Magnolia;dansk_navn;Almindelig magnolie;latin_da_map;change danish name based on latin name
+Magnolia x thompsoniana;NA;Magnolia;dansk_navn;unknown;latin_da_map;change danish name based on latin name
+Malus 'Alice Balsgaard';Æble 'Alice Balsgaard';Æble;dansk_navn;Almindelig æble 'Alice Balsgaard';latin_da_map_malus;change danish name based on latin name
+Malus 'Bramley's Seedling';Æble 'Bramley's Seedlings';Æble;dansk_navn;Almindelig æble 'Bramley';latin_da_map_malus;change danish name based on latin name
+Malus 'Cox Orange';Cox orange æble;Æble;dansk_navn;Almindelig æble 'Cox Orange';latin_da_map_malus;change danish name based on latin name
+Malus 'Holsteiner Cox';Æble 'Holsteiner Cox';Æble;dansk_navn;Almindelig æble 'Holsteiner Cox';latin_da_map_malus;change danish name based on latin name
+Malus 'Rød ananas';Rød ananas æble;Æble;dansk_navn;Almindelig æble 'Rød ananas';latin_da_map_malus;change danish name based on latin name
+Malus 'Topaz';Æble 'Topaz';Æble;dansk_navn;Almindelig æble 'Topaz';latin_da_map_malus;change danish name based on latin name
+Malus baccata 'Snowdrift';Æble 'Snowdrift';Æble;dansk_navn;Paradisæble 'Snowdrift';latin_da_map_malus;change danish name based on latin name
+Malus discovery;Æble discovery;Æble;dansk_navn;Almindelig æble 'Discovery';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Aroma';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Aroma';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Bøghs citronæble';Æble 'Bøghs citronæble';Æble;dansk_navn;Almindelig æble 'Bøghs citronæble';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Filippa';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Filippa';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Golden Delicious';Æble 'Golden Delicious';Æble;dansk_navn;Almindelig æble 'Golden Delicious';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Gul Gråsten';Æble 'Gul Gråsten';Æble;dansk_navn;Almindelig æble 'Gul Gråsten';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Guldborg';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Guldborg';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Ildrød Pigeon';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Ildrød Pigeon';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Ingrid Marie';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Ingrid Marie';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Katinka';Æble 'Katinka';Æble;dansk_navn;Almindelig æble 'Katinka';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Nanna';Æble 'Nanna';Æble;dansk_navn;Almindelig æble 'Nanna';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Rød Belle De Boskoop';Æble 'Belle De Boskoop';Æble;dansk_navn;Almindelig æble 'Rød Belle De Boskoop';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Rød Gråsten';Almindelig æble;Æble;dansk_navn;Almindelig æble 'Rød Gråsten';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Rød aroma';Æble 'Rød aroma';Æble;dansk_navn;Almindelig æble 'Rød aroma';latin_da_map_malus;change danish name based on latin name
+Malus domestica 'Spartan';Malus 'Spartan';Æble;dansk_navn;Almindelig æble 'Spartan';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Akso';Paradisæble;Æble;dansk_navn;Paradisæble 'Akso';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Braendkjaer';Paradisæble;Æble;dansk_navn;Paradisæble 'Braendkjaer';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Butterball';Paradisæble;Æble;dansk_navn;Paradisæble 'Butterball';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Dir. Moerland';Paradisæble;Æble;dansk_navn;Paradisæble 'Dir. Moerland';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Evereste';Paradisæble;Æble;dansk_navn;Paradisæble 'Evereste';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Evereste';Paradisæble;Kirsebær/Blomme;dansk_navn;Paradisæble 'Evereste';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Gorgeous';Paradisæble;Æble;dansk_navn;Paradisæble 'Gorgeous';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'John Downie';Paradisæble;Æble;dansk_navn;Paradisæble 'John Downie';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Professor Sprenger';Paradisæble;Æble;dansk_navn;Paradisæble 'Professor Sprenger';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Red Sentinel';Paradisæble;Æble;dansk_navn;Paradisæble 'Red Sentinel';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Red Splendor';Paradisæble;Æble;dansk_navn;Paradisæble 'Red Splendor';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Rudolf';Paradisæble;Æble;dansk_navn;Paradisæble 'Rudolf';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'Street Parade';Paradisæble;Æble;dansk_navn;Paradisæble 'Street Parade';latin_da_map_malus;change danish name based on latin name
+Malus hybr. 'david';Paradisæble;Æble;dansk_navn;Paradisæble 'david';latin_da_map_malus;change danish name based on latin name
+Malus hybrid Hyslop;Æble 'Hyslop';Æble;dansk_navn;Paradisæble 'Hyslop';latin_da_map_malus;change danish name based on latin name
+Malus ioensis  'Plena';NA;Æble;dansk_navn;unknown;latin_da_map_malus;change danish name based on latin name
+Malus rubinola;Æble rubinola;Æble;dansk_navn;Almindelig æble 'Rubinola';latin_da_map_malus;change danish name based on latin name
+Malus sargentii;Æble;Æble;dansk_navn;Sargents æble;latin_da_map_malus;change danish name based on latin name
+Malus sieboldie  'Browers beauty';Paradisæble;Æble;dansk_navn;Japansk prydæble 'Brouwers beauty';latin_da_map_malus;change danish name based on latin name
+Malus sieboldie  'Freja';Paradisæble;Æble;dansk_navn;Japansk prydæble 'Freja';latin_da_map_malus;change danish name based on latin name
+Malus sieboldii;Malus sieboldii;Æble;dansk_navn;Japansk prydæble;latin_da_map_malus;change danish name based on latin name
+Malus sieboldii 'Hesse';Japansk prydæble;Æble;dansk_navn;Japansk prydæble 'Hesse';latin_da_map_malus;change danish name based on latin name
+Malus sieboldii 'Hesse';Japansk prydæble;Kirsebær/Blomme;dansk_navn;Japansk prydæble 'Hesse';latin_da_map_malus;change danish name based on latin name
+Malus trilobata;Malus trilobata, ikke navngivet på dansk;Æble;dansk_navn;unknown;latin_da_map_malus;change danish name based on latin name
+Malus tschonoskii;Japansk paradisæble;Æble;dansk_navn;Fujiyama-æble;latin_da_map_malus;change danish name based on latin name
+Malus x 'Elstar';Æble 'Elstar';Æble;dansk_navn;Paradisæble 'Elstar';latin_da_map_malus;change danish name based on latin name
+Malus x 'James Greive';Æble 'Jame Grieve';Æble;dansk_navn;Almindelig æble 'James Grieve';latin_da_map_malus;change danish name based on latin name
+Populus trichocarpa;Balsampoppel;Poppel;dansk_navn;Vestamerikansk balsampoppel;latin_da_map;change danish name based on latin name
+Prunus umineko;Prunus umineko, ikke navngivet på dansk;Kirsebær/Blomme;dansk_navn;Prydkirsebær;latin_da_map;change danish name based on latin name
+Prunus umineko;Prunus umineko, ikke navngivet på dansk;Lind;dansk_navn;Prydkirsebær;latin_da_map;change danish name based on latin name
+Pyrus caucasica;Pyrus caucasica, ikke navngivet på dansk;Pære;dansk_navn;Prydpære;latin_da_map;change danish name based on latin name
+Rhamnus imeritinus;NA;Vrietorn;dansk_navn;Kaukasisk vrietorn;latin_da_map;change danish name based on latin name
+Rhododendron williamsianum;NA;Rhododendron;dansk_navn;Williamsianum rhododendron;latin_da_map;change danish name based on latin name
+Rhus glabra 'lancianata';NA;Sumak;dansk_navn;Hjortetaktræ;latin_da_map;change danish name based on latin name
+Tetradium daniéllii;Bitræ;Tetradium;dansk_navn;Honningtræ;latin_da_map;change danish name based on latin name
+Álnus inokumea;Alnus inokumea, ikke navngivet på dansk;El;dansk_navn;unknown;latin_da_map;change danish name based on latin name
+Acer pseudoplatanoides 'Spaethii';Ahorn 'Spaethii';Løn;traeart;Acer pseudoplatanus 'Spaethii';latin_rules;could also be platanoides
+Malus sieboldie  'Browers beauty';Paradisæble;Æble;traeart;Malus sieboldii 'Brouwers beauty';latin_rules_malus;cultivar spelling fix
+Prunus domestica 'Incititia';Kræge;Kirsebær/Blomme;traeart;Prunus domestica ssp. insisitia;latin_rules;cultivar to subspecies
+Malus 'Angold';Alm. æble 'Angold';Æble;dansk_navn;Almindelig æble 'Angold';da_rules;danish expand abbrev.
+Malus 'Cox Queen';Alm. æble 'Cox Queen';Æble;dansk_navn;Almindelig æble 'Cox Queen';da_rules;danish expand abbrev.
+Malus 'Säftaholm';Alm. æble 'Säftaholm';Æble;dansk_navn;Almindelig æble 'Säftaholm';da_rules;danish expand abbrev.
+Malus 'Åkerø Hassel';Alm. æble 'Åkerø Hassel';Æble;dansk_navn;Almindelig æble 'Åkerø Hassel';da_rules;danish expand abbrev.
+Malus Signe Tillisch;Alm. æble 'Signe Tillisch';Æble;dansk_navn;Almindelig æble 'Signe Tillisch';da_rules;danish expand abbrev.
+Malus domestica 'Goldparmäne';Alm. æble 'Goldparmäne';Æble;dansk_navn;Almindelig æble 'Goldparmäne';da_rules;danish expand abbrev.
+Malus domestica 'Katja';Alm. æble 'Katja';Æble;dansk_navn;Almindelig æble 'Katja';da_rules;danish expand abbrev.
+NA;NA;Ægte kastanie;slaegtsnavn;Kastanje;da_rules;danish genus name fix
+Acer globosum;Kugle ahorn;Løn;dansk_navn;Kugleahorn;da_rules;danish name compund word
+Acer japonica;Fuldmåne Løn;Løn;dansk_navn;Fuldmåne-løn;da_rules;danish name compund word
+Acer x zoeschense 'Annae';Hybrid løn 'Annae';Løn;dansk_navn;Hybrid-løn 'Annae';da_rules;danish name compund word
+Almus inceana;Grå el;El;dansk_navn;Gråel;da_rules;danish name compund word
+Alnus glutinosa;rød-el;El;dansk_navn;Rødel;da_rules;danish name compund word
+Alnus glutinosa 'Laciniata';Rød-el;El;dansk_navn;Rødel;da_rules;danish name compund word
+Alnus glutinosa 'Laciniata';Rød-el;Røn;dansk_navn;Rødel;da_rules;danish name compund word
+Carpinus betulus 'Fastigiata';Pyramide avnbøg;Avnbøg;dansk_navn;Pyramideavnbøg;da_rules;danish name compund word
+Fraxinus excelsior 'Pendula';Hænge ask;Ask;dansk_navn;Hængeask;da_rules;danish name compund word
+Fraxinus ornus;Manna ask;Ask;dansk_navn;Manna-ask;da_rules;danish name compund word
+Prunus sachalinensis;Sakhalin Kirsebær;Kirsebær/Blomme;dansk_navn;Sakhalinkirsebær;da_rules;danish name compund word
+Prunus sargentii 'Rancho';Sakhalin-kirsebær;Kirsebær/Blomme;dansk_navn;Sakhalinkirsebær;da_rules;danish name compund word
+Pyrus communis 'Charneau';Charneau pære;Pære;dansk_navn;Charneau-pære;da_rules;danish name compund word
+Quercus cerris;Frynse-eg;Eg;dansk_navn;Frynseeg;da_rules;danish name compund word
+Quercus coccinea;Skarlagens Eg;Eg;dansk_navn;Skarlagen-eg;da_rules;danish name compund word
+Quercus robur;Stilk-eg;Eg;dansk_navn;Stilkeg;da_rules;danish name compund word
+Quercus robur;Stilk-eg;Robinie;dansk_navn;Stilkeg;da_rules;danish name compund word
+Quercus robur 'Alnarp';Stilk-eg;Eg;dansk_navn;Stilkeg;da_rules;danish name compund word
+Quercus robur 'Pectinata';Stilk-eg 'Pectinata';Eg;dansk_navn;Stilkeg 'Pectinata';da_rules;danish name compund word
+Quércus x túrneri;Turner eg;Eg;dansk_navn;Turner-eg;da_rules;danish name compund word
+Robínia luxúrians;Pragt robinie;Robinie;dansk_navn;Pragtrobinie;da_rules;danish name compund word
+Salix caprea 'Mas';Selje Pil;Pil;dansk_navn;Seljepil;da_rules;danish name compund word
+Salix purpurea 'Gracilis';Purpur pil;Pil;dansk_navn;Purpurpil;da_rules;danish name compund word
+Ulmus laevis;Skærm elm;Elm;dansk_navn;Skærmelm;da_rules;danish name compund word
+Aesculus carnea;Rød hestekastanie;Hestekastanie;dansk_navn;Rød hestekastanje;da_rules;danish name spelling fix
+Aesculus carnea;Rød hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus flava;Gul Hestekastanje;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus flava f. virginica;Virginsk hestekastanie;Hestekastanie;dansk_navn;Virginsk hestekastanje;da_rules;danish name spelling fix
+Aesculus flava f. virginica;Virginsk hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus glabra;Glat Hestekastanje;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus hippoc. 'Baumannii';Fyldtblomstret hestekastanie;Hestekastanie;dansk_navn;Fyldtblomstret hestekastanje;da_rules;danish name spelling fix
+Aesculus hippoc. 'Baumannii';Fyldtblomstret hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus hippocastanum;Hestekastanie;Hestekastanie;dansk_navn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus hippocastanum;Hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus hybr. carnea 'Briotii';Rød hestekastanie;Hestekastanie;dansk_navn;Rød hestekastanje;da_rules;danish name spelling fix
+Aesculus hybr. carnea 'Briotii';Rød hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus parviflora;Busk-hestekastanie;Hestekastanie;dansk_navn;Busk-hestekastanje;da_rules;danish name spelling fix
+Aesculus parviflora;Busk-hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus sp.;Hestekastanie;Hestekastanie;dansk_navn;Hestekastanje;da_rules;danish name spelling fix
+Aesculus sp.;Hestekastanie;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Betula pendula;Vortebrik;Birk;dansk_navn;Vortebirk;da_rules;danish name spelling fix
+Castanea sativa;Ægte kastanie;Kastanie;dansk_navn;Ægte kastanje;da_rules;danish name spelling fix
+Castanea sativa;Ægte kastanie;Kastanie;slaegtsnavn;Kastanje;da_rules;danish name spelling fix
+Castanea sp.;Kastanie;Kastanie;dansk_navn;Kastanje;da_rules;danish name spelling fix
+Castanea sp.;Kastanie;Kastanie;slaegtsnavn;Kastanje;da_rules;danish name spelling fix
+Cotinus coggygria;Parybusk;NA;dansk_navn;Parykbusk;da_rules;danish name spelling fix
+Crataegus monogyna;Engriflet hvidtjørn;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Eleagnus angustifolia;Smallbladet sølvblad;Sølvblad;dansk_navn;Smalbladet sølvblad;da_rules;danish name spelling fix
+Liquidambar styraciflua 'Worplesdon';Ambertræ;Ambratræ;dansk_navn;Ambratræ;da_rules;danish name spelling fix
+Liquidambar styraciflua 'Worplesdon';Ambertræ;Tulipantræ;dansk_navn;Ambratræ;da_rules;danish name spelling fix
+Magnolia hybr. loebneri 'Merrill';Magnolia hybr. loebneri 'Merrill';Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia hybr. loebneri 'Merrill';Magnolia hybr. loebneri 'Merrill';Magnolia;dansk_navn;Magnolie hybr. loebneri 'Merrill';da_rules;danish name spelling fix
+Magnolia hybr. soulangeana;Almindelig magnolia;Magnolia;dansk_navn;Almindelig magnolie;da_rules;danish name spelling fix
+Magnolia hybr. soulangeana;Almindelig magnolia;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia hybr. soulangeana 'Susan';Almindelig magnolia;Magnolia;dansk_navn;Almindelig magnolie;da_rules;danish name spelling fix
+Magnolia hybr. soulangeana 'Susan';Almindelig magnolia;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia kobus;Japansk magnolia;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia kobus;Japansk magnolia;Magnolia;dansk_navn;Japansk magnolie;da_rules;danish name spelling fix
+Magnolia x 'Galaxy';Magnolia 'Galaxy';Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia x 'Galaxy';Magnolia 'Galaxy';Magnolia;dansk_navn;Magnolie 'Galaxy';da_rules;danish name spelling fix
+Magnolia x Soulangiana;NA;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnolia x thompsoniana;NA;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnólia sp.;Magnolia;Magnolia;slaegtsnavn;Magnolie;da_rules;danish name spelling fix
+Magnólia sp.;Magnolia;Magnolia;dansk_navn;Magnolie;da_rules;danish name spelling fix
+Robinia x margaretta 'Pink Cascade';Robinia 'Pink Cascade';Robinie;dansk_navn;Robinie 'Pink Cascade';da_rules;danish name spelling fix
+NA;NA;Kastanie;slaegtsnavn;Kastanje;da_rules;danish name spelling fix
+NA;NA;Ægte kastanie;slaegtsnavn;Ægte kastanje;da_rules;danish name spelling fix
+NA;NA;Hestekastanie;slaegtsnavn;Hestekastanje;da_rules;danish name spelling fix
+Acer ginnala;ildløn;Sumak;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Acer platanoides;Spidsløn;Platan;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Acer platanoides;Spidsløn;Ask;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Acer pseudoplatanus;Ahorn;Platan;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Acer saccharinum;Sølvløn;Kirsebær/Blomme;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Albizia julibrissin;Silkerosentræ;Albizia (Ærteblomst-fam,);slaegtsnavn;Albizia;genus_dict;fix danish genus based on binomial
+Alnus glutinosa 'Laciniata';Rød-el;Røn;slaegtsnavn;El;genus_dict;fix danish genus based on binomial
+Araucaria araucana;Abetræ;Araucarie;slaegtsnavn;Abeskræk;genus_dict;fix danish genus based on binomial
+Broussonetia papyrifera;Papirmorbær;Broussonetia sp.;slaegtsnavn;Broussonetia;genus_dict;fix danish genus based on binomial
+Buxus sp.;Buxbom;Buxbom;slaegtsnavn;Buksbom;genus_dict;fix danish genus based on binomial
+Carpinus betulus;Avnbøg;Bøg;slaegtsnavn;Avnbøg;genus_dict;fix danish genus based on binomial
+Cercis canadensis  'Forest Pansy';Judastræ;Judastræs slægten;slaegtsnavn;Judastræ;genus_dict;fix danish genus based on binomial
+Cercis siliquastrum;Europæisk Judastræ;Judastræs slægten;slaegtsnavn;Judastræ;genus_dict;fix danish genus based on binomial
+Chamaecyparis lawsoniana;Ædelcypres;Dværgcypres;slaegtsnavn;Dværgcypres/Ædelcypres;genus_dict;fix danish genus based on binomial
+Chamaecyparis obtusa;Solcypres;Dværgcypres;slaegtsnavn;Dværgcypres/Ædelcypres;genus_dict;fix danish genus based on binomial
+Chamaecyparis sp.;Dværgcypres;Dværgcypres;slaegtsnavn;Dværgcypres/Ædelcypres;genus_dict;fix danish genus based on binomial
+Cladrastis lutea;Alm kladrastis;Kladrastis;slaegtsnavn;Cladrastis;genus_dict;fix danish genus based on binomial
+Corylus colurna;Tyrkisk hassel;Kornel;slaegtsnavn;Hassel;genus_dict;fix danish genus based on binomial
+Corylus colurna;Tyrkisk hassel;El;slaegtsnavn;Hassel;genus_dict;fix danish genus based on binomial
+Corylus sp.;Hassel;Trompetkrone;slaegtsnavn;Hassel;genus_dict;fix danish genus based on binomial
+Crataegus monogyna;Engriflet hvidtjørn;Tretorn;slaegtsnavn;Tjørn;genus_dict;fix danish genus based on binomial
+Crataegus monogyna;Engriflet hvidtjørn;Hestekastanie;slaegtsnavn;Tjørn;genus_dict;fix danish genus based on binomial
+Crataegus sp.;Tjørn;Avnbøg;slaegtsnavn;Tjørn;genus_dict;fix danish genus based on binomial
+Cunninghamia lanceolata;NA;Pil;slaegtsnavn;Cunninghamia;genus_dict;fix danish genus based on binomial
+Cydónia oblónga;Almindelig kvæde;Pære;slaegtsnavn;Kvæde;genus_dict;fix danish genus based on binomial
+Fagus sp.;Bøg;Ask;slaegtsnavn;Bøg;genus_dict;fix danish genus based on binomial
+Fagus sylvatica;Bøg;Avnbøg;slaegtsnavn;Bøg;genus_dict;fix danish genus based on binomial
+Forthergilla major;Stor troldel;Stor troldel;slaegtsnavn;Troldel;genus_dict;fix danish genus based on binomial
+Fraxinus excelsior;Almindelig ask;Kirsebær/Blomme;slaegtsnavn;Ask;genus_dict;fix danish genus based on binomial
+Ginkgo biloba;Tempeltræ;Gingko;slaegtsnavn;Tempeltræ;genus_dict;fix danish genus based on binomial
+Ginkgo biloba 'Fastigiata';Tempeltræ 'Fastigata';Gingko;slaegtsnavn;Tempeltræ;genus_dict;fix danish genus based on binomial
+Ginkgo biloba 'Saratoga';Tempeltræ 'Saratoga';Gingko;slaegtsnavn;Tempeltræ;genus_dict;fix danish genus based on binomial
+Ginkgo sp.;Gingko;Gingko;slaegtsnavn;Tempeltræ;genus_dict;fix danish genus based on binomial
+Gleditsia triacanthos;Tretorn;Bjergthe;slaegtsnavn;Tretorn;genus_dict;fix danish genus based on binomial
+Gleditsia triacanthos 'Skyline';Tretorn;Bjergthe;slaegtsnavn;Tretorn;genus_dict;fix danish genus based on binomial
+Hibiscus syriacus;Syrisk rose;Hibiscus-slægten;slaegtsnavn;Hibiscus;genus_dict;fix danish genus based on binomial
+Laburnocytisus adami;Adams Guldregn;Adams Guldregn;slaegtsnavn;Adams guldregn;genus_dict;fix danish genus based on binomial
+Laburnum sp.;Guldregn;Løn;slaegtsnavn;Guldregn;genus_dict;fix danish genus based on binomial
+Liquidambar styraciflua 'Worplesdon';Ambertræ;Tulipantræ;slaegtsnavn;Ambratræ;genus_dict;fix danish genus based on binomial
+Maclura pomifera;Orangemorbær;Osagetorn;slaegtsnavn;Maclura;genus_dict;fix danish genus based on binomial
+Malus hybr. 'Evereste';Paradisæble;Kirsebær/Blomme;slaegtsnavn;Æble;genus_dict;fix danish genus based on binomial
+Malus sieboldii 'Hesse';Japansk prydæble;Kirsebær/Blomme;slaegtsnavn;Æble;genus_dict;fix danish genus based on binomial
+Metasequoia glyptostroboides;Vandgran;Tjørn;slaegtsnavn;Vandgran;genus_dict;fix danish genus based on binomial
+Nyssa sylvatica;Tupelotræ;Nyssa;slaegtsnavn;Tupelotræ;genus_dict;fix danish genus based on binomial
+Parrotia persica;Papegøjebusk;Parrotia, ikke navngivet på dansk;slaegtsnavn;Papegøjebusk;genus_dict;fix danish genus based on binomial
+Paulównia tomentósa;Kejsertræ;Paulównia;slaegtsnavn;Kejsertræ;genus_dict;fix danish genus based on binomial
+Physocarbus opulifolius  'El Diabolo';Rødbladet blærespirea;Blærespirea;slaegtsnavn;Blærespiræa;genus_dict;fix danish genus based on binomial
+Pinus nigra;Sortfyr;Platan;slaegtsnavn;Fyr;genus_dict;fix danish genus based on binomial
+Prunus avium;Fuglekirsebær;Løn;slaegtsnavn;Kirsebær/Blomme;genus_dict;fix danish genus based on binomial
+Prunus avium;Fuglekirsebær;Eg;slaegtsnavn;Kirsebær/Blomme;genus_dict;fix danish genus based on binomial
+Prunus subhirtella 'Autumnalis';Oktoberkirsebær;Eg;slaegtsnavn;Kirsebær/Blomme;genus_dict;fix danish genus based on binomial
+Prunus umineko;Prunus umineko, ikke navngivet på dansk;Lind;slaegtsnavn;Kirsebær/Blomme;genus_dict;fix danish genus based on binomial
+Pterocárya sp.;Vingevalnød;Valnød;slaegtsnavn;Vingevalnød;genus_dict;fix danish genus based on binomial
+Pyrus calleryana;Kinapære;Ask;slaegtsnavn;Pære;genus_dict;fix danish genus based on binomial
+Quercus palustris;Sumpeg;Røn;slaegtsnavn;Eg;genus_dict;fix danish genus based on binomial
+Quercus robur;Stilk-eg;Robinie;slaegtsnavn;Eg;genus_dict;fix danish genus based on binomial
+Rhamnus catharticus;Vrietorn;Vrietorn;slaegtsnavn;Korsved;genus_dict;fix danish genus based on binomial
+Rhamnus frangula;Tørst;Vrietorn;slaegtsnavn;Korsved;genus_dict;fix danish genus based on binomial
+Rhamnus imeritinus;NA;Vrietorn;slaegtsnavn;Korsved;genus_dict;fix danish genus based on binomial
+Rhamnus sp.;Vrietorn;Vrietorn;slaegtsnavn;Korsved;genus_dict;fix danish genus based on binomial
+Rosa sp.;Rose;Røn;slaegtsnavn;Rose;genus_dict;fix danish genus based on binomial
+Salix sp.;Pil;El;slaegtsnavn;Pil;genus_dict;fix danish genus based on binomial
+Sambucus nigra 'Korsør';Hyld;Slåen;slaegtsnavn;Hyld;genus_dict;fix danish genus based on binomial
+Sambuscus nigra;Almindelig hyld;Slåen;slaegtsnavn;Hyld;genus_dict;fix danish genus based on binomial
+Sambuscus sp.;Hyld;Slåen;slaegtsnavn;Hyld;genus_dict;fix danish genus based on binomial
+Sequoiadéndron gigantéum;Mammuttræ;Sequoiadendron, ikke navngivet på dansk;slaegtsnavn;Mammuttræ;genus_dict;fix danish genus based on binomial
+Sophora japonica (Styphnolobium japonica);Pagodetræ;Sophora;slaegtsnavn;Pagodetræ;genus_dict;fix danish genus based on binomial
+Sorbus sp.;Røn;Æble;slaegtsnavn;Røn;genus_dict;fix danish genus based on binomial
+Styphnolobium japonica;Pagodetræ;Sophora;slaegtsnavn;Pagodetræ;genus_dict;fix danish genus based on binomial
+Styphnolobium sp.;Sophora;Sophora;slaegtsnavn;Pagodetræ;genus_dict;fix danish genus based on binomial
+Styrax japonica;Japansk storaks;Storaks;slaegtsnavn;Styrax;genus_dict;fix danish genus based on binomial
+Symphoricapos albus;Hvid snebær;Benved;slaegtsnavn;Snebær;genus_dict;fix danish genus based on binomial
+Syringa vulgaris;Almindelig syren;Syren-slægten;slaegtsnavn;Syren;genus_dict;fix danish genus based on binomial
+Taxodium distichum;Almindelig Sumpcypres;Taxodium, ikke navngivet på dansk;slaegtsnavn;Sumpcypres;genus_dict;fix danish genus based on binomial
+Tilia hybr. europaea 'Pallida';Kejserlind;Løn;slaegtsnavn;Lind;genus_dict;fix danish genus based on binomial
+Tilia hybr. europaea 'Pallida';Kejserlind;Robinie;slaegtsnavn;Lind;genus_dict;fix danish genus based on binomial
+Trachycarpus fortunei;Hørpalme;Hørpalme;slaegtsnavn;Hørpalme-slægten;genus_dict;fix danish genus based on binomial
+Ulmus 'New Horizon';Elm 'New Horizon';Eg;slaegtsnavn;Elm;genus_dict;fix danish genus based on binomial
+Viburnum opulus;Almindelig kvalkved;Snebolle;slaegtsnavn;Kvalkved;genus_dict;fix danish genus based on binomial
+Viburnum x bodnantense;Kejserbusk;Snebolle;slaegtsnavn;Kvalkved;genus_dict;fix danish genus based on binomial
+Zelkóva serráta;Japansk zelkova;Zelkova, ikke navngivet på dansk;slaegtsnavn;Zelkova;genus_dict;fix danish genus based on binomial
+Ácer argutum;Japansk løn;Ædelgran;slaegtsnavn;Løn;genus_dict;fix danish genus based on binomial
+Malus hybr. 'Akso';Paradisæble;Æble;traeart;Malus baccata 'Akso';latin_rules_malus;fix latin name
+Malus hybr. 'Robusta';Paradisæble;Æble;traeart;Malus hybr. robusta;latin_rules_malus;fix latin name
+Malus hybr. 'Street Parade';Paradisæble;Æble;traeart;Malus baccata 'Street Parade';latin_rules_malus;fix latin name
+Malus x 'James Greive';Æble 'Jame Grieve';Æble;traeart;Malus domestica 'James Grieve';latin_rules_malus;fix latin name
+Malus sieboldie  'Freja';Paradisæble;Æble;traeart;Malus sieboldii 'Freja';latin_rules_malus;fix whitespace
+Amelanchier 'Autumn Brilliance';Bærmispel;Bærmispel;traeart;Amelanchier hybr. grandiflora 'Autumn Brilliance';latin_rules;insert species for cultivars
+Hamamelis 'brevitala';Troldnød;Troldnød;traeart;Hamamelis hybr. intermedia 'Brevipetala';latin_rules;insert species for cultivars
+Malus 'Alice Balsgaard';Æble 'Alice Balsgaard';Æble;traeart;Malus domestica 'Alice Balsgaard';latin_rules_malus;insert species for cultivars
+Malus 'Angold';Alm. æble 'Angold';Æble;traeart;Malus domestica 'Angold';latin_rules_malus;insert species for cultivars
+Malus 'Bramley's Seedling';Æble 'Bramley's Seedlings';Æble;traeart;Malus domestica 'Bramley's Seedling';latin_rules_malus;insert species for cultivars
+Malus 'Cox Orange';Cox orange æble;Æble;traeart;Malus domestica 'Cox Orange';latin_rules_malus;insert species for cultivars
+Malus 'Cox Queen';Alm. æble 'Cox Queen';Æble;traeart;Malus domestica 'Cox Queen';latin_rules_malus;insert species for cultivars
+Malus 'Golden Hornet';Paradisæble 'Golden Hornet';Æble;traeart;Malus hybr. 'Golden Hornet';latin_rules_malus;insert species for cultivars
+Malus 'Holsteiner Cox';Æble 'Holsteiner Cox';Æble;traeart;Malus domestica 'Holsteiner Cox';latin_rules_malus;insert species for cultivars
+Malus 'Neville Copeman';Paradisæble 'Neville Copeman';Æble;traeart;Malus hybr. 'Neville Copeman';latin_rules_malus;insert species for cultivars
+Malus 'Rød ananas';Rød ananas æble;Æble;traeart;Malus domestica 'Rød ananas';latin_rules_malus;insert species for cultivars
+Malus 'Säftaholm';Alm. æble 'Säftaholm';Æble;traeart;Malus domestica 'Säftaholm';latin_rules_malus;insert species for cultivars
+Malus 'Topaz';Æble 'Topaz';Æble;traeart;Malus domestica 'Topaz';latin_rules_malus;insert species for cultivars
+Malus 'Åkerø Hassel';Alm. æble 'Åkerø Hassel';Æble;traeart;Malus domestica 'Åkerø Hassel';latin_rules_malus;insert species for cultivars
+Malus Signe Tillisch;Alm. æble 'Signe Tillisch';Æble;traeart;Malus domestica 'Signe Tillisch';latin_rules_malus;insert species for cultivars
+Malus discovery;Æble discovery;Æble;traeart;Malus domestica 'Discovery';latin_rules_malus;insert species for cultivars
+Malus rubinola;Æble rubinola;Æble;traeart;Malus domestica 'Rubinola';latin_rules_malus;insert species for cultivars
+Prunus 'Italiensk sveske';Blomme 'Italiensk sveske';Kirsebær/Blomme;traeart;Prunus domestica 'Italiensk sveske';latin_rules;insert species for cultivars
+Prunus 'Rivers Early Prolific';Blomme 'Rivers Early Prolific';Kirsebær/Blomme;traeart;Prunus domestica 'Rivers Early Prolific';latin_rules;insert species for cultivars
+Pyrus 'Grev Moltke';Pære 'Grev Moltke';Pære;traeart;Pyrus communis 'Grev Moltke';latin_rules;insert species for cultivars
+Ribes 'Jonkheer Van Tets';Ribs 'Jonkheer Van Tets';Ribs;traeart;Ribes rubrum 'Jonkheer Van Tets';latin_rules;insert species for cultivars
+Ribes 'Rondom';Ribs 'Rondom';Ribs;traeart;Ribes rubrum 'Rondom';latin_rules;insert species for cultivars
+Sophora japonica (Styphnolobium japonica);Pagodetræ;Sophora;traeart;Styphnolobium japonica;latin_rules;latin accepted genus
+Sophora japonica (Styphnolobium japonica);Pagodetræ;Pagodetræ;traeart;Styphnolobium japonica;latin_rules;latin accepted genus
+Magnolia x Soulangiana;NA;Magnolia;traeart;Magnolia hybr. soulangeana;latin_rules;latin case fix
+Betula albo sinensis;Rødbirk;Birk;traeart;Betula albosinensis;latin_rules;latin compound word
+Aesculus hippoc. 'Baumannii';Fyldtblomstret hestekastanie;Hestekastanie;traeart;Aesculus hippocastanum 'Baumannii';latin_rules;latin expand abbrev.
+Laburnocytisus adami;Adams Guldregn;Adams Guldregn;traeart;+Laburnocytisus adami;latin_rules;latin normalization
+Almus inceana;Grå el;El;traeart;Alnus incana;latin_rules;latin spelling fix
+Amelachier canadensis;Almindelig bærmispel;Bærmispel;traeart;Amelanchier canadensis;latin_rules;latin spelling fix
+Aronia meloncarpia;Surbær;Surbær;traeart;Aronia melanocarpa;latin_rules;latin spelling fix
+Crytomeria japonica;Japansk kryptomeria;NA;traeart;Cryptomeria japonica;latin_rules;latin spelling fix
+Davidia involucrate 'Vilmoriniana';Duetræ;NA;traeart;Davidia involucrata 'Vilmoriniana';latin_rules;latin spelling fix
+Davídia involuncráta;Duetræ;NA;traeart;Davidia involucrata;latin_rules;latin spelling fix
+Davídia involuncráta;Duetræ;Duetræ;traeart;Davidia involucrata;latin_rules;latin spelling fix
+Eleagnus angustifolia;Smallbladet sølvblad;Sølvblad;traeart;Elaeagnus angustifolia;latin_rules;latin spelling fix
+Forthergilla major;Stor troldel;Stor troldel;traeart;Fothergilla major;latin_rules;latin spelling fix
+Fraxinus pensylvanica 'Zundert';Rød-ask;Ask;traeart;Fraxinus pennsylvanica 'Zundert';latin_rules;latin spelling fix
+Hamamelis 'brevitala';Troldnød;Troldnød;traeart;Hamamelis 'Brevipetala';latin_rules;latin spelling fix
+Hippophea rhamnoides;Havtorn;Havtorn;traeart;Hippophae rhamnoides;latin_rules;latin spelling fix
+Malus sieboldie  'Browers beauty';Paradisæble;Æble;traeart;Malus sieboldii  'Browers beauty';latin_rules;latin spelling fix
+Malus sieboldie  'Freja';Paradisæble;Æble;traeart;Malus sieboldii  'Freja';latin_rules;latin spelling fix
+Physocarbus opulifolius  'El Diabolo';Rødbladet blærespirea;Blærespirea;traeart;Physocarpus opulifolius  'El Diabolo';latin_rules;latin spelling fix
+Picea punges 'Argenta';Blågran;Gran;traeart;Picea pungens 'Argenta';latin_rules;latin spelling fix
+Prunus ceracifera 'Nigra';Blodblomme;Kirsebær/Blomme;traeart;Prunus cerasifera 'Nigra';latin_rules;latin spelling fix
+Prunus mackii 'Amber Shade';Mandshurisk kirsebær;Kirsebær/Blomme;traeart;Prunus maackii 'Amber Shade';latin_rules;latin spelling fix
+Pseudotsuga menziezii var. caesia;Douglasgran var. caesia;Douglasgran;traeart;Pseudotsuga menziesii var. caesia;latin_rules;latin spelling fix
+Pseudotsuga menziezii var. glauca;Blå Douglasgran;Douglasgran;traeart;Pseudotsuga menziesii var. glauca;latin_rules;latin spelling fix
+Pseudotsuga menziezii var. menziezii;Grøn Douglasgran;Douglasgran;traeart;Pseudotsuga menziesii var. menziezii;latin_rules;latin spelling fix
+Sambuscus nigra;Almindelig hyld;Hyld;traeart;Sambucus nigra;latin_rules;latin spelling fix
+Sambuscus nigra;Almindelig hyld;Slåen;traeart;Sambucus nigra;latin_rules;latin spelling fix
+Sambuscus sp.;Hyld;Slåen;traeart;Sambucus sp.;latin_rules;latin spelling fix
+Tilia plathyphyllos 'Odin';Storbladet lind;Lind;traeart;Tilia platyphyllos 'Odin';latin_rules;latin spelling fix
+Zanthozylum piperitum;Japansk peber;Tandved;traeart;Zanthoxylum piperitum;latin_rules;latin spelling fix
+Álnus inokumea;Alnus inokumea, ikke navngivet på dansk;El;traeart;Alnus inokumae;latin_rules;latin spelling fix
+Larix leptolepis;NA;Lærk;traeart;Larix kaempferi;latin_rules;latin synonym -> accepted
+Ginkgo sp.;Gingko;Gingko;traeart;Ginkgo biloba;latin_rules;monotypic extant
+Metasequoia sp.;Vandgran;Vandgran;traeart;Metasequoia glyptostroboides;latin_rules;monotypic extant
+"Carpinus betulus ""Frans Fontaine""";Søjleavnbøg;Avnbøg;traeart;Carpinus betulus 'Frans Fontaine';NA;normalize cultivar style
+"Fagus sylvatica ""Dawyck""";Søjlebøg;Bøg;traeart;Fagus sylvatica 'Dawyck';NA;normalize cultivar style
+Ulmus minor  ”Suberosa”;Korkelm;Elm;traeart;Ulmus minor  'Suberosa';NA;normalize cultivar style
+Acer x zoeschense 'Annae';Hybrid løn 'Annae';Løn;traeart;Acer hybr. zoeschense 'Annae';NA;normalize hybrid marker
+Catalpa X erubescens;Trompetkrone;Trompetkrone;traeart;Catalpa hybr. erubescens;NA;normalize hybrid marker
+Hamamelis X intermedia;Hybrid-Troldnød;Troldnød;traeart;Hamamelis hybr. intermedia;NA;normalize hybrid marker
+Magnolia x 'Galaxy';Magnolia 'Galaxy';Magnolia;traeart;Magnolia hybr. 'Galaxy';NA;normalize hybrid marker
+Magnolia x Soulangiana;NA;Magnolia;traeart;Magnolia hybr. Soulangiana;NA;normalize hybrid marker
+Magnolia x thompsoniana;NA;Magnolia;traeart;Magnolia hybr. thompsoniana;NA;normalize hybrid marker
+Malus hybrid Hyslop;Æble 'Hyslop';Æble;traeart;Malus hybr. 'Hyslop';latin_rules_malus;normalize hybrid marker
+Malus x 'Elstar';Æble 'Elstar';Æble;traeart;Malus hybr. 'Elstar';NA;normalize hybrid marker
+Malus x 'James Greive';Æble 'Jame Grieve';Æble;traeart;Malus hybr. 'James Greive';NA;normalize hybrid marker
+Prunus X amygdalo-persica;Ferskenmandel;Kirsebær/Blomme;traeart;Prunus hybr. amygdalo-persica;NA;normalize hybrid marker
+Prunus x 'Stella';Kirsebær 'Stella';Kirsebær/Blomme;traeart;Prunus hybr. 'Stella';NA;normalize hybrid marker
+Prunus x 'Stevnsbær';Surkirsebær;Kirsebær/Blomme;traeart;Prunus hybr. 'Stevnsbær';NA;normalize hybrid marker
+Prunus x hilleri 'Spire';Prydkirsebær ' Spire';Kirsebær/Blomme;traeart;Prunus hybr. hilleri 'Spire';NA;normalize hybrid marker
+Quércus x túrneri;Turner eg;Eg;traeart;Quercus hybr. turneri;NA;normalize hybrid marker
+Robinia x margaretta 'Pink Cascade';Robinia 'Pink Cascade';Robinie;traeart;Robinia hybr. margaretta 'Pink Cascade';NA;normalize hybrid marker
+Tilia x 'Zwarte Linde';Lind;Lind;traeart;Tilia hybr. 'Zwarte Linde';NA;normalize hybrid marker
+Viburnum x bodnantense;Kejserbusk;Snebolle;traeart;Viburnum hybr. bodnantense;NA;normalize hybrid marker
+Amelánchier laevis;Allegheny-bærmispel;Bærmispel;traeart;Amelanchier laevis;NA;remove accents
+Bétula maximowicziána;Ellebladet birk;Birk;traeart;Betula maximowicziana;NA;remove accents
+Bétula papyrífera;Papirbirk;Birk;traeart;Betula papyrifera;NA;remove accents
+Catálpa bignonioídes;Almindelig trompetkrone;Trompetkrone;traeart;Catalpa bignonioides;NA;remove accents
+Cedrús atlántica;Atlasceder;Ceder;traeart;Cedrus atlantica;NA;remove accents
+Cedrús líbani;Libanonceder;Ceder;traeart;Cedrus libani;NA;remove accents
+Cercidiphýllum japónicum;Hjertetræ;Hjertetræ;traeart;Cercidiphyllum japonicum;NA;remove accents
+Cydónia oblónga;Almindelig kvæde;Kvæde;traeart;Cydonia oblonga;NA;remove accents
+Cydónia oblónga;Almindelig kvæde;Pære;traeart;Cydonia oblonga;NA;remove accents
+Cydónia sp.;Kvæde;Kvæde;traeart;Cydonia sp.;NA;remove accents
+Davídia involuncráta;Duetræ;NA;traeart;Davidia involuncrata;NA;remove accents
+Davídia involuncráta;Duetræ;Duetræ;traeart;Davidia involuncrata;NA;remove accents
+Fráxinus pennsylvánica;Rød-ask;Ask;traeart;Fraxinus pennsylvanica;NA;remove accents
+Fágus orientális;Orientalsk bøg;Bøg;traeart;Fagus orientalis;NA;remove accents
+Fágus sylvática 'Asplenifolia';Bregnebøg;Bøg;traeart;Fagus sylvatica 'Asplenifolia';NA;remove accents
+Fágus sylvática 'Atropunicea';Blodbøg;Bøg;traeart;Fagus sylvatica 'Atropunicea';NA;remove accents
+Júglans nígra;Sort valnød;Valnød;traeart;Juglans nigra;NA;remove accents
+Liquidámbar styracíflua;Virginsk ambratræ;Ambratræ;traeart;Liquidambar styraciflua;NA;remove accents
+Liriodéndron tulipífera;Almindelig tulipantræ;Tulipantræ;traeart;Liriodendron tulipifera;NA;remove accents
+Magnólia sp.;Magnolia;Magnolia;traeart;Magnolia sp.;NA;remove accents
+Méspilus germánica;Mispel;Mispel;traeart;Mespilus germanica;NA;remove accents
+Méspilus sp.;Mispel;Mispel;traeart;Mespilus sp.;NA;remove accents
+Mórus nígra;Sort morbær;Morbær;traeart;Morus nigra;NA;remove accents
+Mórus álba;Hvid morbær;Morbær;traeart;Morus alba;NA;remove accents
+Nothofágus antárctica;Antarktisk sydbøg;Sydbøg;traeart;Nothofagus antarctica;NA;remove accents
+Paulównia tomentósa;Kejsertræ;Paulównia;traeart;Paulownia tomentosa;NA;remove accents
+Prunus subhirtélla 'Accolade';Japansk kirsebær;Kirsebær/Blomme;traeart;Prunus subhirtella 'Accolade';NA;remove accents
+Prúnus sérrula;Tibetansk kirsebær;Kirsebær/Blomme;traeart;Prunus serrula;NA;remove accents
+Pterocárya fraxinifólia;Kaukasisk vingevalnød;Vingevalnød;traeart;Pterocarya fraxinifolia;NA;remove accents
+Pterocárya rhederiana;Vingevalnød sp;Vingevalnød;traeart;Pterocarya rhederiana;NA;remove accents
+Pterocárya sp.;Vingevalnød;Valnød;traeart;Pterocarya sp.;NA;remove accents
+Pínus tabulifórmis;Måttefyr;Fyr;traeart;Pinus tabuliformis;NA;remove accents
+Quércus x túrneri;Turner eg;Eg;traeart;Quercus x turneri;NA;remove accents
+Rhus potanínii;Kinesisk sumak;Sumak;traeart;Rhus potaninii;NA;remove accents
+Robínia luxúrians;Pragt robinie;Robinie;traeart;Robinia luxurians;NA;remove accents
+Sequoiadéndron gigantéum;Mammuttræ;Sequoiadendron, ikke navngivet på dansk;traeart;Sequoiadendron giganteum;NA;remove accents
+Sórbus commixta 'Dodong';Storblomstret japansk røn;Røn;traeart;Sorbus commixta 'Dodong';NA;remove accents
+Sórbus commíxta;Japansk røn;Røn;traeart;Sorbus commixta;NA;remove accents
+Sórbus doméstica;Storfrugtet røn;Røn;traeart;Sorbus domestica;NA;remove accents
+Tetradium daniéllii;Bitræ;Tetradium;traeart;Tetradium daniellii;NA;remove accents
+Táxus baccáta;Almindelig taks;Taks;traeart;Taxus baccata;NA;remove accents
+Zelkóva serráta;Japansk zelkova;Zelkova, ikke navngivet på dansk;traeart;Zelkova serrata;NA;remove accents
+Ácer argutum;Japansk løn;Ædelgran;traeart;Acer argutum;NA;remove accents
+Ácer argutum;Japansk løn;Løn;traeart;Acer argutum;NA;remove accents
+Ácer carpinifólium;Avnbøgbladet løn;Løn;traeart;Acer carpinifolium;NA;remove accents
+Ácer gríseum;Papirbarkløn;Løn;traeart;Acer griseum;NA;remove accents
+Ácer rúbrum;Rød løn;Løn;traeart;Acer rubrum;NA;remove accents
+Ácer tatáricum;Russisk løn;Løn;traeart;Acer tataricum;NA;remove accents
+Álnus inokumea;Alnus inokumea, ikke navngivet på dansk;El;traeart;Alnus inokumea;NA;remove accents
+Abies pinsabo;Spansk Ædelgran;Ædelgran;dansk_navn;Spansk ædelgran;NA;to sentence case
+Abies procera;Sølvgran Nobilis;Ædelgran;dansk_navn;Sølvgran nobilis;NA;to sentence case
+Acer cappadonicum;Tyrkisk Løn;Løn;dansk_navn;Tyrkisk løn;NA;to sentence case
+Acer crataegifolium;Tjørnebladet Løn;Løn;dansk_navn;Tjørnebladet løn;NA;to sentence case
+Acer ginnala;ildløn;Løn;dansk_navn;Ildløn;NA;to sentence case
+Acer ginnala;ildløn;Sumak;dansk_navn;Ildløn;NA;to sentence case
+Acer japonica;Fuldmåne Løn;Løn;dansk_navn;Fuldmåne løn;NA;to sentence case
+Acer negundo 'Variegatum';Askebladet Løn;Løn;dansk_navn;Askebladet løn;NA;to sentence case
+Acer palmatum  'Bloodgood';Japansk Løn;Løn;dansk_navn;Japansk løn;NA;to sentence case
+Acer palmatum  'Ozakazaku';Japansk Løn;Løn;dansk_navn;Japansk løn;NA;to sentence case
+Aesculus flava;Gul Hestekastanje;Hestekastanie;dansk_navn;Gul hestekastanje;NA;to sentence case
+Aesculus glabra;Glat Hestekastanje;Hestekastanie;dansk_navn;Glat hestekastanje;NA;to sentence case
+Alnus glutinosa;rød-el;El;dansk_navn;Rød-el;NA;to sentence case
+Asimina triloba;Indiansk banan (Pawpaw);Pawpaw;dansk_navn;Indiansk banan (pawpaw);NA;to sentence case
+Cercis siliquastrum;Europæisk Judastræ;Judastræs slægten;dansk_navn;Europæisk judastræ;NA;to sentence case
+Euonymus europaeus;Almindelig Benved;Benved;dansk_navn;Almindelig benved;NA;to sentence case
+Hamamelis X intermedia;Hybrid-Troldnød;Troldnød;dansk_navn;Hybrid-troldnød;NA;to sentence case
+Laburnocytisus adami;Adams Guldregn;Adams Guldregn;dansk_navn;Adams guldregn;NA;to sentence case
+Laburnum watereri;Hybrid-Guldregn;Guldregn;dansk_navn;Hybrid-guldregn;NA;to sentence case
+Larix hybr. eurolepis;Hybrid-Lærk;Lærk;dansk_navn;Hybrid-lærk;NA;to sentence case
+Ostrya carpinifolia;Europæisk Humlebøg;Humlebøg;dansk_navn;Europæisk humlebøg;NA;to sentence case
+Pinus sylvestris 'Typ Norwegen';Skovfyr fra Norge;Fyr;dansk_navn;Skovfyr fra norge;NA;to sentence case
+Prunus cerasifera;Kirsebærblomme/Mirabel;Kirsebær/Blomme;dansk_navn;Kirsebærblomme/mirabel;NA;to sentence case
+Prunus sachalinensis;Sakhalin Kirsebær;Kirsebær/Blomme;dansk_navn;Sakhalin kirsebær;NA;to sentence case
+Prunus sp.;Kirsebær/Blomme;Kirsebær/Blomme;dansk_navn;Kirsebær/blomme;NA;to sentence case
+Prunus yedoensis;Yoshino-Kirsebær;Kirsebær/Blomme;dansk_navn;Yoshino-kirsebær;NA;to sentence case
+Pseudotsuga menziezii var. glauca;Blå Douglasgran;Douglasgran;dansk_navn;Blå douglasgran;NA;to sentence case
+Pseudotsuga menziezii var. menziezii;Grøn Douglasgran;Douglasgran;dansk_navn;Grøn douglasgran;NA;to sentence case
+Pterocarya rhoifolia;Rhusbladet Vingevalnød;Vingevalnød;dansk_navn;Rhusbladet vingevalnød;NA;to sentence case
+Pyrus communis 'Clara Frijs';Clara Frijs-pære;Pære;dansk_navn;Clara frijs-pære;NA;to sentence case
+Quercus coccinea;Skarlagens Eg;Eg;dansk_navn;Skarlagens eg;NA;to sentence case
+Quercus ilex;Sten-Eg;Eg;dansk_navn;Sten-eg;NA;to sentence case
+Quercus pontica;Armensk Eg;Eg;dansk_navn;Armensk eg;NA;to sentence case
+Quercus robur 'Atropurpurea';Rødbladet Stilkeg;Eg;dansk_navn;Rødbladet stilkeg;NA;to sentence case
+Salix caprea 'Mas';Selje Pil;Pil;dansk_navn;Selje pil;NA;to sentence case
+Sorbus alnifolia;Ellebladet Røn;Røn;dansk_navn;Ellebladet røn;NA;to sentence case
+Staphylea colchica;Kaukasisk Blærenød;Blærenød;dansk_navn;Kaukasisk blærenød;NA;to sentence case
+Taxodium distichum;Almindelig Sumpcypres;Taxodium, ikke navngivet på dansk;dansk_navn;Almindelig sumpcypres;NA;to sentence case
+Tilia europaea;Park-Lind;Lind;dansk_navn;Park-lind;NA;to sentence case
+Torreya californica;Californisk Nøddetaks;Nøddetaks;dansk_navn;Californisk nøddetaks;NA;to sentence case
+Tsuga diversifolia;Japansk Hemlock;Hemlock;dansk_navn;Japansk hemlock;NA;to sentence case
+Tsuga mertensiana;Bjerg-Hemlock;Hemlock;dansk_navn;Bjerg-hemlock;NA;to sentence case

@@ -17,6 +17,10 @@ traeart;^Macluara;Maclura;latin spelling fix;100
 traeart;^Davidia\s+involucrate;Davidia involucrata;latin spelling fix;100
 traeart;^Davidia\s+involuncrata;Davidia involucrata;latin spelling fix;100
 traeart;^Malus\s+sieboldie;Malus sieboldii;latin spelling fix;100
+traeart;^Hamamelis\s+'brevitala';Hamamelis 'Brevipetala';latin spelling fix;100
+traeart;^Picea\s+punges;Picea pungens;latin spelling fix;100
+traeart;^Pseudotsuga\s+menziezii;Pseudotsuga menziesii;latin spelling fix;100
+traeart;^Acer\+cissifolia;Acer cissifolium;latin spelling fix;100
 traeart;^Betula\s+albo\s+sinensis;Betula albosinensis;latin compound word;95
 traeart;^Larix\s+eurolepis;Larix hybr. eurolepis;add hybrid marker;90
 traeart;^Populus\s+canescens;Populus hybr. canescens;add hybrid marker;90
@@ -26,6 +30,9 @@ traeart;^Acer\s+freemanii\s*([xX×]|hybr\.)?\b;Acer hybr. freemanii;add hybrid m
 traeart;^Tilia\s+europaea;Tilia hybr. europaea;add hybrid marker;90
 traeart;^Aesculus\s+hippoc\.\s+;Aesculus hippocastanum ;latin expand abbrev.;90
 traeart;^Acer\s+pseudoplatanoides\b;Acer pseudoplatanus;could also be platanoides;90
+traeart;^Ulmus\s+Fiorente;Ulmus hybr. 'Fiorente';add hybrid marker;90
+traeart;^Ulmus\s+';Ulmus hybr. ';add hybrid marker;90
+traeart;^Aesculus\s+carnea;Aesculus hybr. carnea;add hybrid marker;90
 traeart;^Ginkgo\s+sp\.$;Ginkgo biloba;monotypic extant;70
 traeart;^Metasequoia\s+sp\.$;Metasequoia glyptostroboides;monotypic extant;70
 traeart;^Larix\s+leptolepis\b;Larix kaempferi;latin synonym -> accepted;60
@@ -40,13 +47,6 @@ traeart;^Ribes\s+'Jonkheer Van Tets';Ribes rubrum 'Jonkheer Van Tets';insert spe
 traeart;^Ribes\s+'Rondom';Ribes rubrum 'Rondom';insert species for cultivars;60
 traeart;^Amelanchier\s+'Autumn Brilliance';Amelanchier hybr. grandiflora 'Autumn Brilliance';insert species for cultivars;60
 traeart;^Ribes\s+'Rondom';Ribes rubrum 'Rondom';insert species for cultivars;60
-traeart;^Hamamelis\s+'brevitala';Hamamelis 'Brevipetala';latin spelling fix;100
 traeart;^Hamamelis\s'Brevipetala';Hamamelis hybr. intermedia 'Brevipetala';insert species for cultivars;60
-traeart;^Picea\s+punges;Picea pungens;latin spelling fix;100
 traeart;^Prunus\s+domestica\s+'Incititia';Prunus domestica ssp. insisitia;cultivar to subspecies;60
-traeart;^Pseudotsuga\s+menziezii;Pseudotsuga menziesii;latin spelling fix;100
-traeart;^Ulmus\s+Fiorente;Ulmus hybr. 'Fiorente';add hybrid marker;90
-traeart;^Ulmus\s+';Ulmus hybr. ';add hybrid marker;90
-traeart;^Acer\+cissifolia;Acer cissifolium;latin spelling fix;100
-traeart;^Aesculus\s+carnea;Aesculus hybr. carnea;add hybrid marker;90
 traeart;^Prunus\s+'Italiensk sveske';Prunus domestica 'Italiensk sveske';insert species for cultivars;60

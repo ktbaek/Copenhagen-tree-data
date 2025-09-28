@@ -1,5 +1,7 @@
 code;value_from;value_to;message;n
 DUPLICATE_UUID_DROPPED;2 rows;1 row;UUID deleted when all values identical;1
+YEAR_RANGE;2027;NA;year outside allowed range;11
+YEAR_RANGE;2026;NA;year outside allowed range;1
 ILLEGAL_CHAR_LATIN;Liquidámbar styracíflua;Liquidambar styraciflua;remove accents;43
 ILLEGAL_CHAR_LATIN;Cedrús atlántica;Cedrus atlantica;remove accents;6
 ILLEGAL_CHAR_LATIN;Ácer gríseum;Acer griseum;remove accents;20

@@ -14,6 +14,7 @@ APPLIED_REGEX_RULE;insert species for cultivars;92
 APPLIED_REGEX_RULE;normalize cultivar style;29
 APPLIED_REGEX_RULE;latin expand abbrev.;20
 APPLIED_REGEX_RULE;cultivar to subspecies;18
+YEAR_RANGE;year outside allowed range;12
 APPLIED_REGEX_RULE;danish expand abbrev.;11
 APPLIED_REGEX_RULE;latin accepted genus;9
 APPLIED_REGEX_RULE;latin case fix;8

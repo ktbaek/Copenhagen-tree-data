@@ -1,10 +1,10 @@
 column;pattern;replacement;note;priority
 dansk_navn;astanie;astanje;danish name spelling fix;100
 dansk_navn;ortebrik;ortebirk;danish name spelling fix;100
-dansk_navn;Smallbladet sølvblad;Smalbladet sølvblad;danish name spelling fix;100
+dansk_navn;^Smallbladet sølvblad;Smalbladet sølvblad;danish name spelling fix;100
 dansk_navn;^Skarlagens\s+eg;Skarlagen-eg;danish name compund word;90
 dansk_navn;^Hybrid\s+løn;Hybrid-løn;danish name compund word;90
-dansk_navn;Fuldmåne\s+løn;Fuldmåne-løn;danish name compund word;90
+dansk_navn;^Fuldmåne\s+løn;Fuldmåne-løn;danish name compund word;90
 dansk_navn;Kugle[\- ]+ahorn;Kugleahorn;danish name compund word;90
 dansk_navn;Grå[\- ]+el;Gråel;danish name compund word;90
 dansk_navn;Rød[\- ]+el;Rødel;danish name compund word;90
