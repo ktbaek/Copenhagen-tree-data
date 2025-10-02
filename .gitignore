@@ -5,7 +5,7 @@
 .Ruserdata
 .DS_Store
 *cache/
-code/
+make*
 output/kk_trees*
 raw_data/
 tests/testthat/
