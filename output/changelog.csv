@@ -13950,11 +13950,13 @@ f4ecf282-4f58-486d-944f-3b284e8637ee;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii
 0eb88c52-6a8f-410b-bf16-f6baa47d3818;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 ffbeaa98-cc05-44be-a21e-9ef2c8c99284;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 dc518a9f-4d55-4449-953d-0cf33217f7ce;APPLIED_DICT_RULE;dansk_navn;Pyrus caucasica, ikke navngivet på dansk;Prydpære;latin_da_map;change danish name based on latin name;NA
+754a6691-f5ab-4395-98dd-23594406cc53;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 b9031630-d43c-43d0-9a58-cbccfa73031a;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 2ddaba08-186a-4673-8f96-8efad623f140;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 037df5d4-270a-4e1e-8487-d0134a3ab161;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 dc737f4f-d645-4418-b9ea-f4f77ba2a2e8;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 d22193fc-92d4-45fa-9e14-4f0067b83020;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
+662bc94b-67d1-445b-abba-460bf3ec0e72;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 3a1faa84-c8d5-454a-beb9-12b18cf566b7;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 da0dda46-cc45-4640-bc50-5c9fdffe05a9;APPLIED_DICT_RULE;dansk_navn;Pyrus caucasica, ikke navngivet på dansk;Prydpære;latin_da_map;change danish name based on latin name;NA
 9146680a-b73a-4b0e-8a1c-4830c855577e;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
@@ -14798,6 +14800,8 @@ d3762fa3-d06a-4e98-bdb0-e38cd4a50549;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindeli
 6f262e03-aa2e-4982-960d-4f8cc2928005;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
 4c16309d-6ce3-48fc-a0ec-4d71955f5c8c;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindelig bøg;latin_da_map;change danish name based on latin name;NA
 6dc903eb-4842-4d6f-a75d-3fcb8518555c;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
+04410ff8-55e8-4824-a145-5592dfdb8b2b;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
+77b33935-b84b-4295-8b90-29dc7f79a841;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 d923c222-51e1-493f-8870-43e9d9d8d281;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
 f15b069c-5efd-4ca7-a0ef-7df0ab0c91eb;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 c1447dae-1435-408a-8dde-e19f9dcd6373;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
@@ -14892,6 +14896,7 @@ a3636ff4-bc30-4f7d-b1bb-a4862ec77cb7;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindeli
 2a03693e-e4b8-43c5-ac69-44cb3534aa60;APPLIED_DICT_RULE;dansk_navn;Pyrus caucasica, ikke navngivet på dansk;Prydpære;latin_da_map;change danish name based on latin name;NA
 733fe6ee-5584-4f84-aa88-85a0b40d16fe;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindelig bøg;latin_da_map;change danish name based on latin name;NA
 ac930bd9-5799-4122-a95f-986f2181ac1b;APPLIED_DICT_RULE;dansk_navn;Pyrus caucasica, ikke navngivet på dansk;Prydpære;latin_da_map;change danish name based on latin name;NA
+c50e9693-828d-4a84-9183-5997d2b974da;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 c644f18b-eb6f-4a69-ba88-f3f4413e3ad4;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
 3ae33148-cf50-45ab-b5e9-9c7e9d3d8999;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
 7cf6d2eb-bb1e-459f-9116-cd0f3202a39d;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
@@ -14916,6 +14921,7 @@ ccd488ea-7a00-41ce-9ea3-990a9ea0cee0;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii
 d7e90bb3-27b6-4539-8a12-317de83b73f9;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 f2cb9b85-ebad-4d4e-8b6e-726fc2fe626c;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
 74372878-af75-40a2-a936-777510114711;APPLIED_DICT_RULE;dansk_navn;Alnus spaethii, ikke navngivet på dansk;unknown;latin_da_map;change danish name based on latin name;NA
+06620944-8a3b-400c-96df-25414e5ce0d9;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 b4761bf7-3e80-4abc-865b-1e0299ef92d8;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 4d7d97db-ed33-4624-89ca-9d8727b34205;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 881ea3b5-8bc3-4476-ba7c-6ecf9d494bb0;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
@@ -15197,7 +15203,9 @@ d4c932dc-2388-43db-8337-71ee10a03f83;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindeli
 7d4d6d82-57c2-4ad0-9644-0b3c18751a77;APPLIED_DICT_RULE;dansk_navn;Tretorn;Almindelig tretorn;latin_da_map;change danish name based on latin name;NA
 94c483dd-1958-41bc-836f-d47ba7c63884;APPLIED_DICT_RULE;dansk_navn;Bøg;Almindelig bøg;latin_da_map;change danish name based on latin name;NA
 2e7459b3-0cd6-495f-ba0d-29c7d52eb47d;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
+e6518ad5-fdb4-4025-abf6-b65cdec5185d;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 769bf276-e982-4205-a26d-af1373cdbb50;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
+1f670acd-d3c7-492b-b664-a18258c98b13;APPLIED_DICT_RULE;dansk_navn;Ellebladet røn;Almindelig røn;latin_da_map;change danish name based on latin name;NA
 7ed5261b-8588-42be-84c6-b68d07442430;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 ffc65a99-4d20-401e-bdd7-536a08c77a2f;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA
 81de1f2b-fffd-4764-89da-141607977787;APPLIED_DICT_RULE;dansk_navn;Prunus umineko, ikke navngivet på dansk;Prydkirsebær;latin_da_map;change danish name based on latin name;NA

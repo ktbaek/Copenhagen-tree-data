@@ -2,7 +2,7 @@ code;message;n
 WRONG_CASE_DANISH;to sentence case;3242
 APPLIED_REGEX_RULE;danish name spelling fix;3201
 APPLIED_REGEX_RULE;add hybrid marker;2907
-APPLIED_DICT_RULE;change danish name based on latin name;2841
+APPLIED_DICT_RULE;change danish name based on latin name;2849
 APPLIED_REGEX_RULE;danish name compund word;2125
 APPLIED_REGEX_RULE;latin spelling fix;1023
 ILLEGAL_CHAR_LATIN;remove accents;929
