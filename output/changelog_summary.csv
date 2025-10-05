@@ -1,30 +1,31 @@
-code;message;n
-WRONG_CASE_DANISH;to sentence case;3242
-APPLIED_REGEX_RULE;danish name spelling fix;3201
-APPLIED_REGEX_RULE;add hybrid marker;2907
-APPLIED_DICT_RULE;change danish name based on latin name;2849
-APPLIED_REGEX_RULE;danish name compund word;2125
-APPLIED_REGEX_RULE;latin spelling fix;1023
-ILLEGAL_CHAR_LATIN;remove accents;929
-APPLIED_DICT_RULE;fix danish genus based on binomial;659
-DUPLICATE_LOCATION;flagged for deletion;181
-APPLIED_REGEX_RULE;normalize hybrid marker;110
-APPLIED_REGEX_RULE;fix latin name;100
-APPLIED_REGEX_RULE;insert species for cultivars;92
-APPLIED_REGEX_RULE;normalize cultivar style;29
-APPLIED_REGEX_RULE;latin expand abbrev.;20
-APPLIED_REGEX_RULE;cultivar to subspecies;18
-YEAR_RANGE;year outside allowed range;12
-APPLIED_REGEX_RULE;danish expand abbrev.;11
-APPLIED_REGEX_RULE;latin accepted genus;9
-APPLIED_REGEX_RULE;latin case fix;8
-APPLIED_REGEX_RULE;backcorrect case fix;6
-APPLIED_REGEX_RULE;could also be platanoides;5
-APPLIED_REGEX_RULE;monotypic extant;4
-APPLIED_REGEX_RULE;cultivar spelling fix;3
-APPLIED_REGEX_RULE;danish genus name fix;1
-APPLIED_REGEX_RULE;fix whitespace;1
-APPLIED_REGEX_RULE;latin compound word;1
-APPLIED_REGEX_RULE;latin normalization;1
-APPLIED_REGEX_RULE;latin synonym -> accepted;1
-DUPLICATE_UUID_DROPPED;UUID deleted when all values identical;1
+code,message,n
+APPLIED_REGEX_RULE,danish name compund word,4363
+WRONG_CASE_DANISH,to sentence case,3242
+APPLIED_REGEX_RULE,danish name spelling fix,3201
+APPLIED_REGEX_RULE,add hybrid marker,2907
+APPLIED_DICT_RULE,change danish name based on latin name,2849
+APPLIED_REGEX_RULE,latin spelling fix,1023
+ILLEGAL_CHAR_LATIN,remove accents,929
+APPLIED_DICT_RULE,fix danish genus based on binomial,659
+DUPLICATE_LOCATION,flagged for deletion,181
+APPLIED_REGEX_RULE,normalize hybrid marker,110
+APPLIED_REGEX_RULE,fix latin name,100
+APPLIED_REGEX_RULE,insert species for cultivars,92
+APPLIED_REGEX_RULE,normalize cultivar style,29
+APPLIED_REGEX_RULE,latin expand abbrev.,20
+APPLIED_REGEX_RULE,cultivar to subspecies,18
+YEAR_RANGE,year outside allowed range,12
+APPLIED_REGEX_RULE,danish expand abbrev.,11
+APPLIED_REGEX_RULE,latin accepted genus,9
+APPLIED_REGEX_RULE,latin case fix,8
+APPLIED_REGEX_RULE,backcorrect case fix,6
+APPLIED_REGEX_RULE,add diacritic back,5
+APPLIED_REGEX_RULE,could also be platanoides,5
+APPLIED_REGEX_RULE,monotypic extant,4
+APPLIED_REGEX_RULE,cultivar spelling fix,3
+APPLIED_REGEX_RULE,danish genus name fix,1
+APPLIED_REGEX_RULE,fix whitespace,1
+APPLIED_REGEX_RULE,latin compound word,1
+APPLIED_REGEX_RULE,latin normalization,1
+APPLIED_REGEX_RULE,latin synonym -> accepted,1
+DUPLICATE_UUID_DROPPED,UUID deleted when all values identical,1

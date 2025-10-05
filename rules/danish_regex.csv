@@ -33,3 +33,4 @@ slaegtsnavn;astanie;astanje;danish name spelling fix;100
 dansk_navn;^Alm\.;Almindelig;danish expand abbrev.;110
 dansk_navn;Robinia;Robinie;danish name spelling fix;100
 slaegtsnavn;Ægte kastanje;Kastanje;danish genus name fix;90
+dansk_navn;Park[\- ]+lind;Parklind;danish name compund word;90
