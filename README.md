@@ -22,7 +22,7 @@ The last two steps assume that the scientific names are the ground truth. This i
 
 The rule sets are not complete, but reflect an ongoing effort.
 
-So far, ~20,000 changes (548 unique) have been made to the original dataset. In some cases one correction will be counted as several corrections because it results from different rules being applied one at a time e.g. Park-Lind to Park-lind to Parklind. All changes have been recorded in a [changelog](output/).
+Approximately 20,000 changes (548 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
 
 
 ## Online Shiny-app
