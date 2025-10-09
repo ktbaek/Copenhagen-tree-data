@@ -16363,6 +16363,7 @@ a5dcca7b-bc5f-422e-83e0-5eb05fb13705,APPLIED_DICT_RULE,dansk_navn,"Pyrus caucasi
 f5381047-3d15-4bb9-a2fd-f0f2eedaac89,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 b7ca7213-2526-4d49-91f7-a2a42aa9879c,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 0287deb9-1191-4e4b-9971-3d320fdfc262,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
+a496dfd2-1044-4dc0-874b-6a96727e77b9,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
 000dde7f-d3e1-4705-b65e-1ff50aa58e74,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 694b8244-2fd6-4bd6-a197-4b9675c071d7,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 169b4725-85cb-405b-86d4-35dbfc3d25a5,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -16982,6 +16983,16 @@ da059c2e-1ce8-4ec3-a4b4-a010aad0774b,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindeli
 b4aff734-8700-426f-a774-780b130b21c1,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 ee2fa3b5-2ab0-410c-9255-47da56671206,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 31df8541-6f21-477e-9596-e2ab5809d354,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+31d3b326-1af8-4f36-bf94-4098bf3c640c,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
+827cebb3-92a0-46a2-9d79-f0f22dd02a47,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
+f57f437f-fc53-4b52-acbc-5326c6bcaadc,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
+53e62481-164a-4e8d-9a18-bcb0dce9c068,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
+3abd0088-2079-4015-8601-8c5e4b0025b8,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
+6a0afcae-02f9-44ac-a8f6-8179020a5277,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
+671f1271-09c6-4080-b117-38199eff9e82,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
+e107ec20-56c2-4b57-9c2a-b7ec8f536732,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
+6b54c331-b502-4010-b9fd-55e3555976b6,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
+2f2d0ff8-4446-48b3-b702-f633b9452f38,APPLIED_DICT_RULE,dansk_navn,Søjle skovfyr,Søjle-skovfyr,latin_da_map,change danish name based on latin name,NA
 11bcda7a-f64f-4f82-98d7-57ae9927b3f0,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 d0d84db1-168d-4f61-9318-c8c1e42ade9a,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 959060c6-d96a-4389-aca8-23169d93f4c4,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
@@ -17165,6 +17176,8 @@ d7e90bb3-27b6-4539-8a12-317de83b73f9,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethi
 f2cb9b85-ebad-4d4e-8b6e-726fc2fe626c,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 74372878-af75-40a2-a936-777510114711,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 06620944-8a3b-400c-96df-25414e5ce0d9,APPLIED_DICT_RULE,dansk_navn,Ellebladet røn,Almindelig røn,latin_da_map,change danish name based on latin name,NA
+084f6080-7080-4349-87a0-8caa67b893d2,APPLIED_DICT_RULE,dansk_navn,Røn incana,unknown,latin_da_map,change danish name based on latin name,NA
+cf4f08c2-3f1c-40ac-a7da-d51e623640ac,APPLIED_DICT_RULE,dansk_navn,Røn incana,unknown,latin_da_map,change danish name based on latin name,NA
 b4761bf7-3e80-4abc-865b-1e0299ef92d8,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 4d7d97db-ed33-4624-89ca-9d8727b34205,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 881ea3b5-8bc3-4476-ba7c-6ecf9d494bb0,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
@@ -17416,6 +17429,7 @@ e3a29914-29bf-42bb-938c-7f684bc829f0,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almind
 d87fff2b-a2f2-49f5-8af9-c6c15119f18a,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 4597b7eb-8a83-46d1-8659-cb6b3371be43,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 5fb0f6a7-d07a-461e-ba19-83bac0af9f1e,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
+d33ab052-fbb4-4941-abbe-b39632b2d88f,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
 5ced3ea0-6dc9-4f83-825f-bdc071f7b731,APPLIED_DICT_RULE,dansk_navn,Lærk,Hybrid-lærk,latin_da_map,change danish name based on latin name,NA
 0ebd2f02-afa7-4bf2-8278-ca95bd0c2e21,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 009334b3-899b-43fc-a497-b68e9b4149c2,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
@@ -17454,6 +17468,7 @@ ffc65a99-4d20-401e-bdd7-536a08c77a2f,APPLIED_DICT_RULE,dansk_navn,"Prunus uminek
 81de1f2b-fffd-4764-89da-141607977787,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 0b78dd73-0450-42df-ae81-aabffad86db4,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 db8db828-c0f1-482b-aaa6-aba5d84ec9d5,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
+d08f54fc-733b-4346-a4ed-300960ecf1c5,APPLIED_DICT_RULE,dansk_navn,Skovfyr fra norge,Norsk skovfyr,latin_da_map,change danish name based on latin name,NA
 6bc05002-e3eb-4d8e-8f54-3eabcd41f880,APPLIED_DICT_RULE,dansk_navn,Hvidtjørn,Engriflet hvidtjørn,latin_da_map,change danish name based on latin name,NA
 997cc5e9-81c7-4b98-98b2-ed81bf2f21f2,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 8c588a8d-2ca3-4d6b-bd07-16d98160b6f1,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
