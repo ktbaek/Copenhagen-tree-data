@@ -7,5 +7,6 @@
 *cache/
 make*
 output/kk_trees*
+output/*.geojson
 raw_data/
 tests/testthat/

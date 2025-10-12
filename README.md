@@ -25,8 +25,8 @@ The rule sets are not complete, but reflect an ongoing effort.
 Approximately 20,000 changes (551 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
 
 
-## Online Shiny-app
+## Interactive map
 
-I used the cleaned and quality controlled dataset to develop an [interactive map](https://ktbaek.shinyapps.io/treemap_basic/) as a handy tool to explore the trees of Copenhagen. Go check it out, it's really great!
+I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen. Go check it out!
 
 ![App image](app_screenshot.png)
