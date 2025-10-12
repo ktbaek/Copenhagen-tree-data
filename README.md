@@ -29,4 +29,4 @@ Approximately 20,000 changes (551 unique) have been applied to the dataset. Some
 
 I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen. Go check it out!
 
-![App image](app_screenshot.png)
+![App image](map-screenshot.png)
