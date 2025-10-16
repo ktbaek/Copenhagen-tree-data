@@ -9,3 +9,7 @@
 - Danish name: Populus hybr. gileadensis: Poppel -> Ontarisk poppel
 - Danish name: Sambucus nigra: Almindelig hyld
 - Sp doesn't exist: Pyrus piperitum
+- Danish name: Populus hybr. canadensis: Landevejspoppel
+- Danish name: Populus hybr. canescens: Landevejspoppel
+- Latin name: Blomme 'Italiensk sveske': insert species
+
