@@ -10,6 +10,6 @@
 - Danish name: Sambucus nigra: Almindelig hyld
 - Sp doesn't exist: Pyrus piperitum
 - Danish name: Populus hybr. canadensis: Landevejspoppel
-- Danish name: Populus hybr. canescens: Landevejspoppel
+- Danish name: Populus hybr. canescens: Gråpoppel
 - Latin name: Blomme 'Italiensk sveske': insert species
 
