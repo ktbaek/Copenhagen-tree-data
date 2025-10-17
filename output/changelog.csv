@@ -16102,6 +16102,7 @@ d08b3bad-298b-43ad-8a8b-83cf04c2d89e,APPLIED_REGEX_RULE,dansk_navn,Park-lind,Par
 a1bf834b-96b7-463a-8407-2609e55b769b,APPLIED_REGEX_RULE,dansk_navn,Clara frijs-pære,Clara Frijs-pære,danish_regex,backcorrect case fix,NA
 f3e61fe2-7324-4462-9996-2d6d6f7b687a,APPLIED_REGEX_RULE,dansk_navn,Clara frijs-pære,Clara Frijs-pære,danish_regex,backcorrect case fix,NA
 99b4b401-fd7a-4784-b142-458e3d1ff2d6,APPLIED_REGEX_RULE,dansk_navn,Clara frijs-pære,Clara Frijs-pære,danish_regex,backcorrect case fix,NA
+ddb94280-84a8-413f-a1c0-b3566e1e1ae2,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 1c6f5af1-7016-41fd-81a3-464388d4b37d,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 0c758cc6-78da-43a8-8c01-3ba568cc9181,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 2ad88121-71d1-4002-894d-e08e0f152a1f,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -16200,6 +16201,8 @@ b9031630-d43c-43d0-9a58-cbccfa73031a,APPLIED_DICT_RULE,dansk_navn,"Prunus uminek
 dc737f4f-d645-4418-b9ea-f4f77ba2a2e8,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 d22193fc-92d4-45fa-9e14-4f0067b83020,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 662bc94b-67d1-445b-abba-460bf3ec0e72,APPLIED_DICT_RULE,dansk_navn,Ellebladet røn,Almindelig røn,latin_da_map,change danish name based on latin name,NA
+ef7828b9-9926-4b0a-af9d-9c9104a22a6f,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+4f7271d5-38f8-42bc-a092-05c682223573,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 3a1faa84-c8d5-454a-beb9-12b18cf566b7,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 da0dda46-cc45-4640-bc50-5c9fdffe05a9,APPLIED_DICT_RULE,dansk_navn,"Pyrus caucasica, ikke navngivet på dansk",Prydpære,latin_da_map,change danish name based on latin name,NA
 9146680a-b73a-4b0e-8a1c-4830c855577e,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
@@ -16244,6 +16247,9 @@ b74dc452-2468-46f7-8959-134dcaa74992,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almind
 b0e7e6b2-b49b-4555-bbba-aa8628119611,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 03363a3d-72c9-4d44-b4a2-4c778feac8b4,APPLIED_DICT_RULE,dansk_navn,Lærk,Hybrid-lærk,latin_da_map,change danish name based on latin name,NA
 30b69125-eeae-42bd-828d-4b79c39e49ad,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+b8fe768d-8631-4b56-91cf-54c187e4f91d,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+90aaa9c1-c351-4df5-8c0d-ec9fe518b55b,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+bcc9e2c8-5247-4abc-b4a1-047f7e43981b,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 8db78319-f3ef-4edb-a359-79faa2a1624d,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 ba730788-bcac-40ec-b717-1e3890ae286c,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 c245bf64-7a29-4431-a026-7a7575f16051,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -16328,6 +16334,7 @@ be2bfb03-0820-48f6-a0f0-db858ca39c8c,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethi
 a3de346d-b762-43b2-a81d-881796f713e6,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 795ed377-f9ef-4d7d-a874-555149c704ac,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 d388ef01-6679-48b6-9f5f-f542426d07b0,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
+493aaf19-af1c-4008-88c6-fe9fd7602fb1,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
 ca3f5f94-69db-403b-857b-dd03e01c9918,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 e38f0466-7b23-4847-a6e7-bab3dc0ec17a,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 39011b3a-7738-49ae-b01a-ad1909764b7e,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
@@ -16411,6 +16418,8 @@ b3372f84-ff42-4950-9562-113680aab3c0,APPLIED_DICT_RULE,dansk_navn,"Prunus uminek
 94a11c4c-ad67-4e97-8479-e9d0c734e9ab,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 64b499e4-d48c-4cdb-998d-a42f0e784a87,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 5699fb70-a3a2-4692-ad85-546f10f19f37,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+c949243f-3c34-4463-a868-bf0ee28afa9c,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+7b61eec7-cd99-4e48-8184-d5a329673fea,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 c726a7c6-2a6b-42ed-b06f-7fc5633143cd,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 851a4113-8f4d-453c-b2f1-0320158d8aac,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 24f8adb3-5e8d-4a04-b482-a23d915a988a,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
@@ -17309,6 +17318,8 @@ df9103e0-3be8-4248-a8b7-be8d97c2da6b,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindeli
 db0e8702-c7fb-4bc0-b84f-485a91bebce2,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 000d5586-5ec2-48ad-8323-c3ed0798b424,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 d94612c1-79b0-41e7-93cd-03bb537956e6,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+b4d7f637-d523-4655-b162-16fe92ce3f3b,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
+7cebd43d-7811-4683-bf1b-826134ea1727,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
 0425f1b9-5804-40f3-a904-2d3a79f43523,APPLIED_DICT_RULE,dansk_navn,NA,unknown,latin_da_map,change danish name based on latin name,NA
 f5a082c1-411b-41d7-b1d8-7401bc1108a2,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 09aa4f86-3295-4a2e-ba76-61c188ca8fd3,APPLIED_DICT_RULE,dansk_navn,NA,unknown,latin_da_map,change danish name based on latin name,NA
@@ -17361,6 +17372,7 @@ be966edb-d0bd-46a3-a052-634a1c59e6c9,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenf
 20a3b444-8b3d-4228-a13c-f4e884d9075e,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 666c64f4-abdc-4d4b-839a-f677ef05e8df,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 194b6cb2-199b-42eb-a7ea-4934b5d764f3,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
+6939d04e-c27b-4d4c-9105-6e3579e0df3c,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 adabded8-b98c-4f5f-8943-f721087a2b22,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 5283dc23-4a32-4232-aa38-6c6961c2db81,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 9634ec31-9415-4cab-9440-a16104856125,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
@@ -17379,6 +17391,7 @@ d71551e7-cb7f-4c05-a12a-7dc0017bd9a5,APPLIED_DICT_RULE,dansk_navn,Hvidtjørn,Eng
 19c9e72d-5be4-4b86-9d2f-bb106f6f3e6a,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 24b54dec-491e-478c-9e0a-90e448972be5,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 dd3cb62c-9582-45c9-abd3-fd5b5b4d0dc8,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
+5802c29b-7e84-4a29-b0f5-2a4925a40f1e,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 40d0d045-9225-484e-9905-284da0b9958a,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 71271d1c-dcfb-4237-aeb6-f3ee018e4663,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 35587ecd-a011-4058-bf3c-3f0ef684e3df,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
@@ -17498,12 +17511,15 @@ fa81bdcf-5867-48ca-a361-28b8c28e5cdd,APPLIED_DICT_RULE,dansk_navn,"Prunus uminek
 160d88a5-01f8-406e-b80b-86544501ea43,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 c98d548c-c0dc-443a-a29e-fa0a90439c7a,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 78a6c5ea-f7ec-43f9-90d3-6e989823b6cc,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
+36624709-1beb-449b-8836-1f454e6097cd,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
 df68c2e4-c01d-419e-a289-b30afe55f475,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 0dd3ff18-5a6a-473e-9500-be58993e2fea,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 8aca6a01-6dbd-461a-ac63-ad5f6778aa48,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 fbbc9238-503c-4c77-b941-8486b0154694,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 ddb32630-793d-4f05-bc6e-e38da116be21,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 67bf0b7e-c399-41fa-8141-4c1080a09c2f,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
+3e7f27aa-07a9-43a9-b49a-e2fb2cebb3c5,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
+72472f31-5f5a-4b71-bd0c-29d1d0c1409c,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel 'Bachalierii',latin_da_map,change danish name based on latin name,NA
 a3045ef3-c9c1-4116-9526-a1ada6fc73e1,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 f691f61b-6572-4f1c-b1e4-964a6b8ec86f,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 d74aa0c1-4fee-405e-9a8d-ed2587111483,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
@@ -17625,6 +17641,8 @@ cded476c-2e61-47e0-acc9-0b14339f5a5c,APPLIED_DICT_RULE,dansk_navn,"Prunus uminek
 2de2a491-6647-486d-bf53-cf0683241f9e,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 e0e70d59-1c5a-43f6-bae1-28f4598968c3,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 ca45242a-afc8-4229-963e-2038738ec2ed,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
+884a61a5-23a9-4b61-ba21-f0fb39f0cf82,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+148751bd-f0ef-4a36-ad6b-dbd75ad2640d,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 0e5b0e1b-4bbe-493a-8d3d-7ae9e9dcb564,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 2a752f4d-51c8-4c33-a557-d4186f9ce7ce,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 5368f529-3f4c-41b1-8061-c9773f9c9c90,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
@@ -17699,6 +17717,12 @@ f6ef0f92-cfae-4106-9be9-bd9ceb76f8b8,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenf
 519fede3-9df7-4e0c-b56e-5c489c0fdc9e,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 69a45e7f-0811-4232-9580-fc05a849d993,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 51fe5b7b-5e7a-450b-9189-f1cd633ca7b2,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+d5ec1ce7-1930-475b-b6c5-a61126abdab3,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+fdbb8707-6256-4a1b-80d8-350296d4d520,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+221aff2f-7607-44b7-9ff4-c63f6adf6cbc,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+6fdcc9de-177d-42ef-b327-450d0f9b54f8,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+bff64012-bb6f-4a45-9fec-2c3ca2b4b0a6,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+529c449e-855e-46c6-8cb5-e2a9900f9593,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 62486d83-1a46-463f-b771-dc376879da7c,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 bc0e3555-01db-40cc-983d-fc23858289ea,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 85db3fa8-4981-4f30-9cd8-f7e501cadb6c,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -17739,6 +17763,7 @@ a89b9dae-78ca-4cac-8f29-260b2456a4f2,APPLIED_DICT_RULE,dansk_navn,Hvidtjørn,Eng
 b316e793-a28a-4a54-9a2d-569d8718a56b,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 e3c7c48a-4922-483c-b4c0-c2e169ede501,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 2243d21a-a477-461a-9125-d4d06b83c014,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+b47b3aaa-3be0-4583-a5e4-e11905333f30,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 2d2dee58-c27d-447c-b5f0-8c2e032cebe0,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 00902475-9be3-48ab-b7bd-5a812a406df5,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 61b69811-af39-41e3-a7e0-173d105a9350,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -17750,6 +17775,8 @@ c7651d80-796a-45a6-b198-3ff166a17c72,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenf
 a1f6984f-718f-4cde-9808-b631d9bab286,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 405a1343-7f8c-4057-b824-9f38e4e33839,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 848865c4-9474-44e0-9823-c9b9f15945aa,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+ed014195-8853-495f-85eb-461ed6570dcb,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+5c0ba8d2-d30f-4c2c-8662-6de969ef55bb,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 9022bb4f-5fff-4b0a-9376-a77c3a84e4c2,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 8190b02a-c53f-45a2-9f82-a0700ce8bea6,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 b0d46e64-d088-4159-baca-a01e1ed1ef54,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
@@ -17774,6 +17801,8 @@ fe8092ef-3c03-4379-994a-a7dc30ee6ca2,APPLIED_DICT_RULE,dansk_navn,Balsampoppel,V
 639ee4f8-7233-4526-81fb-e2ba0583fa5f,APPLIED_DICT_RULE,dansk_navn,Balsampoppel,Vestamerikansk balsampoppel,latin_da_map,change danish name based on latin name,NA
 4f5c773e-cbaa-4b98-918c-9103b5454a4e,APPLIED_DICT_RULE,dansk_navn,Balsampoppel,Vestamerikansk balsampoppel,latin_da_map,change danish name based on latin name,NA
 2e2de95c-cbe9-48e5-8050-29ab79ca00e8,APPLIED_DICT_RULE,dansk_navn,Balsampoppel,Vestamerikansk balsampoppel,latin_da_map,change danish name based on latin name,NA
+80879020-cae7-40d6-a54b-f78816806ed6,APPLIED_DICT_RULE,dansk_navn,Poppel,Gråpoppel,latin_da_map,change danish name based on latin name,NA
+f5e9683c-c315-4711-a58e-47a56135954d,APPLIED_DICT_RULE,dansk_navn,Poppel,Gråpoppel,latin_da_map,change danish name based on latin name,NA
 d1ec2bb9-d020-41c4-8cfc-11cbb6bfcf09,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 eeab7515-9774-49ce-b7a5-1ca79e381e5a,APPLIED_DICT_RULE,dansk_navn,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,latin_da_map,change danish name based on latin name,NA
 27446ecf-199e-49f1-b373-c0556bbba0f0,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
@@ -17794,11 +17823,18 @@ a00504a5-c9fd-4801-8a7e-6d9f61a98a55,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenf
 7df71a77-1781-4984-af9f-6c51e1dea383,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 749e8735-2552-4b19-9ae8-9adc51e3ce38,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 2ab01587-012d-474e-bb6d-b9d1fc1e565f,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
+d8fe2156-0eef-4917-a8d4-a081daaab6a6,APPLIED_DICT_RULE,dansk_navn,Hyld,Almindelig hyld,latin_da_map,change danish name based on latin name,NA
+0b06714a-a8d6-448b-8426-0cd07d9b7885,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 d5827c3a-fe88-484b-a836-007943a48565,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 57c688cb-98ab-4c2d-a019-3e71baf6e50a,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 5baac390-fd0c-4fba-b3aa-8d6513b9d50d,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 b44481ad-04fc-42a6-ba17-95df66a5d75e,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+1d0aaa30-0f53-44f2-8425-e56071f69bda,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 fe23bc5d-71dd-4488-bb8d-a9aba8c39d55,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
+02672fb9-49a0-4c0e-9ffa-797e6a180b41,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+3b82bd14-b14f-4298-b589-53e5a69d22c3,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+723a3994-c7d6-410c-b8f0-cb6ada3bcd9e,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
+5752e26f-df51-473d-b770-ac6c8f543f68,APPLIED_DICT_RULE,dansk_navn,Poppel,Landevejspoppel,latin_da_map,change danish name based on latin name,NA
 604b3637-2b2b-43c9-916a-589f5fce5c0f,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 8b810662-72a6-4278-b759-83511bb5cf15,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
 4f037cf8-7ed5-4352-93fb-74957c5ea245,APPLIED_DICT_RULE,dansk_navn,"Birk, pollenfri",Fligbladet birk (pollenfri),latin_da_map,change danish name based on latin name,NA
@@ -17811,6 +17847,7 @@ a1b3f6c8-9d13-4ed2-914c-7a90c34fb132,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almind
 4f732262-b8cb-4795-ab23-a7418460a2a9,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 21070ce8-d7cb-4be4-8138-69a3d600272f,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 d1aa81ca-d5fe-4fb1-b932-c83652149bc1,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
+814e6bab-970c-4d6f-9ec5-fb8dd8309ca9,APPLIED_DICT_RULE,dansk_navn,Poppel,Ontarisk poppel,latin_da_map,change danish name based on latin name,NA
 7f38dae2-96fe-4ad9-b1cc-5f4becc0bded,APPLIED_DICT_RULE,dansk_navn,"Alnus spaethii, ikke navngivet på dansk",unknown,latin_da_map,change danish name based on latin name,NA
 3d499af6-313d-4888-a3d1-1cb8dd66e2f1,APPLIED_DICT_RULE,dansk_navn,Paradisæble,Paradisæble 'Butterball',latin_da_map_malus,change danish name based on latin name,NA
 0339eb26-93ac-4a30-afe2-4dda16ed7179,APPLIED_DICT_RULE,dansk_navn,Paradisæble,Paradisæble 'Braendkjaer',latin_da_map_malus,change danish name based on latin name,NA

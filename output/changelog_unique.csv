@@ -237,6 +237,7 @@ APPLIED_REGEX_RULE,Charneau pære,Charneau-pære,danish name compund word,3
 APPLIED_REGEX_RULE,Ægte kastanje,Kastanje,danish genus name fix,1
 APPLIED_REGEX_RULE,Park-lind,Parklind,danish name compund word,2238
 APPLIED_REGEX_RULE,Clara frijs-pære,Clara Frijs-pære,backcorrect case fix,6
+APPLIED_DICT_RULE,Poppel,Landevejspoppel,change danish name based on latin name,27
 APPLIED_DICT_RULE,"Alnus spaethii, ikke navngivet på dansk",unknown,change danish name based on latin name,317
 APPLIED_DICT_RULE,"Birk, pollenfri",Fligbladet birk (pollenfri),change danish name based on latin name,154
 APPLIED_DICT_RULE,"Pyrus caucasica, ikke navngivet på dansk",Prydpære,change danish name based on latin name,58
@@ -246,6 +247,7 @@ APPLIED_DICT_RULE,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,chang
 APPLIED_DICT_RULE,NA,Kinesisk ligkistetræ,change danish name based on latin name,3
 APPLIED_DICT_RULE,Lærk,Hybrid-lærk,change danish name based on latin name,14
 APPLIED_DICT_RULE,Ellebladet røn,Almindelig røn,change danish name based on latin name,8
+APPLIED_DICT_RULE,Poppel,Landevejspoppel 'Bachalierii',change danish name based on latin name,6
 APPLIED_DICT_RULE,Søjle skovfyr,Søjle-skovfyr,change danish name based on latin name,6
 APPLIED_DICT_RULE,Hvidtjørn,Engriflet hvidtjørn,change danish name based on latin name,36
 APPLIED_DICT_RULE,Gingko,Tempeltræ,change danish name based on latin name,1
@@ -261,6 +263,9 @@ APPLIED_DICT_RULE,NA,Hortensia,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Williamsianum rhododendron,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Japansk lærk,change danish name based on latin name,1
 APPLIED_DICT_RULE,"Alnus inokumea, ikke navngivet på dansk",unknown,change danish name based on latin name,6
+APPLIED_DICT_RULE,Poppel,Gråpoppel,change danish name based on latin name,2
+APPLIED_DICT_RULE,Hyld,Almindelig hyld,change danish name based on latin name,1
+APPLIED_DICT_RULE,Poppel,Ontarisk poppel,change danish name based on latin name,1
 APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Butterball',change danish name based on latin name,80
 APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Braendkjaer',change danish name based on latin name,114
 APPLIED_DICT_RULE,Paradisæble,Paradisæble 'Rudolf',change danish name based on latin name,17
