@@ -12,7 +12,7 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 - Normalize hybrid markers (e.g. `x` to `hybr.`)
 - Normalize cultivar quotes (e.g. `"` to `'`)
 - Fix mistakes in scientific names (e.g. spelling, diacritics, missing species epiphet in cultivars, missing hybrid markers) according to [these rules](rules/latin_regex.csv)
-- Fix mistakes in Danish names (e.g. spelling, capitalization, compound words) according to [these rules](rules/da_regex.csv)
+- Fix mistakes in Danish names (e.g. spelling, capitalization, compound words) according to [these rules](rules/danish_regex.csv)
 - Separate scientific names into their logical components
 - Fix Danish names based on the scientific name (incl. special Danish names for cultivars and variants) according to [these](rules/latin_da_map.csv) and [these](rules/latin_da_map_malus.csv) rules
 - Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv)
@@ -29,4 +29,4 @@ Approximately 20,000 changes (556 unique) have been applied to the dataset. Some
 
 I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen. Go check it out!
 
-![App image](map-screenshot.png)
+![App image](map-ss.png)
