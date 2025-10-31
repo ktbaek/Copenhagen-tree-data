@@ -22,7 +22,7 @@ The last two steps assume that the scientific names are the ground truth. This i
 
 The rule sets are not complete, but reflect an ongoing effort.
 
-Approximately 20,000 changes (556 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
+Approximately 20,000 changes (557 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
 
 
 ## Interactive map

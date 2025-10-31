@@ -132,6 +132,7 @@ APPLIED_REGEX_RULE,Pseudotsuga menziezii var. caesia,Pseudotsuga menziesii var. 
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. glauca,Pseudotsuga menziesii var. glauca,latin spelling fix,4
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. menziezii,Pseudotsuga menziesii var. menziezii,latin spelling fix,1
 APPLIED_REGEX_RULE,Hippophae rhamnoides,Hippophaë rhamnoides,add diacritic back,5
+APPLIED_REGEX_RULE,Acer hycarnum,Acer hyrcanum,latin spelling fix,1
 APPLIED_REGEX_RULE,Betula albo sinensis,Betula albosinensis,latin compound word,1
 APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,14
 APPLIED_REGEX_RULE,Populus canescens,Populus hybr. canescens,add hybrid marker,2

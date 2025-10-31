@@ -5304,6 +5304,7 @@ d5199a41-b0c6-4fc4-ba99-b881908f49df,APPLIED_REGEX_RULE,traeart,Pseudotsuga menz
 7bab8e4d-bd24-4bad-b6e4-49ec96a8d034,APPLIED_REGEX_RULE,traeart,Hippophae rhamnoides,Hippophaë rhamnoides,latin_regex,add diacritic back,NA
 79327826-6e9e-4cb2-a82d-001d515f9066,APPLIED_REGEX_RULE,traeart,Hippophae rhamnoides,Hippophaë rhamnoides,latin_regex,add diacritic back,NA
 ceaeb5ae-929d-4f42-8c52-73f0df4e5e59,APPLIED_REGEX_RULE,traeart,Hippophae rhamnoides,Hippophaë rhamnoides,latin_regex,add diacritic back,NA
+76413965-42dd-4030-9f9c-958fdf0ca686,APPLIED_REGEX_RULE,traeart,Acer hycarnum,Acer hyrcanum,latin_regex,latin spelling fix,NA
 2ef71d57-1aa4-411a-9e79-4847f125dcb6,APPLIED_REGEX_RULE,traeart,Betula albo sinensis,Betula albosinensis,latin_regex,latin compound word,NA
 f5114f58-73a7-425f-851c-7c3ade863ca7,APPLIED_REGEX_RULE,traeart,Larix eurolepis,Larix hybr. eurolepis,latin_regex,add hybrid marker,NA
 63c78c79-c4a0-4171-8003-062a706d20c4,APPLIED_REGEX_RULE,traeart,Larix eurolepis,Larix hybr. eurolepis,latin_regex,add hybrid marker,NA
