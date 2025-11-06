@@ -8,7 +8,7 @@
 - Danish name: Pterocarya rhederiana ?
 - :white_check_mark: Danish name: Populus hybr. gileadensis: Poppel -> Ontarisk poppel
 - :white_check_mark: Danish name: Sambucus nigra: Almindelig hyld
-- Sp doesn't exist: Pyrus piperitum
+- Species doesn't exist: Pyrus piperitum
 - :white_check_mark: Danish name: Populus hybr. canadensis: Landevejspoppel
 - :white_check_mark: Danish name: Populus hybr. canescens: Gråpoppel
 - Latin name: Blomme 'Italiensk sveske': insert species
