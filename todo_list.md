@@ -13,4 +13,8 @@
 - :white_check_mark: Danish name: Populus hybr. canescens: Gråpoppel
 - Latin name: Blomme 'Italiensk sveske': insert species
 - :white_check_mark: Latin name: Acer hycarnum -> Acer hyrcanum
-
+- :white_check_mark: Latin name: Tilia x 'Zwarte Linde' -> Tilia hybr. europaea 'Zwarte Linde'
+- Danish name: Betula hybr 'Hekla': Rødbladet fjeldbirk 'Hekla'
+- Danish name: Aronia melanocarpa: Sortfrugtet surbær
+- Latin name: Aronia prunifolia -> Aronia hybr. prunifolia
+- Latin name: Prunus sachalinensis -> Prunus sargentii 

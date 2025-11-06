@@ -9,8 +9,8 @@ ILLEGAL_CHAR_LATIN,remove accents,929
 APPLIED_DICT_RULE,fix danish genus based on binomial,659
 DUPLICATE_LOCATION,flagged for deletion,181
 APPLIED_REGEX_RULE,normalize hybrid marker,110
+APPLIED_REGEX_RULE,insert species for cultivars,101
 APPLIED_REGEX_RULE,fix latin name,100
-APPLIED_REGEX_RULE,insert species for cultivars,92
 APPLIED_REGEX_RULE,normalize cultivar style,29
 APPLIED_REGEX_RULE,latin expand abbrev.,20
 APPLIED_REGEX_RULE,cultivar to subspecies,18

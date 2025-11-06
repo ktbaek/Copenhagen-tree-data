@@ -168,6 +168,7 @@ APPLIED_REGEX_RULE,Amelanchier 'Autumn Brilliance',Amelanchier hybr. grandiflora
 APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. intermedia 'Brevipetala',insert species for cultivars,1
 APPLIED_REGEX_RULE,Prunus domestica 'Incititia',Prunus domestica ssp. insisitia,cultivar to subspecies,18
 APPLIED_REGEX_RULE,Prunus 'Italiensk sveske',Prunus domestica 'Italiensk sveske',insert species for cultivars,3
+APPLIED_REGEX_RULE,Tilia hybr. 'Zwarte Linde',Tilia hybr. europaea 'Zwarte Linde',insert species for cultivars,9
 APPLIED_REGEX_RULE,Malus 'Alice Balsgaard',Malus domestica 'Alice Balsgaard',insert species for cultivars,2
 APPLIED_REGEX_RULE,Malus 'Angold',Malus domestica 'Angold',insert species for cultivars,2
 APPLIED_REGEX_RULE,Malus 'Bramley's Seedling',Malus domestica 'Bramley's Seedling',insert species for cultivars,3

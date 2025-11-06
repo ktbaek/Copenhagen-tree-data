@@ -52,3 +52,4 @@ traeart;^Prunus\s+domestica\s+'Incititia';Prunus domestica ssp. insisitia;cultiv
 traeart;^Prunus\s+'Italiensk sveske';Prunus domestica 'Italiensk sveske';insert species for cultivars;60
 traeart;^Hippophae;Hippophaë;add diacritic back;100
 traeart;^Acer\s+hycarnum;Acer hyrcanum;latin spelling fix;100
+traeart;^Tilia\s+([xX×]|hybr\.)\s*'Zwarte Linde';Tilia hybr. europaea 'Zwarte Linde';insert species for cultivars;60
