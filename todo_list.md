@@ -18,3 +18,4 @@
 - Danish name: Aronia melanocarpa: Sortfrugtet surbær
 - Latin name: Aronia prunifolia -> Aronia hybr. prunifolia
 - Latin name: Prunus sachalinensis -> Prunus sargentii 
+- Latin name: Prunus yedoensis -> Prunus hybr. yedoensis 
