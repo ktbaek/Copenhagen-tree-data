@@ -19047,6 +19047,8 @@ c2ca083b-cadd-48be-882d-26733219197a,APPLIED_DICT_RULE,slaegtsnavn,Araucarie,Abe
 d46dae60-0e8e-42c1-9dae-f8e706ea4d33,APPLIED_DICT_RULE,slaegtsnavn,Araucarie,Abeskræk,genus_dict,fix danish genus based on binomial,NA
 84f0152d-22bf-41dd-a053-ca5c2cee20af,APPLIED_DICT_RULE,slaegtsnavn,Buxbom,Buksbom,genus_dict,fix danish genus based on binomial,NA
 5c51a2c6-bed8-4078-9d20-0388d1350dc7,APPLIED_DICT_RULE,slaegtsnavn,Buxbom,Buksbom,genus_dict,fix danish genus based on binomial,NA
+8f9f1bd2-d5c5-4aa6-b234-9f0511f479b5,APPLIED_DICT_RULE,slaegtsnavn,NA,Kanelbusk,genus_dict,fix danish genus based on binomial,NA
+e91b74ec-7ee0-4514-adde-a88207599548,APPLIED_DICT_RULE,slaegtsnavn,NA,Kanelbusk,genus_dict,fix danish genus based on binomial,NA
 e405e9cd-4d1b-4fa1-a926-43db2b49bad6,APPLIED_DICT_RULE,slaegtsnavn,Bøg,Avnbøg,genus_dict,fix danish genus based on binomial,NA
 7605b030-7147-4dde-b9ce-e72ff7bb5487,APPLIED_DICT_RULE,slaegtsnavn,Bøg,Avnbøg,genus_dict,fix danish genus based on binomial,NA
 5bb66906-95ba-4ef2-aea9-b52f9601f2b5,APPLIED_DICT_RULE,slaegtsnavn,Judastræs slægten,Judastræ,genus_dict,fix danish genus based on binomial,NA
@@ -19167,21 +19169,46 @@ d0c03c3c-445f-4cbc-8eb4-2a08e9b5085a,APPLIED_DICT_RULE,slaegtsnavn,Dværgcypres,
 578f1484-c4ef-4fed-a372-6d4b46a06aa6,APPLIED_DICT_RULE,slaegtsnavn,Dværgcypres,Dværgcypres/Ædelcypres,genus_dict,fix danish genus based on binomial,NA
 b6d8ecdb-7b71-4e4b-9b94-49b66f962848,APPLIED_DICT_RULE,slaegtsnavn,Kladrastis,Cladrastis,genus_dict,fix danish genus based on binomial,NA
 dba8da48-0cbd-4e99-95d0-5c92cc8a11c4,APPLIED_DICT_RULE,slaegtsnavn,Kladrastis,Cladrastis,genus_dict,fix danish genus based on binomial,NA
+230c0fdc-9d88-49bd-a903-74a7352d6ff6,APPLIED_DICT_RULE,slaegtsnavn,NA,Blærebælg,genus_dict,fix danish genus based on binomial,NA
 48b68b93-92f0-4afe-ba5a-da255331577f,APPLIED_DICT_RULE,slaegtsnavn,Trompetkrone,Hassel,genus_dict,fix danish genus based on binomial,NA
 d88dc2aa-4547-4db7-94cf-e430e7bec2aa,APPLIED_DICT_RULE,slaegtsnavn,Kornel,Hassel,genus_dict,fix danish genus based on binomial,NA
 6e4314a7-9dcf-4510-a864-d8bf98fc6772,APPLIED_DICT_RULE,slaegtsnavn,El,Hassel,genus_dict,fix danish genus based on binomial,NA
 caebda3a-3a8c-487b-a5ff-a207c9124470,APPLIED_DICT_RULE,slaegtsnavn,El,Hassel,genus_dict,fix danish genus based on binomial,NA
 be597f60-61c9-4855-9364-7011ab1bc664,APPLIED_DICT_RULE,slaegtsnavn,El,Hassel,genus_dict,fix danish genus based on binomial,NA
+bca4f9a0-f6f6-42b6-9b08-557f4a030eed,APPLIED_DICT_RULE,slaegtsnavn,NA,Parykbusk,genus_dict,fix danish genus based on binomial,NA
+956542ff-d7eb-4e77-b77d-da9414163db4,APPLIED_DICT_RULE,slaegtsnavn,NA,Parykbusk,genus_dict,fix danish genus based on binomial,NA
 4fadfc09-3612-4e08-9814-a65f9252ec27,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Tjørn,genus_dict,fix danish genus based on binomial,NA
 16c5cf5e-68b7-44e5-9600-92d1914076dc,APPLIED_DICT_RULE,slaegtsnavn,Tretorn,Tjørn,genus_dict,fix danish genus based on binomial,NA
+1a1969b2-ad3f-4044-87af-5c510a2da28e,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+f1d29015-b250-4f95-9aec-34cc0de51371,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+fb992882-2e37-4bfc-a3de-1df1e8ea0e2a,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+77325f91-db2e-4ab5-9285-7508bd517298,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+a1633178-ada1-4dc3-8238-60055d36cb32,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+197165bb-8013-4698-bde8-a32d90c67390,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+1f20bb96-ce53-4771-ba5a-cc05e01001de,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+33ff9cd2-f52d-41f1-b94a-5b61428ced94,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
+286d75fe-e754-4def-b955-b78ae8f639a5,APPLIED_DICT_RULE,slaegtsnavn,NA,Tjørn,genus_dict,fix danish genus based on binomial,NA
 2f7710c0-1dd0-4920-8279-f68aab9b9444,APPLIED_DICT_RULE,slaegtsnavn,Hestekastanje,Tjørn,genus_dict,fix danish genus based on binomial,NA
 69aca6a1-8a7c-44c4-a3e9-aa5f173196e2,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Tjørn,genus_dict,fix danish genus based on binomial,NA
 2a079dd1-1ef7-498e-91d3-6681f85eb6b8,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Tjørn,genus_dict,fix danish genus based on binomial,NA
+17144311-70e5-44e6-8d26-2977317fa7b8,APPLIED_DICT_RULE,slaegtsnavn,NA,Kryptomeria,genus_dict,fix danish genus based on binomial,NA
+01aa4ced-10bd-44cf-9fe4-624dedf95123,APPLIED_DICT_RULE,slaegtsnavn,NA,Kryptomeria,genus_dict,fix danish genus based on binomial,NA
 c8a7825b-bee0-46c9-889c-2f945e229f8a,APPLIED_DICT_RULE,slaegtsnavn,Pil,Cunninghamia,genus_dict,fix danish genus based on binomial,NA
 b1d093da-3b96-4622-a7d6-835a01e9f52f,APPLIED_DICT_RULE,slaegtsnavn,Pil,Cunninghamia,genus_dict,fix danish genus based on binomial,NA
+e79dc253-18b8-4d95-b883-26ca3835a130,APPLIED_DICT_RULE,slaegtsnavn,NA,Cunninghamia,genus_dict,fix danish genus based on binomial,NA
 0c2124af-16d1-4603-bb1c-5090e791fabb,APPLIED_DICT_RULE,slaegtsnavn,Pære,Kvæde,genus_dict,fix danish genus based on binomial,NA
 8f0c93a9-ebf0-46f5-af91-575500f0c7b6,APPLIED_DICT_RULE,slaegtsnavn,Pære,Kvæde,genus_dict,fix danish genus based on binomial,NA
 05bef5da-7f99-48a4-9840-3d62c9b92d76,APPLIED_DICT_RULE,slaegtsnavn,Pære,Kvæde,genus_dict,fix danish genus based on binomial,NA
+20be50b0-074e-4686-921a-56be0e725cac,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+6e85e10e-f539-40e3-9be9-5c48194e1b12,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+42ad36f0-582e-4b88-846b-8098204c44d4,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+3e1d9b18-b71a-4f16-929f-98ce5520bcaa,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+6e7ec5db-a585-48b4-a931-6ef4217d3f2c,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+a202fd48-8033-430f-b5fc-a7ab6cb5350a,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+89610113-5435-494c-b1c4-44e6242834dd,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+6a24dd16-42b9-4dec-814f-7d052802087b,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+ace86946-e139-4cd5-9f51-7da1bf3c9d44,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
+b9000d86-3713-477f-9cd1-8104214a9971,APPLIED_DICT_RULE,slaegtsnavn,NA,Duetræ,genus_dict,fix danish genus based on binomial,NA
 286bb7f1-c746-4f76-8eec-6e973e676a2f,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Bøg,genus_dict,fix danish genus based on binomial,NA
 55c217d6-3b9f-4faf-a541-2d1cf142b408,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Bøg,genus_dict,fix danish genus based on binomial,NA
 1e66bfc0-2482-40d0-8a60-7993910c6992,APPLIED_DICT_RULE,slaegtsnavn,Avnbøg,Bøg,genus_dict,fix danish genus based on binomial,NA
@@ -19358,6 +19385,7 @@ a612bb66-1ad1-4ce5-8327-65f7579111fd,APPLIED_DICT_RULE,slaegtsnavn,Bjergthe,Tret
 12581615-5298-4bd4-91ad-2805962b1300,APPLIED_DICT_RULE,slaegtsnavn,Bjergthe,Tretorn,genus_dict,fix danish genus based on binomial,NA
 ecdb32ed-a306-4940-bffb-38a44b4c89fd,APPLIED_DICT_RULE,slaegtsnavn,Bjergthe,Tretorn,genus_dict,fix danish genus based on binomial,NA
 02369528-2f3e-4df2-8e23-691d3ecd2393,APPLIED_DICT_RULE,slaegtsnavn,Hibiscus-slægten,Hibiscus,genus_dict,fix danish genus based on binomial,NA
+25256111-c122-475c-a0a4-5a09a6fd97ac,APPLIED_DICT_RULE,slaegtsnavn,NA,Hortensia,genus_dict,fix danish genus based on binomial,NA
 e00a55e4-baa5-4fa1-87aa-937a2b8045d8,APPLIED_DICT_RULE,slaegtsnavn,Adams Guldregn,Adams guldregn,genus_dict,fix danish genus based on binomial,NA
 b24116ec-1035-463f-80c5-2b16654cb6a8,APPLIED_DICT_RULE,slaegtsnavn,Løn,Guldregn,genus_dict,fix danish genus based on binomial,NA
 c41bdb82-260e-4761-9856-ca7ab502af07,APPLIED_DICT_RULE,slaegtsnavn,Tulipantræ,Ambratræ,genus_dict,fix danish genus based on binomial,NA
@@ -19418,6 +19446,7 @@ aaec592f-78a3-4ab2-8fcd-c91a4a440157,APPLIED_DICT_RULE,slaegtsnavn,Nyssa,Tupelot
 c548a226-77f6-46a2-872c-1d375479a324,APPLIED_DICT_RULE,slaegtsnavn,Nyssa,Tupelotræ,genus_dict,fix danish genus based on binomial,NA
 59b73041-40dc-4854-bd99-fc239e8b985b,APPLIED_DICT_RULE,slaegtsnavn,Nyssa,Tupelotræ,genus_dict,fix danish genus based on binomial,NA
 8eac4bd6-52cd-422c-9cf0-7f69dd8b15ce,APPLIED_DICT_RULE,slaegtsnavn,Nyssa,Tupelotræ,genus_dict,fix danish genus based on binomial,NA
+e3c9bace-3e0e-4498-85e3-a23fb03e25b6,APPLIED_DICT_RULE,slaegtsnavn,NA,Osmanthus,genus_dict,fix danish genus based on binomial,NA
 cc854e85-a868-42a3-9ed9-e5fd8a27da9c,APPLIED_DICT_RULE,slaegtsnavn,"Parrotia, ikke navngivet på dansk",Papegøjebusk,genus_dict,fix danish genus based on binomial,NA
 e395d991-4a76-4c0f-93b0-8d62cabef60d,APPLIED_DICT_RULE,slaegtsnavn,"Parrotia, ikke navngivet på dansk",Papegøjebusk,genus_dict,fix danish genus based on binomial,NA
 8c7866d0-6e66-4a81-8b58-c512550f8150,APPLIED_DICT_RULE,slaegtsnavn,"Parrotia, ikke navngivet på dansk",Papegøjebusk,genus_dict,fix danish genus based on binomial,NA
@@ -19469,8 +19498,12 @@ c5a951b9-12a0-43d9-b457-4b1576b62bf6,APPLIED_DICT_RULE,slaegtsnavn,Paulównia,Ke
 9c7ff484-dcb0-4ffe-a9d5-d37237fcb12c,APPLIED_DICT_RULE,slaegtsnavn,Paulównia,Kejsertræ,genus_dict,fix danish genus based on binomial,NA
 05141225-0e44-42af-87f7-4562bd9291f9,APPLIED_DICT_RULE,slaegtsnavn,Paulównia,Kejsertræ,genus_dict,fix danish genus based on binomial,NA
 f7815b0f-6416-43ca-98ac-e83316070052,APPLIED_DICT_RULE,slaegtsnavn,Paulównia,Kejsertræ,genus_dict,fix danish genus based on binomial,NA
+b125846f-e77b-4171-b32b-9dbd75ec1513,APPLIED_DICT_RULE,slaegtsnavn,NA,Stenved,genus_dict,fix danish genus based on binomial,NA
+a7a3d567-82f1-405e-b3bc-e7440c423c77,APPLIED_DICT_RULE,slaegtsnavn,NA,Stenved,genus_dict,fix danish genus based on binomial,NA
 d1408dcc-01d2-432a-ba10-3cd720008f94,APPLIED_DICT_RULE,slaegtsnavn,Blærespirea,Blærespiræa,genus_dict,fix danish genus based on binomial,NA
 7e50c2fd-1245-490f-92a2-1fa64d0ba5dc,APPLIED_DICT_RULE,slaegtsnavn,Platan,Fyr,genus_dict,fix danish genus based on binomial,NA
+2f8fff92-4222-4efc-8e96-721efb9455bf,APPLIED_DICT_RULE,slaegtsnavn,NA,Dværgcitron,genus_dict,fix danish genus based on binomial,NA
+48f00668-ecff-4404-a65b-f4476dc81f5c,APPLIED_DICT_RULE,slaegtsnavn,NA,Poppel,genus_dict,fix danish genus based on binomial,NA
 2b9ee870-0da2-40e1-8a69-628feed00da0,APPLIED_DICT_RULE,slaegtsnavn,Løn,Kirsebær/Blomme,genus_dict,fix danish genus based on binomial,NA
 0edfbdea-364c-48a9-b5fc-9d303d1729f1,APPLIED_DICT_RULE,slaegtsnavn,Eg,Kirsebær/Blomme,genus_dict,fix danish genus based on binomial,NA
 69492efb-7d67-4e0a-b53f-2458c258dbf2,APPLIED_DICT_RULE,slaegtsnavn,Løn,Kirsebær/Blomme,genus_dict,fix danish genus based on binomial,NA
@@ -19638,6 +19671,8 @@ bdda120a-571e-4eed-80ba-7840aa388177,APPLIED_DICT_RULE,slaegtsnavn,"Taxodium, ik
 aeb01bbd-ad92-495f-bd7e-e6f8d37e4f6a,APPLIED_DICT_RULE,slaegtsnavn,"Taxodium, ikke navngivet på dansk",Sumpcypres,genus_dict,fix danish genus based on binomial,NA
 cc49a38b-836c-4652-8a46-de6acb5f9b47,APPLIED_DICT_RULE,slaegtsnavn,"Taxodium, ikke navngivet på dansk",Sumpcypres,genus_dict,fix danish genus based on binomial,NA
 b686e6f7-ed0f-4fc6-b1d7-ac4faef28468,APPLIED_DICT_RULE,slaegtsnavn,"Taxodium, ikke navngivet på dansk",Sumpcypres,genus_dict,fix danish genus based on binomial,NA
+0c55be8c-b487-4eb9-aa7c-42b7396f5f6d,APPLIED_DICT_RULE,slaegtsnavn,NA,Thuja,genus_dict,fix danish genus based on binomial,NA
+4ea429a3-7108-48ec-82c9-dfbf4c47c035,APPLIED_DICT_RULE,slaegtsnavn,NA,Thuja,genus_dict,fix danish genus based on binomial,NA
 7bfdba87-502f-475f-b180-ebd8c6a4b265,APPLIED_DICT_RULE,slaegtsnavn,Løn,Lind,genus_dict,fix danish genus based on binomial,NA
 55a79242-25c1-4867-9c77-e7664bb6a74e,APPLIED_DICT_RULE,slaegtsnavn,Robinie,Lind,genus_dict,fix danish genus based on binomial,NA
 dc5b1d89-1603-4659-be9a-0028b288fe34,APPLIED_DICT_RULE,slaegtsnavn,Robinie,Lind,genus_dict,fix danish genus based on binomial,NA

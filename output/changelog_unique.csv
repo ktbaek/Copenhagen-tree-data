@@ -323,18 +323,25 @@ APPLIED_DICT_RULE,"Albizia (Ærteblomst-fam,)",Albizia,fix danish genus based on
 APPLIED_DICT_RULE,Røn,El,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Araucarie,Abeskræk,fix danish genus based on binomial,9
 APPLIED_DICT_RULE,Buxbom,Buksbom,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,NA,Kanelbusk,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Bøg,Avnbøg,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Judastræs slægten,Judastræ,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Dværgcypres,Dværgcypres/Ædelcypres,fix danish genus based on binomial,114
 APPLIED_DICT_RULE,Kladrastis,Cladrastis,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,NA,Blærebælg,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Trompetkrone,Hassel,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Kornel,Hassel,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,El,Hassel,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,NA,Parykbusk,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Avnbøg,Tjørn,fix danish genus based on binomial,3
 APPLIED_DICT_RULE,Tretorn,Tjørn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,NA,Tjørn,fix danish genus based on binomial,9
 APPLIED_DICT_RULE,Hestekastanje,Tjørn,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,NA,Kryptomeria,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Pil,Cunninghamia,fix danish genus based on binomial,2
+APPLIED_DICT_RULE,NA,Cunninghamia,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Pære,Kvæde,fix danish genus based on binomial,3
+APPLIED_DICT_RULE,NA,Duetræ,fix danish genus based on binomial,10
 APPLIED_DICT_RULE,Avnbøg,Bøg,fix danish genus based on binomial,4
 APPLIED_DICT_RULE,Ask,Bøg,fix danish genus based on binomial,6
 APPLIED_DICT_RULE,Stor troldel,Troldel,fix danish genus based on binomial,1
@@ -342,6 +349,7 @@ APPLIED_DICT_RULE,Kirsebær/Blomme,Ask,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Gingko,Tempeltræ,fix danish genus based on binomial,159
 APPLIED_DICT_RULE,Bjergthe,Tretorn,fix danish genus based on binomial,3
 APPLIED_DICT_RULE,Hibiscus-slægten,Hibiscus,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,NA,Hortensia,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Adams Guldregn,Adams guldregn,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Løn,Guldregn,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Tulipantræ,Ambratræ,fix danish genus based on binomial,1
@@ -349,10 +357,14 @@ APPLIED_DICT_RULE,Osagetorn,Maclura,fix danish genus based on binomial,6
 APPLIED_DICT_RULE,Kirsebær/Blomme,Æble,fix danish genus based on binomial,29
 APPLIED_DICT_RULE,Tjørn,Vandgran,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Nyssa,Tupelotræ,fix danish genus based on binomial,21
+APPLIED_DICT_RULE,NA,Osmanthus,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,"Parrotia, ikke navngivet på dansk",Papegøjebusk,fix danish genus based on binomial,12
 APPLIED_DICT_RULE,Paulównia,Kejsertræ,fix danish genus based on binomial,39
+APPLIED_DICT_RULE,NA,Stenved,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Blærespirea,Blærespiræa,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Platan,Fyr,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,NA,Dværgcitron,fix danish genus based on binomial,1
+APPLIED_DICT_RULE,NA,Poppel,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Løn,Kirsebær/Blomme,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Eg,Kirsebær/Blomme,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Lind,Kirsebær/Blomme,fix danish genus based on binomial,1
@@ -371,6 +383,7 @@ APPLIED_DICT_RULE,Storaks,Styrax,fix danish genus based on binomial,6
 APPLIED_DICT_RULE,Benved,Snebær,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Syren-slægten,Syren,fix danish genus based on binomial,8
 APPLIED_DICT_RULE,"Taxodium, ikke navngivet på dansk",Sumpcypres,fix danish genus based on binomial,34
+APPLIED_DICT_RULE,NA,Thuja,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Løn,Lind,fix danish genus based on binomial,1
 APPLIED_DICT_RULE,Robinie,Lind,fix danish genus based on binomial,2
 APPLIED_DICT_RULE,Hørpalme,Hørpalme-slægten,fix danish genus based on binomial,10

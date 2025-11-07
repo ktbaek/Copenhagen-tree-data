@@ -15,7 +15,7 @@ apply_dict_rules <- function(df, rules, target_col, report = NULL) {
     if (!src %in% names(df)) next
     vec <- df[[src]]
     
-    cond <- !is.na(vec) & vec == pat & target != repl # is the pattern found in source column and is the target value wrong? TRUE/FALSE vector
+    cond <- !is.na(vec) & vec == pat & (target != repl | is.na(target)) # is the pattern found in source column and is the target value wrong? TRUE/FALSE vector
     hits <- which(cond) # where is the source pattern found with a wrong target value? integer vector
     
     if (!length(hits)) next
