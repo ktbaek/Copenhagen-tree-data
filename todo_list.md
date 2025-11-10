@@ -20,3 +20,4 @@
 - Latin name: Prunus sachalinensis -> Prunus sargentii 
 - Latin name: Prunus yedoensis -> Prunus hybr. yedoensis 
 - Latin name: Pterocarya rhederiana -> Pterocarya hybr. rehderiana
+- Danish name: Tsuga canadensis: Østamerikansk hemlock
