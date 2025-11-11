@@ -21,3 +21,5 @@
 - Latin name: Prunus yedoensis -> Prunus hybr. yedoensis 
 - Latin name: Pterocarya rhederiana -> Pterocarya hybr. rehderiana
 - Danish name: Tsuga canadensis: Østamerikansk hemlock
+- Latin and Danish name: Hydrangea arboreum -> Hydrangea arborescens, træagtig hortensia
+- Danish name: Cercis canadensis: Canadisk judastræ
