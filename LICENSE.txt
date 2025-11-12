@@ -1,14 +1,3 @@
-AGPL-3.0 License
-
-Copyright (c) 2025 Kristoffer Torbjørn Bæk
-
-This project contains data cleaning methodologies and code for processing 
-Copenhagen's municipal tree dataset.
-
-Original data source: Københavns Kommune (CC-BY-4.0)
-https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer
-
- 
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
