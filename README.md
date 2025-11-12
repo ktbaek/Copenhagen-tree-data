@@ -4,6 +4,8 @@
 
 The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in September 2025. It contains information about ~67,000 trees in Copenhagen. The data (not included here) is licensed under `CC-BY-4.0`.
 
+The contents of this repository (data cleaning code, validation rules, and correction methodologies) are licensed under `AGPL-3.0`.
+
 ## Cleaning steps
 
 - Check for duplicate UUIDs
@@ -22,7 +24,7 @@ The last two steps assume that the scientific names are the ground truth. This i
 
 The rule sets are not complete, but reflect an ongoing effort.
 
-Approximately 20,000 changes (appr. 560 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
+Approximately 20,000 changes (appr. 570 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
 
 
 ## Interactive map
