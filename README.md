@@ -2,7 +2,7 @@
 
 ## Data source
 
-The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in September 2025. It contains information about ~67,000 trees in Copenhagen. The data (not included here) is licensed under `CC-BY-4.0`.
+The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in September 2025. It contains information about ~67,000 trees in Copenhagen. The original dataset is not included here and is licensed under `CC-BY-4.0`.
 
 The contents of this repository (data cleaning code, validation rules, and correction methodologies) are licensed under `AGPL-3.0`.
 
@@ -32,3 +32,15 @@ Approximately 20,000 changes (appr. 570 unique) have been applied to the dataset
 I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen.
 
 ![App image](map-sshot.png)
+
+## Attribution
+
+```
+Data cleaning methodology: Kristoffer T. Bæk (2020-2025)
+https://github.com/ktbaek/Copenhagen-tree-data
+Licensed under AGPL-3.0
+
+Original tree data: © Københavns Kommune
+https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer
+Licensed under CC-BY-4.0
+```
