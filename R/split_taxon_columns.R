@@ -12,5 +12,7 @@ split_taxon_columns <- function(df) {
   df$sort <- str_squish(df$sort)
   df$genus <- str_squish(df$genus)
   
+  cli::cli_alert_success("Taxon columns were split")
+  
   df
   }

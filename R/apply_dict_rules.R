@@ -7,6 +7,8 @@ apply_dict_rules <- function(df, rules, target_col, report = NULL) {
   # work on a single vector
   target <- df[[target_col]]
   
+  k <- 0L # counter
+  
   for (i in seq_len(nrow(rules))) {
     src   <- rules$if_column[[i]]
     pat   <- rules$pattern[[i]]
@@ -17,6 +19,8 @@ apply_dict_rules <- function(df, rules, target_col, report = NULL) {
     
     cond <- !is.na(vec) & vec == pat & (target != repl | is.na(target)) # is the pattern found in source column and is the target value wrong? TRUE/FALSE vector
     hits <- which(cond) # where is the source pattern found with a wrong target value? integer vector
+    
+    k <- k + length(hits)
     
     if (!length(hits)) next
     before <- target[hits]
@@ -30,5 +34,8 @@ apply_dict_rules <- function(df, rules, target_col, report = NULL) {
   }
   
   df[[target_col]] <- target
+  
+  cli::cli_alert_success(paste0("APPLIED_REGEX_RULE using ruleset ", cli::col_magenta(ruleset), " made ", k, " changes."))
+  
   df
 }

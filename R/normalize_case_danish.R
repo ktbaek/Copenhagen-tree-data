@@ -12,5 +12,7 @@ normalize_case_danish <- function(df, report = NULL) {
   
   if (!is.null(report)) report$add("WRONG_CASE_DANISH", df$uuid[hits], "dansk_navn", before, after, message = "to sentence case")
   
+  cli::cli_alert_success(paste0("WRONG_CASE_DANISH made ", length(hits), " changes."))
+  
   df
   }

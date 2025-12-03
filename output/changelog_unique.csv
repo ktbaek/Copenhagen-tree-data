@@ -153,6 +153,9 @@ APPLIED_REGEX_RULE,Ulmus 'Regal',Ulmus hybr. 'Regal',add hybrid marker,1
 APPLIED_REGEX_RULE,Ulmus 'Sapporo Autumn Gold',Ulmus hybr. 'Sapporo Autumn Gold',add hybrid marker,1
 APPLIED_REGEX_RULE,Ulmus 'Vada',Ulmus hybr. 'Vada',add hybrid marker,6
 APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
+APPLIED_REGEX_RULE,Aronia prunifolia,Aronia hybr. prunifolia,add hybrid marker,1
+APPLIED_REGEX_RULE,Pterocarya rhederiana,Pterocarya hybr. rhederiana,add hybrid marker,1
+APPLIED_REGEX_RULE,Prunus yedoensis,Prunus hybr. yedoensis,add hybrid marker,13
 APPLIED_REGEX_RULE,Ginkgo sp.,Ginkgo biloba,monotypic extant,1
 APPLIED_REGEX_RULE,Metasequoia sp.,Metasequoia glyptostroboides,monotypic extant,3
 APPLIED_REGEX_RULE,Larix leptolepis,Larix kaempferi,latin synonym -> accepted,1
@@ -265,6 +268,7 @@ APPLIED_DICT_RULE,NA,Hortensia,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Williamsianum rhododendron,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Japansk lærk,change danish name based on latin name,1
 APPLIED_DICT_RULE,"Alnus inokumea, ikke navngivet på dansk",unknown,change danish name based on latin name,6
+APPLIED_DICT_RULE,Vingevalnød sp,unknown,change danish name based on latin name,1
 APPLIED_DICT_RULE,Poppel,Gråpoppel,change danish name based on latin name,2
 APPLIED_DICT_RULE,Hyld,Almindelig hyld,change danish name based on latin name,1
 APPLIED_DICT_RULE,Poppel,Ontarisk poppel,change danish name based on latin name,1

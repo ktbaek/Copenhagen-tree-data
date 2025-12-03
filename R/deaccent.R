@@ -16,5 +16,7 @@ deaccent <- function(df, col, report = NULL) {
     if (length(hits)) report$add("ILLEGAL_CHAR_LATIN", df$uuid[hits], col, before[hits], after[hits],
                                  message = "remove accents")
   }
+  cli::cli_alert_success(paste0("ILLEGAL_CHAR_LATIN made ", length(hits), " changes."))
+  
   df
   }

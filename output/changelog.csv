@@ -8187,6 +8187,21 @@ a4622454-7d53-452c-972b-651acd897781,APPLIED_REGEX_RULE,traeart,Aesculus carnea,
 c4e5732a-50a1-4dde-9c8e-eaea0e0f835a,APPLIED_REGEX_RULE,traeart,Aesculus carnea,Aesculus hybr. carnea,latin_regex,add hybrid marker,NA
 e609566e-ca3c-4a0b-9398-15bfa7e573a1,APPLIED_REGEX_RULE,traeart,Aesculus carnea,Aesculus hybr. carnea,latin_regex,add hybrid marker,NA
 1cf112bd-0f19-40a3-b2f6-9c666202fe36,APPLIED_REGEX_RULE,traeart,Aesculus carnea,Aesculus hybr. carnea,latin_regex,add hybrid marker,NA
+ffa0bb53-bad2-4b15-ae83-8817428740c6,APPLIED_REGEX_RULE,traeart,Aronia prunifolia,Aronia hybr. prunifolia,latin_regex,add hybrid marker,NA
+cc466df6-bce7-4e24-a3fc-4a6a98f420e8,APPLIED_REGEX_RULE,traeart,Pterocarya rhederiana,Pterocarya hybr. rhederiana,latin_regex,add hybrid marker,NA
+cb45d150-d58b-4542-9273-28b0dba622fb,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+c1ced3cd-bdb1-4d34-8250-7c38621548dd,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+854a335b-f7b3-4a1f-b413-b54c1d854fbd,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+6f14fe27-e70a-4bb6-b491-95f5adce108f,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+84301f94-7b75-47f5-b128-2eedfc616df3,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+c5e45054-7e17-45a7-a72a-c30dcf18cd01,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+0c95d62b-d5a6-4ec0-aac3-ffc1e2c233cd,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+8ad82bd4-a0cb-4d2d-9fbb-6491892c57c4,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+221562d4-22c3-4a25-9317-14d46367e24e,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+9b68038f-7793-45c9-93ab-3c5ac7583138,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+2dcc43cd-0687-4ba6-8cb3-d13aa4ea4d81,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+3285f6a8-98b2-4e02-96f0-b88bb6abf95d,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
+5fc1c866-f4b8-4195-9014-f4a64fb5f02c,APPLIED_REGEX_RULE,traeart,Prunus yedoensis,Prunus hybr. yedoensis,latin_regex,add hybrid marker,NA
 a46d9055-39a3-40ce-9e92-f23b2a2d9229,APPLIED_REGEX_RULE,traeart,Ginkgo sp.,Ginkgo biloba,latin_regex,monotypic extant,NA
 6e09ef08-85c6-456b-8c71-10c84fdfab93,APPLIED_REGEX_RULE,traeart,Metasequoia sp.,Metasequoia glyptostroboides,latin_regex,monotypic extant,NA
 cb6f0ccd-21e7-4eb1-8a1e-1f0120a4b505,APPLIED_REGEX_RULE,traeart,Metasequoia sp.,Metasequoia glyptostroboides,latin_regex,monotypic extant,NA
@@ -17792,6 +17807,7 @@ ed014195-8853-495f-85eb-461ed6570dcb,APPLIED_DICT_RULE,dansk_navn,Poppel,Landeve
 b0d46e64-d088-4159-baca-a01e1ed1ef54,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 b3ef8453-4d89-4fa4-8429-50a94c7bfb1b,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
 5b53eb09-7ea6-498b-8584-1b9844743004,APPLIED_DICT_RULE,dansk_navn,Tretorn,Almindelig tretorn,latin_da_map,change danish name based on latin name,NA
+cc466df6-bce7-4e24-a3fc-4a6a98f420e8,APPLIED_DICT_RULE,dansk_navn,Vingevalnød sp,unknown,latin_da_map,change danish name based on latin name,NA
 4774faa6-39c7-457c-a484-bbbc299e4743,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 5cbc3afa-ebeb-4911-bb47-7f6c0ff980cc,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA
 e463f037-e85d-4177-8bda-447cce7ed327,APPLIED_DICT_RULE,dansk_navn,Bøg,Almindelig bøg,latin_da_map,change danish name based on latin name,NA

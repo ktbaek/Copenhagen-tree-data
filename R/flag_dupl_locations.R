@@ -13,5 +13,7 @@ flag_dupl_locations <- function(df, report = NULL) {
     hits <- which(df$dup_loc & !df$dup_keep)
     if (length(hits)) report$add("DUPLICATE_LOCATION", df$uuid[hits], "lon/lat", paste(df$lon[hits], df$lat[hits]),  message = "flagged for deletion")
   }
+  cli::cli_alert_success(paste0("DUPLICATE_LOCATION flagged ", length(hits), " trees for deletion."))
+  
   df
 }

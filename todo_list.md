@@ -16,10 +16,10 @@
 - :white_check_mark: Latin name: Tilia x 'Zwarte Linde' -> Tilia hybr. europaea 'Zwarte Linde'
 - Danish name: Betula hybr 'Hekla': Rødbladet fjeldbirk 'Hekla'
 - Danish name: Aronia melanocarpa: Sortfrugtet surbær
-- Latin name: Aronia prunifolia -> Aronia hybr. prunifolia
+- :white_check_mark: Latin name: Aronia prunifolia -> Aronia hybr. prunifolia
 - Latin name: Prunus sachalinensis -> Prunus sargentii 
-- Latin name: Prunus yedoensis -> Prunus hybr. yedoensis 
-- Latin name: Pterocarya rhederiana -> Pterocarya hybr. rehderiana
+- :white_check_mark: Latin name: Prunus yedoensis -> Prunus hybr. yedoensis 
+- :white_check_mark: Latin name: Pterocarya rhederiana -> Pterocarya hybr. rehderiana
 - Danish name: Tsuga canadensis: Østamerikansk hemlock
 - Latin and Danish name: Hydrangea arboreum -> Hydrangea arborescens, træagtig hortensia
 - Danish name: Cercis canadensis: Canadisk judastræ

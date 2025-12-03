@@ -9,5 +9,7 @@ normalize_year <- function(df, lower_bound = 1700L, report = NULL) {
   
   if (!is.null(report)) report$add("YEAR_RANGE", df$uuid[hits], "planteaar", before, after, message = "year outside allowed range")
   
+  cli::cli_alert_success(paste0("YEAR_RANGE making ", length(hits), " changes."))
+  
   df
 }
