@@ -10,22 +10,22 @@ okhex_df <- as_tibble(farver::decode_colour(color_scheme, to = "oklch")) |>
   )
 
 # Define sorting order
-sorting_cols <- c("type", "order", "family", "genus", "art")
+sorting_cols <- c("order", "family", "genus", "art")
 
 custom_orders_first <- list(
-  type = c("Løvfældende", "Stedsegrønt", "Nåletræ (løvfældende)", "Nåletræ"),
   order = c("Sapindales", "Fagales"),
   genus = c("Fagus")
 )
 
 custom_orders_last <- list(
-  order = c("Fabales", "Malvales"),
+  order = c("Fabales", "Malvales", "Aquifoliales", "Arecales", "Buxales", "Ericales", "Trochodendrales", "Araucariales",
+            "Cupressales", "Pinales"),
   genus = c("Quercus")
 )
 
 taxo_df <- set_color_df |> 
   filter(!is.na(genus)) |> 
-  select(type, order, family, genus, art) |> 
+  select(order, family, genus, art) |> 
   group_by(art) |> 
   mutate(n = n()) |> 
   ungroup() |> 
@@ -51,8 +51,8 @@ taxo_color_df <- taxo_df |>
 # generate analytic output - plots and mean oklch values
 map_color_df <- set_color_df|> 
   filter(!is.na(genus)) |> 
-  left_join(taxo_color_df, by = c("art", "genus", "family", "order", "type"), relationship = "many-to-one") |> 
-  select(uuid, art, genus, family, order, type, n, seq, l, c, h, hex, xmax, xmin)
+  left_join(taxo_color_df, by = c("art", "genus", "family", "order"), relationship = "many-to-one") |> 
+  select(uuid, art, genus, family, order, n, seq, l, c, h, hex, xmax, xmin)
 
 mean_l <- round(mean(map_color_df$l, na.rm = TRUE), 3)
 mean_c <- round(mean(map_color_df$c, na.rm = TRUE), 3)
@@ -116,6 +116,32 @@ set_color_df <- set_color_df |>
   left_join(select(taxo_color_df, art, hex), by = "art", relationship = "many-to-one") |> 
   rename(fillcolor = hex)
 
-
 cli::cli_alert_success("Color scales applied")
+
+# Convert color-taxonomy dataframe to tree
+taxo_tree_df <- taxo_color_df |> 
+  rename(species = art, 
+         value = hex) |> 
+  select(order, family, genus, species, value) 
+
+taxo_tree_df$pathString <- paste("trees", 
+                                 taxo_tree_df$order, 
+                                 taxo_tree_df$family, 
+                                 taxo_tree_df$genus, 
+                                 taxo_tree_df$species, 
+                                sep = "/")
+
+taxo_tree <- taxo_tree_df |> 
+  select(pathString, value) |> 
+  data.tree::as.Node()
+
+# Convert to list format
+taxo_tree_list <- data.tree::ToListExplicit(taxo_tree, unname = TRUE, 
+                            nameName = "name", 
+                            childrenName = "children")
+
+# Write JSON
+write(toJSON(taxo_tree_list, pretty = TRUE, auto_unbox = TRUE), '../website/src/assets/dataset/taxonomy.json')
+  
+cli::cli_alert_success("Taxonomy JSON generated")
 }

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<svg width="1000" height="5000"></svg>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script type="module">
+  const svg = d3.select("svg");
+  const width = +svg.attr("width");
+  const height = +svg.attr("height");
+
+  // Load your nested JSON
+  const data = await fetch("./taxonomy.json").then(r => r.json());
+
+  // Create a hierarchy
+  const root = d3.hierarchy(data);
+
+  // Create a tree layout
+  const treeLayout = d3.tree().size([height - 40, width - 260]); 
+  treeLayout(root);
+
+  // Draw curved links
+const linkGenerator = d3.linkHorizontal()
+  .x(d => d.y + 80)  // horizontal position
+  .y(d => d.x + 20); // vertical position
+
+svg.selectAll("path.link")
+  .data(root.links())
+  .enter()
+  .append("path")
+  .classed("link", true)
+  .attr("d", linkGenerator)
+  .attr("fill", "none")
+  .attr("stroke", "#aaa");
+
+  // Draw nodes (circles)
+  svg.selectAll("circle.node")
+    .data(root.descendants())
+    .enter()
+    .append("circle")
+    .classed("node", true)
+    .attr("cx", d => d.y + 80)
+    .attr("cy", d => d.x + 20)
+    .attr("r", 6)
+    .attr("fill", d => d.data.value || "#aaa");
+
+  const labels = svg.selectAll("text.label")
+  .data(root.descendants())
+  .enter()
+  .append("text")
+  .classed("label", true)
+  .attr("x", d => d.y + 90)
+  .attr("y", d => d.x + 25)
+  .text(d => d.data.name)
+  .attr("font-size", "12px")
+  .attr("font-family", "sans-serif");
+
+// add white rectangles behind the labels
+labels.each(function(d) {
+  const bbox = this.getBBox(); // get the text size
+  svg.insert("rect", "text")   // insert behind the text
+    .attr("x", bbox.x - 2)     // small padding
+    .attr("y", bbox.y - 1)
+    .attr("width", bbox.width + 4)
+    .attr("height", bbox.height + 2)
+    .attr("fill", "white")
+    .attr("fill-opacity", 0.8);
+});
+
+
+</script>
+</body>

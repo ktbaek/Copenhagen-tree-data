@@ -1,0 +1,1952 @@
+{
+  "name": "trees",
+  "children": [
+    {
+      "name": "Løvfældende",
+      "children": [
+        {
+          "name": "Sapindales",
+          "children": [
+            {
+              "name": "Anacardiaceae",
+              "children": [
+                {
+                  "name": "Cotinus",
+                  "children": [
+                    {
+                      "name": "Cotinus coggygria",
+                      "value": "#DEE318FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Pistacie",
+                  "children": [
+                    {
+                      "name": "Pistacie chinensis",
+                      "value": "#DCE318FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Rhus",
+                  "children": [
+                    {
+                      "name": "Rhus glabra",
+                      "value": "#DBE319FF"
+                    },
+                    {
+                      "name": "Rhus potaninii",
+                      "value": "#DAE319FF"
+                    },
+                    {
+                      "name": "Rhus typhina",
+                      "value": "#D9E219FF"
+                    },
+                    {
+                      "name": "Rhus vernciflua",
+                      "value": "#D8E219FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rutaceae",
+              "children": [
+                {
+                  "name": "Phellodendron",
+                  "children": [
+                    {
+                      "name": "Phellodendron amurense",
+                      "value": "#D6E219FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Poncirus",
+                  "children": [
+                    {
+                      "name": "Poncirus trifoliatus",
+                      "value": "#D5E21AFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tetradium",
+                  "children": [
+                    {
+                      "name": "Tetradium daniellii",
+                      "value": "#D3E21AFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Zanthoxylum",
+                  "children": [
+                    {
+                      "name": "Zanthoxylum americanum",
+                      "value": "#D2E21BFF"
+                    },
+                    {
+                      "name": "Zanthoxylum piperitum",
+                      "value": "#D1E21BFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sapindaceae",
+              "children": [
+                {
+                  "name": "Acer",
+                  "children": [
+                    {
+                      "name": "Acer argutum",
+                      "value": "#D0E11CFF"
+                    },
+                    {
+                      "name": "Acer betulifolia",
+                      "value": "#CFE11CFF"
+                    },
+                    {
+                      "name": "Acer buergeranium",
+                      "value": "#CEE11DFF"
+                    },
+                    {
+                      "name": "Acer campestre",
+                      "value": "#CCE11EFF"
+                    },
+                    {
+                      "name": "Acer capillipes",
+                      "value": "#CBE11FFF"
+                    },
+                    {
+                      "name": "Acer cappadonicum",
+                      "value": "#CAE11FFF"
+                    },
+                    {
+                      "name": "Acer carpinifolium",
+                      "value": "#C9E020FF"
+                    },
+                    {
+                      "name": "Acer circinatum",
+                      "value": "#C8E020FF"
+                    },
+                    {
+                      "name": "Acer cissifolia",
+                      "value": "#C6E021FF"
+                    },
+                    {
+                      "name": "Acer crataegifolium",
+                      "value": "#C5E021FF"
+                    },
+                    {
+                      "name": "Acer davidii",
+                      "value": "#C3DF22FF"
+                    },
+                    {
+                      "name": "Acer elegantuleum",
+                      "value": "#C2DF23FF"
+                    },
+                    {
+                      "name": "Acer ginnala",
+                      "value": "#C1DF24FF"
+                    },
+                    {
+                      "name": "Acer globosum",
+                      "value": "#C0DF25FF"
+                    },
+                    {
+                      "name": "Acer griseum",
+                      "value": "#BFDF25FF"
+                    },
+                    {
+                      "name": "Acer hybr. freemanii",
+                      "value": "#BDDF26FF"
+                    },
+                    {
+                      "name": "Acer hybr. zoeschense",
+                      "value": "#BCDF27FF"
+                    },
+                    {
+                      "name": "Acer hyrcanum",
+                      "value": "#BADE28FF"
+                    },
+                    {
+                      "name": "Acer japonica",
+                      "value": "#B9DE28FF"
+                    },
+                    {
+                      "name": "Acer micranthum",
+                      "value": "#B9DE29FF"
+                    },
+                    {
+                      "name": "Acer monspessulanum",
+                      "value": "#B7DE29FF"
+                    },
+                    {
+                      "name": "Acer negundo",
+                      "value": "#B6DE2AFF"
+                    },
+                    {
+                      "name": "Acer nikoensis",
+                      "value": "#B5DE2BFF"
+                    },
+                    {
+                      "name": "Acer palmatum",
+                      "value": "#B3DD2CFF"
+                    },
+                    {
+                      "name": "Acer pensylvanicum",
+                      "value": "#B2DD2DFF"
+                    },
+                    {
+                      "name": "Acer platanoides",
+                      "value": "#B1DD2EFF"
+                    },
+                    {
+                      "name": "Acer pseudoplatanus",
+                      "value": "#B0DD2FFF"
+                    },
+                    {
+                      "name": "Acer pseudosieboldianum",
+                      "value": "#AFDD2FFF"
+                    },
+                    {
+                      "name": "Acer rubrum",
+                      "value": "#ADDC30FF"
+                    },
+                    {
+                      "name": "Acer rufinerve",
+                      "value": "#ACDC31FF"
+                    },
+                    {
+                      "name": "Acer saccharinum",
+                      "value": "#AADC32FF"
+                    },
+                    {
+                      "name": "Acer saccharum",
+                      "value": "#A9DC33FF"
+                    },
+                    {
+                      "name": "Acer sp.",
+                      "value": "#A8DB34FF"
+                    },
+                    {
+                      "name": "Acer tataricum",
+                      "value": "#A7DB35FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Aesculus",
+                  "children": [
+                    {
+                      "name": "Aesculus flava",
+                      "value": "#A6DB36FF"
+                    },
+                    {
+                      "name": "Aesculus glabra",
+                      "value": "#A4DB36FF"
+                    },
+                    {
+                      "name": "Aesculus hippocastanum",
+                      "value": "#A3DA37FF"
+                    },
+                    {
+                      "name": "Aesculus hybr. carnea",
+                      "value": "#A2DA37FF"
+                    },
+                    {
+                      "name": "Aesculus parviflora",
+                      "value": "#A1DA38FF"
+                    },
+                    {
+                      "name": "Aesculus sp.",
+                      "value": "#A0DA39FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Koelreuteria",
+                  "children": [
+                    {
+                      "name": "Koelreuteria paniculata",
+                      "value": "#9ED93AFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Simaroubaceae",
+              "children": [
+                {
+                  "name": "Ailanthus",
+                  "children": [
+                    {
+                      "name": "Ailanthus altissima (han)",
+                      "value": "#9DD93BFF"
+                    },
+                    {
+                      "name": "Ailanthus altissima (hun)",
+                      "value": "#9CD93BFF"
+                    },
+                    {
+                      "name": "Ailanthus sp.",
+                      "value": "#9BD93CFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fagales",
+          "children": [
+            {
+              "name": "Betulaceae",
+              "children": [
+                {
+                  "name": "Alnus",
+                  "children": [
+                    {
+                      "name": "Alnus cordata",
+                      "value": "#9AD93DFF"
+                    },
+                    {
+                      "name": "Alnus glutinosa",
+                      "value": "#98D83EFF"
+                    },
+                    {
+                      "name": "Alnus incana",
+                      "value": "#97D83FFF"
+                    },
+                    {
+                      "name": "Alnus inokumae",
+                      "value": "#96D840FF"
+                    },
+                    {
+                      "name": "Alnus sp.",
+                      "value": "#94D840FF"
+                    },
+                    {
+                      "name": "Alnus spaethii",
+                      "value": "#94D741FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Betula",
+                  "children": [
+                    {
+                      "name": "Betula albosinensis",
+                      "value": "#92D741FF"
+                    },
+                    {
+                      "name": "Betula ermanii",
+                      "value": "#91D742FF"
+                    },
+                    {
+                      "name": "Betula hybr.",
+                      "value": "#90D743FF"
+                    },
+                    {
+                      "name": "Betula maximowicziana",
+                      "value": "#8FD644FF"
+                    },
+                    {
+                      "name": "Betula nigra",
+                      "value": "#8ED645FF"
+                    },
+                    {
+                      "name": "Betula papyrifera",
+                      "value": "#8CD645FF"
+                    },
+                    {
+                      "name": "Betula pendula",
+                      "value": "#8BD646FF"
+                    },
+                    {
+                      "name": "Betula pubescens",
+                      "value": "#8AD647FF"
+                    },
+                    {
+                      "name": "Betula sp.",
+                      "value": "#89D548FF"
+                    },
+                    {
+                      "name": "Betula utilis",
+                      "value": "#88D548FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Carpinus",
+                  "children": [
+                    {
+                      "name": "Carpinus betulus",
+                      "value": "#86D549FF"
+                    },
+                    {
+                      "name": "Carpinus sp.",
+                      "value": "#85D549FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Corylus",
+                  "children": [
+                    {
+                      "name": "Corylus americana",
+                      "value": "#84D44AFF"
+                    },
+                    {
+                      "name": "Corylus avellana",
+                      "value": "#83D44CFF"
+                    },
+                    {
+                      "name": "Corylus colurna",
+                      "value": "#82D34DFF"
+                    },
+                    {
+                      "name": "Corylus sp.",
+                      "value": "#81D34DFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ostrya",
+                  "children": [
+                    {
+                      "name": "Ostrya carpinifolia",
+                      "value": "#80D34EFF"
+                    },
+                    {
+                      "name": "Ostrya sp.",
+                      "value": "#7FD34EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Fagaceae",
+              "children": [
+                {
+                  "name": "Fagus",
+                  "children": [
+                    {
+                      "name": "Fagus orientalis",
+                      "value": "#7DD34FFF"
+                    },
+                    {
+                      "name": "Fagus sp.",
+                      "value": "#7CD250FF"
+                    },
+                    {
+                      "name": "Fagus sylvatica",
+                      "value": "#7BD150FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Castanea",
+                  "children": [
+                    {
+                      "name": "Castanea sativa",
+                      "value": "#7AD151FF"
+                    },
+                    {
+                      "name": "Castanea sp.",
+                      "value": "#79D152FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Quercus",
+                  "children": [
+                    {
+                      "name": "Quercus cerris",
+                      "value": "#77D153FF"
+                    },
+                    {
+                      "name": "Quercus coccinea",
+                      "value": "#76D153FF"
+                    },
+                    {
+                      "name": "Quercus frainetto",
+                      "value": "#75D054FF"
+                    },
+                    {
+                      "name": "Quercus hybr. turneri",
+                      "value": "#74D055FF"
+                    },
+                    {
+                      "name": "Quercus ilex",
+                      "value": "#74D056FF"
+                    },
+                    {
+                      "name": "Quercus macranthera",
+                      "value": "#72D056FF"
+                    },
+                    {
+                      "name": "Quercus palustris",
+                      "value": "#71CF57FF"
+                    },
+                    {
+                      "name": "Quercus petraea",
+                      "value": "#70CF57FF"
+                    },
+                    {
+                      "name": "Quercus phellos",
+                      "value": "#6FCE58FF"
+                    },
+                    {
+                      "name": "Quercus pontica",
+                      "value": "#6ECE58FF"
+                    },
+                    {
+                      "name": "Quercus pubescens",
+                      "value": "#6DCD59FF"
+                    },
+                    {
+                      "name": "Quercus robur",
+                      "value": "#6CCD5AFF"
+                    },
+                    {
+                      "name": "Quercus rubra",
+                      "value": "#6BCD5BFF"
+                    },
+                    {
+                      "name": "Quercus sp.",
+                      "value": "#69CD5BFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Juglandaceae",
+              "children": [
+                {
+                  "name": "Juglans",
+                  "children": [
+                    {
+                      "name": "Juglans nigra",
+                      "value": "#68CD5BFF"
+                    },
+                    {
+                      "name": "Juglans regia",
+                      "value": "#67CC5CFF"
+                    },
+                    {
+                      "name": "Juglans sp.",
+                      "value": "#66CC5DFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Pterocarya",
+                  "children": [
+                    {
+                      "name": "Pterocarya fraxinifolia",
+                      "value": "#65CB5EFF"
+                    },
+                    {
+                      "name": "Pterocarya hybr. rhederiana",
+                      "value": "#64CB5EFF"
+                    },
+                    {
+                      "name": "Pterocarya rhoifolia",
+                      "value": "#64CB5FFF"
+                    },
+                    {
+                      "name": "Pterocarya sp.",
+                      "value": "#62CB5FFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Nothofagaceae",
+              "children": [
+                {
+                  "name": "Nothofagus",
+                  "children": [
+                    {
+                      "name": "Nothofagus antarctica",
+                      "value": "#61CA60FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Celastrales",
+          "children": [
+            {
+              "name": "Celastraceae",
+              "children": [
+                {
+                  "name": "Euonymus",
+                  "children": [
+                    {
+                      "name": "Euonymus alata",
+                      "value": "#60CA60FF"
+                    },
+                    {
+                      "name": "Euonymus europaeus",
+                      "value": "#5FC961FF"
+                    },
+                    {
+                      "name": "Euonymus latifolius",
+                      "value": "#5EC962FF"
+                    },
+                    {
+                      "name": "Euonymus sachaliensis",
+                      "value": "#5DC863FF"
+                    },
+                    {
+                      "name": "Euonymus sp.",
+                      "value": "#5CC863FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cornales",
+          "children": [
+            {
+              "name": "Cornaceae",
+              "children": [
+                {
+                  "name": "Cornus",
+                  "children": [
+                    {
+                      "name": "Cornus contreversa",
+                      "value": "#5BC863FF"
+                    },
+                    {
+                      "name": "Cornus kousa",
+                      "value": "#5AC864FF"
+                    },
+                    {
+                      "name": "Cornus mas",
+                      "value": "#59C864FF"
+                    },
+                    {
+                      "name": "Cornus sanguinea",
+                      "value": "#58C765FF"
+                    },
+                    {
+                      "name": "Cornus sp.",
+                      "value": "#57C766FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hydrangeaceae",
+              "children": [
+                {
+                  "name": "Hydrangea",
+                  "children": [
+                    {
+                      "name": "Hydrangea arboreum",
+                      "value": "#56C667FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Nyssaceae",
+              "children": [
+                {
+                  "name": "Davidia",
+                  "children": [
+                    {
+                      "name": "Davidia involucrata",
+                      "value": "#55C667FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Nyssa",
+                  "children": [
+                    {
+                      "name": "Nyssa sylvatica",
+                      "value": "#54C568FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crossosomatales",
+          "children": [
+            {
+              "name": "Staphyleaceae",
+              "children": [
+                {
+                  "name": "Staphylea",
+                  "children": [
+                    {
+                      "name": "Staphylea colchica",
+                      "value": "#54C568FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dipsacales",
+          "children": [
+            {
+              "name": "Adoxaceae",
+              "children": [
+                {
+                  "name": "Sambucus",
+                  "children": [
+                    {
+                      "name": "Sambucus nigra",
+                      "value": "#53C569FF"
+                    },
+                    {
+                      "name": "Sambucus sp.",
+                      "value": "#52C569FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Viburnum",
+                  "children": [
+                    {
+                      "name": "Viburnum hybr. bodnantense",
+                      "value": "#51C46AFF"
+                    },
+                    {
+                      "name": "Viburnum opulus",
+                      "value": "#50C46AFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Caprifoliaceae",
+              "children": [
+                {
+                  "name": "Heptacodium",
+                  "children": [
+                    {
+                      "name": "Heptacodium miconioides",
+                      "value": "#4FC36BFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Kolkwitzia",
+                  "children": [
+                    {
+                      "name": "Kolkwitzia amabilis",
+                      "value": "#4EC36BFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Symphoricapos",
+                  "children": [
+                    {
+                      "name": "Symphoricapos albus",
+                      "value": "#4DC36BFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ericales",
+          "children": [
+            {
+              "name": "Styracaceae",
+              "children": [
+                {
+                  "name": "Styrax",
+                  "children": [
+                    {
+                      "name": "Styrax japonica",
+                      "value": "#4CC26CFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Garryales",
+          "children": [
+            {
+              "name": "Eucommiaceae",
+              "children": [
+                {
+                  "name": "Eucommia",
+                  "children": [
+                    {
+                      "name": "Eucommia ulmoides",
+                      "value": "#4BC16CFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ginkgoales",
+          "children": [
+            {
+              "name": "Ginkgoaceae",
+              "children": [
+                {
+                  "name": "Ginkgo",
+                  "children": [
+                    {
+                      "name": "Ginkgo biloba",
+                      "value": "#4AC16DFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lamiales",
+          "children": [
+            {
+              "name": "Bignoniaceae",
+              "children": [
+                {
+                  "name": "Catalpa",
+                  "children": [
+                    {
+                      "name": "Catalpa bignonioides",
+                      "value": "#49C16DFF"
+                    },
+                    {
+                      "name": "Catalpa hybr. erubescens",
+                      "value": "#48C16EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Oleaceae",
+              "children": [
+                {
+                  "name": "Fraxinus",
+                  "children": [
+                    {
+                      "name": "Fraxinus americana",
+                      "value": "#47C16EFF"
+                    },
+                    {
+                      "name": "Fraxinus angustifolia",
+                      "value": "#47C06FFF"
+                    },
+                    {
+                      "name": "Fraxinus excelsior",
+                      "value": "#46C06FFF"
+                    },
+                    {
+                      "name": "Fraxinus ornus",
+                      "value": "#45BF70FF"
+                    },
+                    {
+                      "name": "Fraxinus pennsylvanica",
+                      "value": "#44BF70FF"
+                    },
+                    {
+                      "name": "Fraxinus sp.",
+                      "value": "#43BE71FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Syringa",
+                  "children": [
+                    {
+                      "name": "Syringa vulgaris",
+                      "value": "#42BE71FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Paulowniaceae",
+              "children": [
+                {
+                  "name": "Paulownia",
+                  "children": [
+                    {
+                      "name": "Paulownia tomentosa",
+                      "value": "#41BD72FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Scrophulariaceae",
+              "children": [
+                {
+                  "name": "Buddleja",
+                  "children": [
+                    {
+                      "name": "Buddleja davidii",
+                      "value": "#40BD72FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Laurales",
+          "children": [
+            {
+              "name": "Calycanthaceae",
+              "children": [
+                {
+                  "name": "Calycanthus",
+                  "children": [
+                    {
+                      "name": "Calycanthus floridus",
+                      "value": "#40BC72FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Magnoliales",
+          "children": [
+            {
+              "name": "Annonaceae",
+              "children": [
+                {
+                  "name": "Asimina",
+                  "children": [
+                    {
+                      "name": "Asimina triloba",
+                      "value": "#3FBC73FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Magnoliaceae",
+              "children": [
+                {
+                  "name": "Liriodendron",
+                  "children": [
+                    {
+                      "name": "Liriodendron tulipifera",
+                      "value": "#3EBC73FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Magnolia",
+                  "children": [
+                    {
+                      "name": "Magnolia hybr.",
+                      "value": "#3DBC74FF"
+                    },
+                    {
+                      "name": "Magnolia hybr. loebneri",
+                      "value": "#3CBC74FF"
+                    },
+                    {
+                      "name": "Magnolia hybr. soulangeana",
+                      "value": "#3BBB75FF"
+                    },
+                    {
+                      "name": "Magnolia hybr. thompsoniana",
+                      "value": "#3BBB75FF"
+                    },
+                    {
+                      "name": "Magnolia kobus",
+                      "value": "#3ABA76FF"
+                    },
+                    {
+                      "name": "Magnolia sp.",
+                      "value": "#3ABA76FF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Malpighiales",
+          "children": [
+            {
+              "name": "Salicaceae",
+              "children": [
+                {
+                  "name": "Populus",
+                  "children": [
+                    {
+                      "name": "Populus acuminata",
+                      "value": "#39B977FF"
+                    },
+                    {
+                      "name": "Populus alba",
+                      "value": "#38B977FF"
+                    },
+                    {
+                      "name": "Populus balsamifera",
+                      "value": "#37B878FF"
+                    },
+                    {
+                      "name": "Populus hybr. canadensis",
+                      "value": "#37B878FF"
+                    },
+                    {
+                      "name": "Populus hybr. canescens",
+                      "value": "#36B779FF"
+                    },
+                    {
+                      "name": "Populus hybr. gileadensis",
+                      "value": "#35B779FF"
+                    },
+                    {
+                      "name": "Populus koreana",
+                      "value": "#35B679FF"
+                    },
+                    {
+                      "name": "Populus lasiocarpa",
+                      "value": "#34B679FF"
+                    },
+                    {
+                      "name": "Populus nigra",
+                      "value": "#33B679FF"
+                    },
+                    {
+                      "name": "Populus simonii",
+                      "value": "#32B67AFF"
+                    },
+                    {
+                      "name": "Populus sp.",
+                      "value": "#32B67AFF"
+                    },
+                    {
+                      "name": "Populus tremula",
+                      "value": "#31B57BFF"
+                    },
+                    {
+                      "name": "Populus trichocarpa",
+                      "value": "#31B57BFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Salix",
+                  "children": [
+                    {
+                      "name": "Salix alba",
+                      "value": "#30B47CFF"
+                    },
+                    {
+                      "name": "Salix aurita",
+                      "value": "#2FB47CFF"
+                    },
+                    {
+                      "name": "Salix caprea",
+                      "value": "#2EB37CFF"
+                    },
+                    {
+                      "name": "Salix matsudana",
+                      "value": "#2EB37CFF"
+                    },
+                    {
+                      "name": "Salix pentandra",
+                      "value": "#2DB27DFF"
+                    },
+                    {
+                      "name": "Salix purpurea",
+                      "value": "#2DB27DFF"
+                    },
+                    {
+                      "name": "Salix sp.",
+                      "value": "#2DB17EFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Proteales",
+          "children": [
+            {
+              "name": "Platanaceae",
+              "children": [
+                {
+                  "name": "Platanus",
+                  "children": [
+                    {
+                      "name": "Platanus hybr. acerifolia",
+                      "value": "#2CB17EFF"
+                    },
+                    {
+                      "name": "Platanus orientalis",
+                      "value": "#2BB17FFF"
+                    },
+                    {
+                      "name": "Platanus sp.",
+                      "value": "#2AB07FFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rosales",
+          "children": [
+            {
+              "name": "Cannabaceae",
+              "children": [
+                {
+                  "name": "Celtis",
+                  "children": [
+                    {
+                      "name": "Celtis australis",
+                      "value": "#29B07FFF"
+                    },
+                    {
+                      "name": "Celtis sinesis",
+                      "value": "#29AF7FFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Elaeagnaceae",
+              "children": [
+                {
+                  "name": "Elaeagnus",
+                  "children": [
+                    {
+                      "name": "Elaeagnus angustifolia",
+                      "value": "#29AF7FFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hippophaë",
+                  "children": [
+                    {
+                      "name": "Hippophaë rhamnoides",
+                      "value": "#28AE80FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Moraceae",
+              "children": [
+                {
+                  "name": "Broussonetia",
+                  "children": [
+                    {
+                      "name": "Broussonetia papyrifera",
+                      "value": "#28AE80FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Maclura",
+                  "children": [
+                    {
+                      "name": "Maclura pomifera",
+                      "value": "#27AD81FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Morus",
+                  "children": [
+                    {
+                      "name": "Morus alba",
+                      "value": "#27AD81FF"
+                    },
+                    {
+                      "name": "Morus nigra",
+                      "value": "#26AD81FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rhamnaceae",
+              "children": [
+                {
+                  "name": "Rhamnus",
+                  "children": [
+                    {
+                      "name": "Rhamnus catharticus",
+                      "value": "#26AD81FF"
+                    },
+                    {
+                      "name": "Rhamnus frangula",
+                      "value": "#25AD82FF"
+                    },
+                    {
+                      "name": "Rhamnus imeritinus",
+                      "value": "#25AC82FF"
+                    },
+                    {
+                      "name": "Rhamnus sp.",
+                      "value": "#25AB82FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rosaceae",
+              "children": [
+                {
+                  "name": "Amelanchier",
+                  "children": [
+                    {
+                      "name": "Amelanchier arborea",
+                      "value": "#25AB82FF"
+                    },
+                    {
+                      "name": "Amelanchier canadensis",
+                      "value": "#25AB82FF"
+                    },
+                    {
+                      "name": "Amelanchier hybr. grandiflora",
+                      "value": "#24AA83FF"
+                    },
+                    {
+                      "name": "Amelanchier laevis",
+                      "value": "#24AA83FF"
+                    },
+                    {
+                      "name": "Amelanchier lamarckii",
+                      "value": "#23A983FF"
+                    },
+                    {
+                      "name": "Amelanchier sp.",
+                      "value": "#23A983FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Aronia",
+                  "children": [
+                    {
+                      "name": "Aronia hybr. prunifolia",
+                      "value": "#22A884FF"
+                    },
+                    {
+                      "name": "Aronia melanocarpa",
+                      "value": "#22A884FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cotoneaster",
+                  "children": [
+                    {
+                      "name": "Cotoneaster sp.",
+                      "value": "#22A785FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Crataegus",
+                  "children": [
+                    {
+                      "name": "Crataegus crus-galli",
+                      "value": "#22A785FF"
+                    },
+                    {
+                      "name": "Crataegus douglasii",
+                      "value": "#21A685FF"
+                    },
+                    {
+                      "name": "Crataegus intricata",
+                      "value": "#21A685FF"
+                    },
+                    {
+                      "name": "Crataegus laevigata",
+                      "value": "#21A585FF"
+                    },
+                    {
+                      "name": "Crataegus lavallei",
+                      "value": "#21A585FF"
+                    },
+                    {
+                      "name": "Crataegus monogyna",
+                      "value": "#20A486FF"
+                    },
+                    {
+                      "name": "Crataegus prunifolia",
+                      "value": "#20A486FF"
+                    },
+                    {
+                      "name": "Crataegus sp.",
+                      "value": "#20A486FF"
+                    },
+                    {
+                      "name": "Crataegus submollis",
+                      "value": "#20A386FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cydonia",
+                  "children": [
+                    {
+                      "name": "Cydonia oblonga",
+                      "value": "#20A386FF"
+                    },
+                    {
+                      "name": "Cydonia sp.",
+                      "value": "#1FA287FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Kerria",
+                  "children": [
+                    {
+                      "name": "Kerria japonica",
+                      "value": "#1FA287FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Malus",
+                  "children": [
+                    {
+                      "name": "Malus baccata",
+                      "value": "#1FA187FF"
+                    },
+                    {
+                      "name": "Malus domestica",
+                      "value": "#1FA187FF"
+                    },
+                    {
+                      "name": "Malus hybr.",
+                      "value": "#1FA188FF"
+                    },
+                    {
+                      "name": "Malus hybr. floribunda",
+                      "value": "#1FA188FF"
+                    },
+                    {
+                      "name": "Malus hybr. robusta",
+                      "value": "#1FA088FF"
+                    },
+                    {
+                      "name": "Malus ioensis",
+                      "value": "#1FA088FF"
+                    },
+                    {
+                      "name": "Malus sargentii",
+                      "value": "#1F9F88FF"
+                    },
+                    {
+                      "name": "Malus sieboldii",
+                      "value": "#1F9F88FF"
+                    },
+                    {
+                      "name": "Malus sp.",
+                      "value": "#1F9F89FF"
+                    },
+                    {
+                      "name": "Malus sylvestris",
+                      "value": "#1F9E89FF"
+                    },
+                    {
+                      "name": "Malus toringo",
+                      "value": "#1F9E89FF"
+                    },
+                    {
+                      "name": "Malus trilobata",
+                      "value": "#1E9D89FF"
+                    },
+                    {
+                      "name": "Malus tschonoskii",
+                      "value": "#1E9D89FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Mespilus",
+                  "children": [
+                    {
+                      "name": "Mespilus germanica",
+                      "value": "#1E9C89FF"
+                    },
+                    {
+                      "name": "Mespilus sp.",
+                      "value": "#1E9C89FF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Physocarpus",
+                  "children": [
+                    {
+                      "name": "Physocarpus opulifolius",
+                      "value": "#1E9B8AFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Prunus",
+                  "children": [
+                    {
+                      "name": "Prunus americana",
+                      "value": "#1E9B8AFF"
+                    },
+                    {
+                      "name": "Prunus avium",
+                      "value": "#1F9A8AFF"
+                    },
+                    {
+                      "name": "Prunus cerasifera",
+                      "value": "#1F9A8AFF"
+                    },
+                    {
+                      "name": "Prunus cerasus",
+                      "value": "#1F998AFF"
+                    },
+                    {
+                      "name": "Prunus domestica",
+                      "value": "#1F998AFF"
+                    },
+                    {
+                      "name": "Prunus hybr.",
+                      "value": "#1F988BFF"
+                    },
+                    {
+                      "name": "Prunus hybr. amygdalo-persica",
+                      "value": "#1F988BFF"
+                    },
+                    {
+                      "name": "Prunus hybr. hilleri",
+                      "value": "#1F988BFF"
+                    },
+                    {
+                      "name": "Prunus hybr. yedoensis",
+                      "value": "#1F978BFF"
+                    },
+                    {
+                      "name": "Prunus maackii",
+                      "value": "#1F978BFF"
+                    },
+                    {
+                      "name": "Prunus mahaleb",
+                      "value": "#1F968BFF"
+                    },
+                    {
+                      "name": "Prunus padus",
+                      "value": "#1F968BFF"
+                    },
+                    {
+                      "name": "Prunus persica",
+                      "value": "#1F958BFF"
+                    },
+                    {
+                      "name": "Prunus sachalinensis",
+                      "value": "#1F958BFF"
+                    },
+                    {
+                      "name": "Prunus sargentii",
+                      "value": "#1F948CFF"
+                    },
+                    {
+                      "name": "Prunus serrula",
+                      "value": "#1F948CFF"
+                    },
+                    {
+                      "name": "Prunus serrulata",
+                      "value": "#20938CFF"
+                    },
+                    {
+                      "name": "Prunus sp.",
+                      "value": "#20938CFF"
+                    },
+                    {
+                      "name": "Prunus spinosa",
+                      "value": "#20928CFF"
+                    },
+                    {
+                      "name": "Prunus subhirtella",
+                      "value": "#20928CFF"
+                    },
+                    {
+                      "name": "Prunus umineko",
+                      "value": "#20928CFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Pyrus",
+                  "children": [
+                    {
+                      "name": "Pyrus calleryana",
+                      "value": "#20928CFF"
+                    },
+                    {
+                      "name": "Pyrus caucasica",
+                      "value": "#20928CFF"
+                    },
+                    {
+                      "name": "Pyrus communis",
+                      "value": "#21918CFF"
+                    },
+                    {
+                      "name": "Pyrus nivalis",
+                      "value": "#21918CFF"
+                    },
+                    {
+                      "name": "Pyrus piperitum",
+                      "value": "#21908DFF"
+                    },
+                    {
+                      "name": "Pyrus sp.",
+                      "value": "#21908DFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Rosa",
+                  "children": [
+                    {
+                      "name": "Rosa sp.",
+                      "value": "#218F8DFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Sorbaria",
+                  "children": [
+                    {
+                      "name": "Sorbaria arborea",
+                      "value": "#218F8DFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Sorbus",
+                  "children": [
+                    {
+                      "name": "Sorbus alnifolia",
+                      "value": "#218E8DFF"
+                    },
+                    {
+                      "name": "Sorbus americana",
+                      "value": "#218E8DFF"
+                    },
+                    {
+                      "name": "Sorbus aria",
+                      "value": "#228D8DFF"
+                    },
+                    {
+                      "name": "Sorbus aucuparia",
+                      "value": "#228D8DFF"
+                    },
+                    {
+                      "name": "Sorbus commixta",
+                      "value": "#228C8DFF"
+                    },
+                    {
+                      "name": "Sorbus domestica",
+                      "value": "#228C8DFF"
+                    },
+                    {
+                      "name": "Sorbus hybrida",
+                      "value": "#228B8DFF"
+                    },
+                    {
+                      "name": "Sorbus incana",
+                      "value": "#228B8DFF"
+                    },
+                    {
+                      "name": "Sorbus intermedia",
+                      "value": "#228B8DFF"
+                    },
+                    {
+                      "name": "Sorbus latifolia",
+                      "value": "#238A8DFF"
+                    },
+                    {
+                      "name": "Sorbus mougeotii",
+                      "value": "#238A8DFF"
+                    },
+                    {
+                      "name": "Sorbus sp.",
+                      "value": "#23898EFF"
+                    },
+                    {
+                      "name": "Sorbus torminalis",
+                      "value": "#23898EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ulmaceae",
+              "children": [
+                {
+                  "name": "Ulmus",
+                  "children": [
+                    {
+                      "name": "Ulmus hybr.",
+                      "value": "#23888EFF"
+                    },
+                    {
+                      "name": "Ulmus laevis",
+                      "value": "#23888EFF"
+                    },
+                    {
+                      "name": "Ulmus minor",
+                      "value": "#24878EFF"
+                    },
+                    {
+                      "name": "Ulmus sp.",
+                      "value": "#24878EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Zelkova",
+                  "children": [
+                    {
+                      "name": "Zelkova serrata",
+                      "value": "#24868EFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Saxifragales",
+          "children": [
+            {
+              "name": "Altingiaceae",
+              "children": [
+                {
+                  "name": "Liquidambar",
+                  "children": [
+                    {
+                      "name": "Liquidambar sp.",
+                      "value": "#24868EFF"
+                    },
+                    {
+                      "name": "Liquidambar styraciflua",
+                      "value": "#25858EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cercidiphyllaceae",
+              "children": [
+                {
+                  "name": "Cercidiphyllum",
+                  "children": [
+                    {
+                      "name": "Cercidiphyllum japonicum",
+                      "value": "#25858EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Grossulariaceae",
+              "children": [
+                {
+                  "name": "Ribes",
+                  "children": [
+                    {
+                      "name": "Ribes nigrum",
+                      "value": "#25848EFF"
+                    },
+                    {
+                      "name": "Ribes rubrum",
+                      "value": "#25848EFF"
+                    },
+                    {
+                      "name": "Ribes uva-crispa",
+                      "value": "#25848EFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hamamelidaceae",
+              "children": [
+                {
+                  "name": "Fothergilla",
+                  "children": [
+                    {
+                      "name": "Fothergilla major",
+                      "value": "#25838EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hamamelis",
+                  "children": [
+                    {
+                      "name": "Hamamelis hybr. intermedia",
+                      "value": "#25838EFF"
+                    },
+                    {
+                      "name": "Hamamelis sp.",
+                      "value": "#26828EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Parrotia",
+                  "children": [
+                    {
+                      "name": "Parrotia persica",
+                      "value": "#26828EFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fabales",
+          "children": [
+            {
+              "name": "Fabaceae",
+              "children": [
+                {
+                  "name": "+Laburnocytisus",
+                  "children": [
+                    {
+                      "name": "+Laburnocytisus adami",
+                      "value": "#26828EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Albizia",
+                  "children": [
+                    {
+                      "name": "Albizia julibrissin",
+                      "value": "#26828EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cercis",
+                  "children": [
+                    {
+                      "name": "Cercis canadensis",
+                      "value": "#26818EFF"
+                    },
+                    {
+                      "name": "Cercis siliquastrum",
+                      "value": "#26818EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cladrastis",
+                  "children": [
+                    {
+                      "name": "Cladrastis lutea",
+                      "value": "#27808EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Colutea",
+                  "children": [
+                    {
+                      "name": "Colutea arborescens",
+                      "value": "#27808EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Gleditsia",
+                  "children": [
+                    {
+                      "name": "Gleditsia sp.",
+                      "value": "#277F8EFF"
+                    },
+                    {
+                      "name": "Gleditsia triacanthos",
+                      "value": "#277F8EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Gymnocladus",
+                  "children": [
+                    {
+                      "name": "Gymnocladus dioicus",
+                      "value": "#277E8EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Laburnum",
+                  "children": [
+                    {
+                      "name": "Laburnum sp.",
+                      "value": "#277E8EFF"
+                    },
+                    {
+                      "name": "Laburnum watereri",
+                      "value": "#277E8EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Robinia",
+                  "children": [
+                    {
+                      "name": "Robinia hybr. margaretta",
+                      "value": "#287D8EFF"
+                    },
+                    {
+                      "name": "Robinia luxurians",
+                      "value": "#287D8EFF"
+                    },
+                    {
+                      "name": "Robinia pseudoacacia",
+                      "value": "#287C8EFF"
+                    },
+                    {
+                      "name": "Robinia sp.",
+                      "value": "#287C8EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Styphnolobium",
+                  "children": [
+                    {
+                      "name": "Styphnolobium japonica",
+                      "value": "#297B8EFF"
+                    },
+                    {
+                      "name": "Styphnolobium sp.",
+                      "value": "#297B8EFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Malvales",
+          "children": [
+            {
+              "name": "Malvaceae",
+              "children": [
+                {
+                  "name": "Hibiscus",
+                  "children": [
+                    {
+                      "name": "Hibiscus syriacus",
+                      "value": "#297A8EFF"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tilia",
+                  "children": [
+                    {
+                      "name": "Tilia cordata",
+                      "value": "#297A8EFF"
+                    },
+                    {
+                      "name": "Tilia euchlora",
+                      "value": "#29798EFF"
+                    },
+                    {
+                      "name": "Tilia hybr. europaea",
+                      "value": "#29798EFF"
+                    },
+                    {
+                      "name": "Tilia platyphyllos",
+                      "value": "#2A788EFF"
+                    },
+                    {
+                      "name": "Tilia sp.",
+                      "value": "#2A788EFF"
+                    },
+                    {
+                      "name": "Tilia tomentosa",
+                      "value": "#2A778EFF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
