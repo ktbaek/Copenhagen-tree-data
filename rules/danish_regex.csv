@@ -31,6 +31,9 @@ dansk_navn;Japansk magnolia;Japansk magnolie;danish name spelling fix;100
 dansk_navn;Clara frijs-pære;Clara Frijs-pære;backcorrect case fix;80
 slaegtsnavn;astanie;astanje;danish name spelling fix;100
 dansk_navn;^Alm\.;Almindelig;danish expand abbrev.;110
+dansk_navn;^Alm\s+;Almindelig ;danish expand abbrev.;110
 dansk_navn;Robinia;Robinie;danish name spelling fix;100
 slaegtsnavn;Ægte kastanje;Kastanje;danish genus name fix;90
 dansk_navn;Park[\- ]+lind;Parklind;danish name compund word;90
+dansk_navn;Kolorado[\- ]+gran;Koloradogran;danish name compund word;90
+dansk_navn;Rød[\- ]+ask;Rødask;danish name compund word;90

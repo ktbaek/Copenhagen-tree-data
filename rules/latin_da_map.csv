@@ -1,9 +1,9 @@
 art;variant;sort;replacement;note;priority
 +Laburnocytisus adami;NA;NA;Adams guldregn;change danish name based on latin name;NA
-Abies concolor;NA;NA;Kolorado-gran;change danish name based on latin name;NA
+Abies concolor;NA;NA;Koloradogran;change danish name based on latin name;NA
 Abies nordmanniana;NA;NA;Nordmannsgran;change danish name based on latin name;NA
 Abies pinsabo;NA;NA;Spansk ædelgran;change danish name based on latin name;NA
-Abies procera;NA;NA;Sølvgran nobilis;change danish name based on latin name;NA
+Abies procera;NA;NA;Sølvgran (Nobilis);change danish name based on latin name;NA
 Abies sp.;NA;NA;Ædelgran;change danish name based on latin name;NA
 Acer argutum;NA;NA;Japansk løn;change danish name based on latin name;NA
 Acer betulifolia;NA;NA;Birkebladet løn;change danish name based on latin name;NA
@@ -22,8 +22,8 @@ Acer elegantuleum;NA;NA;NA;change danish name based on latin name;NA
 Acer ginnala;NA;NA;Ildløn;change danish name based on latin name;NA
 Acer globosum;NA;NA;Kugleahorn;change danish name based on latin name;NA
 Acer griseum;NA;NA;Papirbarkløn;change danish name based on latin name;NA
-Acer hybr. freemanii;NA;Elegant;Ahorn;change danish name based on latin name;NA
-Acer hybr. freemanii;NA;NA;NA;change danish name based on latin name;NA
+Acer hybr. freemanii;NA;Elegant;Freeman-løn;change danish name based on latin name;NA
+Acer hybr. freemanii;NA;NA;Freeman-løn;change danish name based on latin name;NA
 Acer hybr. zoeschense;NA;Annae;Hybrid-løn 'Annae';change danish name based on latin name;NA
 Acer hyrcanum;NA;NA;Balkanløn;change danish name based on latin name;NA
 Acer japonica;NA;NA;Fuldmåne-løn;change danish name based on latin name;NA
@@ -80,13 +80,13 @@ Alnus sp.;NA;NA;El;change danish name based on latin name;NA
 Alnus spaethii;NA;NA;NA;change danish name based on latin name;NA
 Amelanchier arborea;NA;Robin Hill;Enstammet bærmispel;change danish name based on latin name;NA
 Amelanchier canadensis;NA;NA;Almindelig bærmispel;change danish name based on latin name;NA
-Amelanchier hybr. grandiflora;NA;Autumn Brilliance;Bærmispel;change danish name based on latin name;NA
+Amelanchier hybr. grandiflora;NA;Autumn Brilliance;NA;change danish name based on latin name;NA
 Amelanchier laevis;NA;NA;Allegheny-bærmispel;change danish name based on latin name;NA
 Amelanchier laevis;NA;Ballerina;Bærmispel 'Ballerina';change danish name based on latin name;NA
 Amelanchier lamarckii;NA;NA;Almindelig bærmispel;change danish name based on latin name;NA
 Amelanchier sp.;NA;NA;Bærmispel;change danish name based on latin name;NA
 Araucaria araucana;NA;NA;Abetræ;change danish name based on latin name;NA
-Aronia melanocarpa;NA;NA;Surbær;change danish name based on latin name;NA
+Aronia melanocarpa;NA;NA;Sortfrugtet surbær;change danish name based on latin name;NA
 Aronia hybr. prunifolia;NA;NA;Surbær;change danish name based on latin name;NA
 Asimina triloba;NA;NA;Indiansk banan (pawpaw);change danish name based on latin name;NA
 Betula albosinensis;NA;NA;Rødbirk;change danish name based on latin name;NA
@@ -113,14 +113,14 @@ Carpinus sp.;NA;NA;Avnbøg;change danish name based on latin name;NA
 Castanea sativa;NA;NA;Ægte kastanje;change danish name based on latin name;NA
 Castanea sp.;NA;NA;Kastanje;change danish name based on latin name;NA
 Catalpa bignonioides;NA;NA;Almindelig trompetkrone;change danish name based on latin name;NA
-Catalpa hybr. erubescens;NA;NA;Trompetkrone;change danish name based on latin name;NA
+Catalpa hybr. erubescens;NA;NA;Hybrid-trompetkrone;change danish name based on latin name;NA
 Cedrus atlantica;NA;NA;Atlasceder;change danish name based on latin name;NA
 Cedrus atlantica;NA;Glauca;Atlasceder;change danish name based on latin name;NA
 Cedrus deodara;NA;NA;Himalaya-ceder;change danish name based on latin name;NA
 Cedrus libani;NA;NA;Libanonceder;change danish name based on latin name;NA
 Cedrus sp.;NA;NA;Ceder;change danish name based on latin name;NA
 Celtis australis;NA;NA;Europæisk nældetræ;change danish name based on latin name;NA
-Celtis sinesis;NA;NA;Nældetræ;change danish name based on latin name;NA
+Celtis sinensis;NA;NA;Nældetræ;change danish name based on latin name;NA
 Cephalotaxus harringtonia;NA;NA;Japansk blommetaks;change danish name based on latin name;NA
 Cercidiphyllum japonicum;NA;NA;Hjertetræ;change danish name based on latin name;NA
 Cercis canadensis;NA;Forest Pansy;Judastræ;change danish name based on latin name;NA
@@ -128,7 +128,7 @@ Cercis siliquastrum;NA;NA;Europæisk judastræ;change danish name based on latin
 Chamaecyparis lawsoniana;NA;NA;Ædelcypres;change danish name based on latin name;NA
 Chamaecyparis obtusa;NA;NA;Solcypres;change danish name based on latin name;NA
 Chamaecyparis sp.;NA;NA;Dværgcypres;change danish name based on latin name;NA
-Cladrastis lutea;NA;NA;Alm kladrastis;change danish name based on latin name;NA
+Cladrastis lutea;NA;NA;Almindelig kladrastis;change danish name based on latin name;NA
 Colutea arborescens;NA;NA;Blærebælg;change danish name based on latin name;NA
 Cornus contreversa;NA;NA;Etagekornel;change danish name based on latin name;NA
 Cornus kousa;NA;NA;Koreakornel;change danish name based on latin name;NA
@@ -164,7 +164,7 @@ Elaeagnus angustifolia;NA;NA;Smalbladet sølvblad;change danish name based on la
 Eucommia ulmoides;NA;NA;Eucommia;change danish name based on latin name;NA
 Euonymus alata;NA;NA;Vinget benved;change danish name based on latin name;NA
 Euonymus europaeus;NA;NA;Almindelig benved;change danish name based on latin name;NA
-Euonymus latifolius;NA;NA;Benved;change danish name based on latin name;NA
+Euonymus latifolius;NA;NA;Storbladet benved;change danish name based on latin name;NA
 Euonymus sachaliensis;NA;NA;Japansk benved;change danish name based on latin name;NA
 Euonymus sp.;NA;NA;Benved;change danish name based on latin name;NA
 Fagus orientalis;NA;NA;Orientalsk bøg;change danish name based on latin name;NA
@@ -183,8 +183,8 @@ Fraxinus excelsior;NA;Robusta;Almindelig ask;change danish name based on latin n
 Fraxinus excelsior;NA;Diversifolia;Etbladet ask;change danish name based on latin name;NA
 Fraxinus excelsior;NA;Pendula;Hængeask;change danish name based on latin name;NA
 Fraxinus ornus;NA;NA;Manna-ask;change danish name based on latin name;NA
-Fraxinus pennsylvanica;NA;Zundert;Rød-ask;change danish name based on latin name;NA
-Fraxinus pennsylvanica;NA;NA;Rød-ask;change danish name based on latin name;NA
+Fraxinus pennsylvanica;NA;Zundert;Rødask;change danish name based on latin name;NA
+Fraxinus pennsylvanica;NA;NA;Rødask;change danish name based on latin name;NA
 Fraxinus sp.;NA;NA;Ask;change danish name based on latin name;NA
 Ginkgo biloba;NA;NA;Tempeltræ;change danish name based on latin name;NA
 Ginkgo biloba;NA;NA;Tempeltræ;change danish name based on latin name;NA
@@ -197,34 +197,33 @@ Gleditsia triacanthos;NA;NA;Almindelig tretorn;change danish name based on latin
 Gleditsia triacanthos;f. inermis;NA;Tretorn;change danish name based on latin name;NA
 Gymnocladus dioicus;NA;NA;Stennød;change danish name based on latin name;NA
 Hamamelis hybr. intermedia;NA;NA;Hybrid-troldnød;change danish name based on latin name;NA
-Hamamelis hybr. intermedia;NA;Brevipetala;Troldnød;change danish name based on latin name;NA
+Hamamelis hybr. intermedia;NA;Brevipetala;Hybrid-troldnød;change danish name based on latin name;NA
 Hamamelis sp.;NA;NA;Troldnød;change danish name based on latin name;NA
 Heptacodium miconioides;NA;NA;Himlens syv sønner;change danish name based on latin name;NA
 Hibiscus syriacus;NA;NA;Syrisk rose;change danish name based on latin name;NA
 Hippophaë rhamnoides;NA;NA;Havtorn;change danish name based on latin name;NA
 Hydrangea arboreum;NA;NA;Hortensia;change danish name based on latin name;NA
 Ilex aquifolium;NA;NA;Almindelig kristtorn;change danish name based on latin name;NA
-Ilex meserveae;NA;NA;Kristtorn 'Blå';change danish name based on latin name;NA
+Ilex meserveae;NA;NA;Blågrøn kristtorn;change danish name based on latin name;NA
 Ilex sp.;NA;NA;Kristtorn;change danish name based on latin name;NA
 Juglans nigra;NA;NA;Sort valnød;change danish name based on latin name;NA
 Juglans regia;NA;NA;Almindelig valnød;change danish name based on latin name;NA
 Juglans sp.;NA;NA;Valnød;change danish name based on latin name;NA
-Juniperus communis;NA;Hibernica;Ene;change danish name based on latin name;NA
+Juniperus communis;NA;Hibernica;Almindelig ene;change danish name based on latin name;NA
 Juniperus sp.;NA;NA;Ene;change danish name based on latin name;NA
-Juniperus virginiana;NA;Sky Rocket;Ene 'Sky Rocket';change danish name based on latin name;NA
+Juniperus virginiana;NA;Sky Rocket;Blyant-ene 'Sky Rocket';change danish name based on latin name;NA
 Kerria japonica;NA;NA;Ranunkelbusk;change danish name based on latin name;NA
 Koelreuteria paniculata;NA;NA;Kinesertræ;change danish name based on latin name;NA
 Kolkwitzia amabilis;NA;NA;Dronningebusk;change danish name based on latin name;NA
 Laburnum sp.;NA;NA;Guldregn;change danish name based on latin name;NA
-Laburnum watereri;NA;NA;Hybrid-guldregn;change danish name based on latin name;NA
-Laburnum watereri;NA;Vossii;Voss-guldregn;change danish name based on latin name;NA
+Laburnum hybr. watereri;NA;NA;Hybrid-guldregn;change danish name based on latin name;NA
+Laburnum hybr. watereri;NA;Vossii;Voss-guldregn;change danish name based on latin name;NA
 Larix decidua;NA;NA;Europæisk lærk;change danish name based on latin name;NA
 Larix hybr. eurolepis;NA;NA;Hybrid-lærk;change danish name based on latin name;NA
-Larix hybr. eurolepis;NA;NA;Lærk;change danish name based on latin name;NA
 Larix kaempferi;NA;NA;Japansk lærk;change danish name based on latin name;NA
 Larix sp.;NA;NA;Lærk;change danish name based on latin name;NA
 Liquidambar sp.;NA;NA;Ambratræ;change danish name based on latin name;NA
-Liquidambar styraciflua;NA;Worplesdon;Ambratræ;change danish name based on latin name;NA
+Liquidambar styraciflua;NA;Worplesdon;Virginsk ambratræ;change danish name based on latin name;NA
 Liquidambar styraciflua;NA;NA;Virginsk ambratræ;change danish name based on latin name;NA
 Liriodendron tulipifera;NA;NA;Almindelig tulipantræ;change danish name based on latin name;NA
 Maclura pomifera;NA;NA;Orangemorbær;change danish name based on latin name;NA
@@ -482,7 +481,7 @@ Tilia platyphyllos;NA;Rubra;Storbladet lind;change danish name based on latin na
 Tilia platyphyllos;NA;Odin;Storbladet lind;change danish name based on latin name;NA
 Tilia sp.;NA;NA;Lind;change danish name based on latin name;NA
 Tilia tomentosa;NA;NA;Sølvlind;change danish name based on latin name;NA
-Tilia tomentosa;NA;Brabrant;Ungarsk lind;change danish name based on latin name;NA
+Tilia tomentosa;NA;Brabrant;Sølvlind;change danish name based on latin name;NA
 Torreya californica;NA;NA;Californisk nøddetaks;change danish name based on latin name;NA
 Torreya nucifera;NA;NA;Japansk nøddetaks;change danish name based on latin name;NA
 Trachycarpus fortunei;NA;NA;Hørpalme;change danish name based on latin name;NA

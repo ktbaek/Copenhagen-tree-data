@@ -133,6 +133,8 @@ APPLIED_REGEX_RULE,Pseudotsuga menziezii var. glauca,Pseudotsuga menziesii var. 
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. menziezii,Pseudotsuga menziesii var. menziezii,latin spelling fix,1
 APPLIED_REGEX_RULE,Hippophae rhamnoides,Hippophaë rhamnoides,add diacritic back,5
 APPLIED_REGEX_RULE,Acer hycarnum,Acer hyrcanum,latin spelling fix,1
+APPLIED_REGEX_RULE,Celtis sinesis,Celtis sinensis,latin spelling fix,1
+APPLIED_REGEX_RULE,Fraxinus excelsior 'Westhof's Glorie',Fraxinus excelsior 'Westhofs Glorie',cultivar spelling fix,517
 APPLIED_REGEX_RULE,Betula albo sinensis,Betula albosinensis,latin compound word,1
 APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,14
 APPLIED_REGEX_RULE,Populus canescens,Populus hybr. canescens,add hybrid marker,2
@@ -156,6 +158,8 @@ APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
 APPLIED_REGEX_RULE,Aronia prunifolia,Aronia hybr. prunifolia,add hybrid marker,1
 APPLIED_REGEX_RULE,Pterocarya rhederiana,Pterocarya hybr. rhederiana,add hybrid marker,1
 APPLIED_REGEX_RULE,Prunus yedoensis,Prunus hybr. yedoensis,add hybrid marker,13
+APPLIED_REGEX_RULE,Laburnum watereri 'Vossii',Laburnum hybr. watereri 'Vossii',add hybrid marker,12
+APPLIED_REGEX_RULE,Laburnum watereri,Laburnum hybr. watereri,add hybrid marker,16
 APPLIED_REGEX_RULE,Ginkgo sp.,Ginkgo biloba,monotypic extant,1
 APPLIED_REGEX_RULE,Metasequoia sp.,Metasequoia glyptostroboides,monotypic extant,3
 APPLIED_REGEX_RULE,Larix leptolepis,Larix kaempferi,latin synonym -> accepted,1
@@ -172,6 +176,7 @@ APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. intermedia 'Brevipeta
 APPLIED_REGEX_RULE,Prunus domestica 'Incititia',Prunus domestica ssp. insisitia,cultivar to subspecies,18
 APPLIED_REGEX_RULE,Prunus 'Italiensk sveske',Prunus domestica 'Italiensk sveske',insert species for cultivars,3
 APPLIED_REGEX_RULE,Tilia hybr. 'Zwarte Linde',Tilia hybr. europaea 'Zwarte Linde',insert species for cultivars,9
+APPLIED_REGEX_RULE,Prunus sachalinensis,Prunus sargentii,latin synonym,1
 APPLIED_REGEX_RULE,Malus 'Alice Balsgaard',Malus domestica 'Alice Balsgaard',insert species for cultivars,2
 APPLIED_REGEX_RULE,Malus 'Angold',Malus domestica 'Angold',insert species for cultivars,2
 APPLIED_REGEX_RULE,Malus 'Bramley's Seedling',Malus domestica 'Bramley's Seedling',insert species for cultivars,3
@@ -202,6 +207,7 @@ APPLIED_REGEX_RULE,Alm. æble 'Angold',Almindelig æble 'Angold',danish expand a
 APPLIED_REGEX_RULE,Alm. æble 'Cox Queen',Almindelig æble 'Cox Queen',danish expand abbrev.,3
 APPLIED_REGEX_RULE,Alm. æble 'Säftaholm',Almindelig æble 'Säftaholm',danish expand abbrev.,1
 APPLIED_REGEX_RULE,Alm. æble 'Goldparmäne',Almindelig æble 'Goldparmäne',danish expand abbrev.,1
+APPLIED_REGEX_RULE,Alm kladrastis,Almindelig kladrastis,danish expand abbrev.,2
 APPLIED_REGEX_RULE,Hestekastanie,Hestekastanje,danish name spelling fix,2432
 APPLIED_REGEX_RULE,Kastanie,Kastanje,danish name spelling fix,105
 APPLIED_REGEX_RULE,Ægte kastanie,Ægte kastanje,danish name spelling fix,93
@@ -241,6 +247,8 @@ APPLIED_REGEX_RULE,Skærm elm,Skærmelm,danish name compund word,10
 APPLIED_REGEX_RULE,Charneau pære,Charneau-pære,danish name compund word,3
 APPLIED_REGEX_RULE,Ægte kastanje,Kastanje,danish genus name fix,1
 APPLIED_REGEX_RULE,Park-lind,Parklind,danish name compund word,2238
+APPLIED_REGEX_RULE,Kolorado-gran,Koloradogran,danish name compund word,7
+APPLIED_REGEX_RULE,Rød-ask,Rødask,danish name compund word,662
 APPLIED_REGEX_RULE,Clara frijs-pære,Clara Frijs-pære,backcorrect case fix,6
 APPLIED_DICT_RULE,Poppel,Landevejspoppel,change danish name based on latin name,27
 APPLIED_DICT_RULE,"Alnus spaethii, ikke navngivet på dansk",unknown,change danish name based on latin name,317
@@ -249,23 +257,36 @@ APPLIED_DICT_RULE,"Pyrus caucasica, ikke navngivet på dansk",Prydpære,change d
 APPLIED_DICT_RULE,Tretorn,Almindelig tretorn,change danish name based on latin name,359
 APPLIED_DICT_RULE,Bøg,Almindelig bøg,change danish name based on latin name,537
 APPLIED_DICT_RULE,"Prunus umineko, ikke navngivet på dansk",Prydkirsebær,change danish name based on latin name,159
+APPLIED_DICT_RULE,Benved,Storbladet benved,change danish name based on latin name,2
 APPLIED_DICT_RULE,NA,Kinesisk ligkistetræ,change danish name based on latin name,3
 APPLIED_DICT_RULE,Lærk,Hybrid-lærk,change danish name based on latin name,14
 APPLIED_DICT_RULE,Ellebladet røn,Almindelig røn,change danish name based on latin name,8
+APPLIED_DICT_RULE,Ambratræ,Virginsk ambratræ,change danish name based on latin name,61
+APPLIED_DICT_RULE,Ahorn,Freeman-løn,change danish name based on latin name,17
 APPLIED_DICT_RULE,Poppel,Landevejspoppel 'Bachalierii',change danish name based on latin name,6
+APPLIED_DICT_RULE,Ene 'Sky Rocket',Blyant-ene 'Sky Rocket',change danish name based on latin name,4
 APPLIED_DICT_RULE,Søjle skovfyr,Søjle-skovfyr,change danish name based on latin name,6
+APPLIED_DICT_RULE,Ungarsk lind,Sølvlind,change danish name based on latin name,51
 APPLIED_DICT_RULE,Hvidtjørn,Engriflet hvidtjørn,change danish name based on latin name,36
+APPLIED_DICT_RULE,Kristtorn 'Blå',Blågrøn kristtorn,change danish name based on latin name,23
 APPLIED_DICT_RULE,Gingko,Tempeltræ,change danish name based on latin name,1
+APPLIED_DICT_RULE,Bærmispel,unknown,change danish name based on latin name,1
+APPLIED_DICT_RULE,Ene,Almindelig ene,change danish name based on latin name,4
 APPLIED_DICT_RULE,Skovfyr fra norge,Norsk skovfyr,change danish name based on latin name,7
-APPLIED_DICT_RULE,NA,unknown,change danish name based on latin name,9
+APPLIED_DICT_RULE,Sølvgran nobilis,Sølvgran (Nobilis),change danish name based on latin name,22
+APPLIED_DICT_RULE,NA,unknown,change danish name based on latin name,8
+APPLIED_DICT_RULE,Troldnød,Hybrid-troldnød,change danish name based on latin name,1
 APPLIED_DICT_RULE,Balsampoppel,Vestamerikansk balsampoppel,change danish name based on latin name,19
 APPLIED_DICT_RULE,NA,Almindelig magnolie,change danish name based on latin name,8
 APPLIED_DICT_RULE,Røn incana,unknown,change danish name based on latin name,2
+APPLIED_DICT_RULE,Surbær,Sortfrugtet surbær,change danish name based on latin name,3
 APPLIED_DICT_RULE,NA,Hjortetaktræ,change danish name based on latin name,2
 APPLIED_DICT_RULE,NA,Kaukasisk vrietorn,change danish name based on latin name,1
+APPLIED_DICT_RULE,NA,Freeman-løn,change danish name based on latin name,1
 APPLIED_DICT_RULE,Bitræ,Honningtræ,change danish name based on latin name,3
 APPLIED_DICT_RULE,NA,Hortensia,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Williamsianum rhododendron,change danish name based on latin name,1
+APPLIED_DICT_RULE,Trompetkrone,Hybrid-trompetkrone,change danish name based on latin name,1
 APPLIED_DICT_RULE,NA,Japansk lærk,change danish name based on latin name,1
 APPLIED_DICT_RULE,"Alnus inokumea, ikke navngivet på dansk",unknown,change danish name based on latin name,6
 APPLIED_DICT_RULE,Vingevalnød sp,unknown,change danish name based on latin name,1

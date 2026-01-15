@@ -56,3 +56,7 @@ traeart;^Tilia\s+([xX×]|hybr\.)\s*'Zwarte Linde';Tilia hybr. europaea 'Zwarte L
 traeart;^Aronia\s+prunifolia;Aronia hybr. prunifolia;add hybrid marker;90
 traeart;^Pterocarya\s+rhederiana;Pterocarya hybr. rhederiana;add hybrid marker;90
 traeart;^Prunus\s+yedoensis;Prunus hybr. yedoensis;add hybrid marker;90
+traeart;^Celtis\s+sinesis;Celtis sinensis;latin spelling fix;100
+traeart;^Laburnum\s+watereri;Laburnum hybr. watereri;add hybrid marker;90
+traeart;^Fraxinus\s+excelsior\s+'Westhof's Glorie';Fraxinus excelsior 'Westhofs Glorie';cultivar spelling fix;100
+traeart;^Prunus\s+sachalinensis;Prunus sargentii;latin synonym;60

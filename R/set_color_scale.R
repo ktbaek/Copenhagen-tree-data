@@ -10,7 +10,7 @@ okhex_df <- as_tibble(farver::decode_colour(color_scheme, to = "oklch")) |>
   )
 
 # Define sorting order
-sorting_cols <- c("order", "family", "genus", "art")
+sorting_cols <- c("order", "family", "genus", "sp_last", "art")
 
 custom_orders_first <- list(
   order = c("Sapindales", "Fagales"),
@@ -34,9 +34,11 @@ taxo_df <- set_color_df |>
     across(all_of(names(custom_orders_first)),
     ~forcats::fct_relevel(.x, custom_orders_first[[cur_column()]], after = 0)),
     across(all_of(names(custom_orders_last)),
-           ~forcats::fct_relevel(.x, custom_orders_last[[cur_column()]], after = Inf))
+           ~forcats::fct_relevel(.x, custom_orders_last[[cur_column()]], after = Inf)),
+    sp_last = grepl("\\bsp\\.", art)
     ) |>
   arrange(across(all_of(sorting_cols))) |>
+  select(-sp_last) |> 
   mutate(seq = row_number())
 
 # add colors to sorted species dataframe
@@ -59,12 +61,9 @@ mean_c <- round(mean(map_color_df$c, na.rm = TRUE), 3)
 mean_h <- round(mean(map_color_df$h, na.rm = TRUE), 1)
 
 mean_hex <- farver::encode_colour(matrix(c(mean_l, mean_c, mean_h), nrow = 1), from = "oklch")
+mean_oklch <- paste0("oklch(", mean_l, " ", mean_c, " ", mean_h, ")")
 
-cat(paste("oklch(",
-          mean_l, " ",
-          mean_c, " ",
-          mean_h,
-          ")\n", sep = ""))
+cli::cli_alert_info(paste0("Average marker color: ", cli::make_ansi_style(mean_hex)(paste(mean_hex, mean_oklch))))
 
 # cumulative plot of color scale steps
 map_color_df |> 

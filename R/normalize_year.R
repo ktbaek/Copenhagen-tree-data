@@ -1,6 +1,6 @@
-normalize_year <- function(df, lower_bound = 1700L, report = NULL) {
+normalize_year <- function(df, lower_bound = 1700L, upper_bound, report = NULL) {
   
-  hits <- which(!is.na(df$planteaar) & !df$planteaar %in% c(lower_bound:as.integer(format(Sys.time(), "%Y"))))
+  hits <- which(!is.na(df$planteaar) & !df$planteaar %in% c(lower_bound:upper_bound))
   if (!length(hits)) return(df)
   
   before <- df$planteaar[hits]
