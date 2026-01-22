@@ -1,5 +1,5 @@
 code,message,n
-APPLIED_REGEX_RULE,danish name compund word,5032
+APPLIED_REGEX_RULE,danish name compund word,5062
 WRONG_CASE_DANISH,to sentence case,3242
 APPLIED_REGEX_RULE,danish name spelling fix,3201
 APPLIED_DICT_RULE,change danish name based on latin name,3092
