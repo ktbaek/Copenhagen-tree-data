@@ -4,10 +4,12 @@
 .RData
 .Ruserdata
 .DS_Store
+.project
+.pgpass
 *cache/
-make*
-output/kk_trees*
-output/trees*
-output/*.geojson
+config/
+output/datasets/
+output/tables/
 raw_data/
 tests/testthat/
+species_descriptions/

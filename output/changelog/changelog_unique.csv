@@ -1,0 +1,344 @@
+code,value_from,value_to,message,n
+APPLIED_REGEX_RULE,Acer freemanii 'Elegant',Acer hybr. freemanii 'Elegant',add hybrid marker,17
+APPLIED_REGEX_RULE,Acer freemanii X,Acer hybr. freemanii,add hybrid marker,1
+APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
+APPLIED_REGEX_RULE,Aronia prunifolia,Aronia hybr. prunifolia,add hybrid marker,1
+APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. 'Brevipetala',add hybrid marker,1
+APPLIED_REGEX_RULE,Laburnum watereri,Laburnum hybr. watereri,add hybrid marker,16
+APPLIED_REGEX_RULE,Laburnum watereri 'Vossii',Laburnum hybr. watereri 'Vossii',add hybrid marker,12
+APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,14
+APPLIED_REGEX_RULE,Malus floribunda,Malus hybr. floribunda,add hybrid marker,51
+APPLIED_REGEX_RULE,Populus canadensis,Populus hybr. canadensis,add hybrid marker,11
+APPLIED_REGEX_RULE,Populus canadensis 'Bachalierii',Populus hybr. canadensis 'Bachalierii',add hybrid marker,6
+APPLIED_REGEX_RULE,Populus canadensis 'De Moffat',Populus hybr. canadensis 'De Moffat',add hybrid marker,16
+APPLIED_REGEX_RULE,Populus canescens,Populus hybr. canescens,add hybrid marker,2
+APPLIED_REGEX_RULE,Populus gileadensis,Populus hybr. gileadensis,add hybrid marker,1
+APPLIED_REGEX_RULE,Prunus yedoensis,Prunus hybr. yedoensis,add hybrid marker,13
+APPLIED_REGEX_RULE,Pterocarya rhederiana,Pterocarya hybr. rhederiana,add hybrid marker,1
+APPLIED_REGEX_RULE,Tilia euchlora,Tilia hybr. euchlora,add hybrid marker,361
+APPLIED_REGEX_RULE,Tilia europaea,Tilia hybr. europaea,add hybrid marker,2238
+APPLIED_REGEX_RULE,Ulmus 'Columella',Ulmus hybr. 'Columella',add hybrid marker,95
+APPLIED_REGEX_RULE,Ulmus 'New Horizon',Ulmus hybr. 'New Horizon',add hybrid marker,261
+APPLIED_REGEX_RULE,Ulmus 'Rebona',Ulmus hybr. 'Rebona',add hybrid marker,143
+APPLIED_REGEX_RULE,Ulmus 'Regal',Ulmus hybr. 'Regal',add hybrid marker,1
+APPLIED_REGEX_RULE,Ulmus 'Sapporo Autumn Gold',Ulmus hybr. 'Sapporo Autumn Gold',add hybrid marker,1
+APPLIED_REGEX_RULE,Ulmus 'Vada',Ulmus hybr. 'Vada',add hybrid marker,6
+APPLIED_REGEX_RULE,Ulmus Fiorente,Ulmus hybr. 'Fiorente',add hybrid marker,22
+APPLIED_REGEX_RULE,Acer pseudoplatanoides 'Spaethii',Acer pseudoplatanus 'Spaethii',could also be platanoides,5
+APPLIED_REGEX_RULE,Malus sieboldii  'Browers beauty',Malus sieboldii 'Brouwers beauty',cultivar spelling fix,3
+APPLIED_REGEX_RULE,Malus hybr. 'Robusta',Malus hybr. robusta,cultivar to species,1
+APPLIED_REGEX_RULE,Prunus domestica 'Incititia',Prunus domestica ssp. insisitia,cultivar to subspecies,18
+APPLIED_REGEX_RULE,Malus hybr. 'Akso',Malus baccata 'Akso',fix species name,22
+APPLIED_REGEX_RULE,Malus hybr. 'James Greive',Malus domestica 'James Grieve',fix species name,7
+APPLIED_REGEX_RULE,Malus hybr. 'Street Parade',Malus baccata 'Street Parade',fix species name,70
+APPLIED_REGEX_RULE,Amelanchier 'Autumn Brilliance',Amelanchier hybr. grandiflora 'Autumn Brilliance',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus 'Alice Balsgaard',Malus domestica 'Alice Balsgaard',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus 'Angold',Malus domestica 'Angold',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus 'Bramley's Seedling',Malus domestica 'Bramley's Seedling',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Cox Orange',Malus domestica 'Cox Orange',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus 'Cox Queen',Malus domestica 'Cox Queen',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Golden Hornet',Malus hybr. 'Golden Hornet',insert species for cultivars,6
+APPLIED_REGEX_RULE,Malus 'Holsteiner Cox',Malus domestica 'Holsteiner Cox',insert species for cultivars,7
+APPLIED_REGEX_RULE,Malus 'Neville Copeman',Malus hybr. 'Neville Copeman',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus 'Rød ananas',Malus domestica 'Rød ananas',insert species for cultivars,14
+APPLIED_REGEX_RULE,Malus 'Säftaholm',Malus domestica 'Säftaholm',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus 'Topaz',Malus domestica 'Topaz',insert species for cultivars,3
+APPLIED_REGEX_RULE,Malus 'Åkerø Hassel',Malus domestica 'Åkerø Hassel',insert species for cultivars,1
+APPLIED_REGEX_RULE,Malus Signe Tillisch,Malus domestica 'Signe Tillisch',insert species for cultivars,2
+APPLIED_REGEX_RULE,Malus discovery,Malus domestica 'Discovery',insert species for cultivars,5
+APPLIED_REGEX_RULE,Malus rubinola,Malus domestica 'Rubinola',insert species for cultivars,1
+APPLIED_REGEX_RULE,Prunus 'Italiensk sveske',Prunus domestica 'Italiensk sveske',insert species for cultivars,3
+APPLIED_REGEX_RULE,Prunus 'Rivers Early Prolific',Prunus domestica 'Rivers Early Prolific',insert species for cultivars,3
+APPLIED_REGEX_RULE,Pyrus 'Grev Moltke',Pyrus communis 'Grev Moltke',insert species for cultivars,1
+APPLIED_REGEX_RULE,Ribes 'Jonkheer Van Tets',Ribes rubrum 'Jonkheer Van Tets',insert species for cultivars,7
+APPLIED_REGEX_RULE,Ribes 'Rondom',Ribes rubrum 'Rondom',insert species for cultivars,16
+APPLIED_REGEX_RULE,Tilia hybr. 'Zwarte Linde',Tilia hybr. europaea 'Zwarte Linde',insert species for cultivars,9
+APPLIED_REGEX_RULE,Sophora japonica (Styphnolobium japonica),Styphnolobium japonica,latin accepted genus,9
+APPLIED_REGEX_RULE,Magnolia hybr. Soulangiana,Magnolia hybr. soulangeana,latin case fix,8
+APPLIED_REGEX_RULE,Betula albo sinensis,Betula albosinensis,latin compound word,1
+APPLIED_REGEX_RULE,Aesculus hippoc. 'Baumannii',Aesculus hippocastanum 'Baumannii',latin expand abbrev.,20
+APPLIED_REGEX_RULE,Laburnocytisus adami,+Laburnocytisus adami,latin normalization,1
+APPLIED_REGEX_RULE,Acer hycarnum,Acer hyrcanum,latin spelling fix,1
+APPLIED_REGEX_RULE,Almus inceana,Alnus incana,latin spelling fix,76
+APPLIED_REGEX_RULE,Alnus inokumea,Alnus inokumae,latin spelling fix,6
+APPLIED_REGEX_RULE,Amelachier canadensis,Amelanchier canadensis,latin spelling fix,65
+APPLIED_REGEX_RULE,Aronia meloncarpia,Aronia melanocarpa,latin spelling fix,3
+APPLIED_REGEX_RULE,Celtis sinesis,Celtis sinensis,latin spelling fix,1
+APPLIED_REGEX_RULE,Crytomeria japonica,Cryptomeria japonica,latin spelling fix,2
+APPLIED_REGEX_RULE,Davidia involucrate 'Vilmoriniana',Davidia involucrata 'Vilmoriniana',latin spelling fix,1
+APPLIED_REGEX_RULE,Davidia involuncrata,Davidia involucrata,latin spelling fix,17
+APPLIED_REGEX_RULE,Eleagnus angustifolia,Elaeagnus angustifolia,latin spelling fix,30
+APPLIED_REGEX_RULE,Forthergilla major,Fothergilla major,latin spelling fix,1
+APPLIED_REGEX_RULE,Fraxinus pensylvanica 'Zundert',Fraxinus pennsylvanica 'Zundert',latin spelling fix,627
+APPLIED_REGEX_RULE,Hamamelis 'Brevitala',Hamamelis 'Brevipetala',latin spelling fix,1
+APPLIED_REGEX_RULE,Hippophea rhamnoides,Hippophae rhamnoides,latin spelling fix,5
+APPLIED_REGEX_RULE,Malus sieboldie  'Browers beauty',Malus sieboldii  'Browers beauty',latin spelling fix,3
+APPLIED_REGEX_RULE,Malus sieboldie  'Freja',Malus sieboldii  'Freja',latin spelling fix,1
+APPLIED_REGEX_RULE,Physocarbus opulifolius  'El Diabolo',Physocarpus opulifolius  'El Diabolo',latin spelling fix,1
+APPLIED_REGEX_RULE,Picea punges 'Argenta',Picea pungens 'Argenta',latin spelling fix,1
+APPLIED_REGEX_RULE,Populus simonii 'Fastgiata',Populus simonii 'Fastigiata',latin spelling fix,137
+APPLIED_REGEX_RULE,Prunus ceracifera 'Nigra',Prunus cerasifera 'Nigra',latin spelling fix,107
+APPLIED_REGEX_RULE,Prunus mackii 'Amber Shade',Prunus maackii 'Amber Shade',latin spelling fix,2
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. caesia,Pseudotsuga menziesii var. caesia,latin spelling fix,14
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. glauca,Pseudotsuga menziesii var. glauca,latin spelling fix,4
+APPLIED_REGEX_RULE,Pseudotsuga menziezii var. menziezii,Pseudotsuga menziesii var. menziezii,latin spelling fix,1
+APPLIED_REGEX_RULE,Sambuscus nigra,Sambucus nigra,latin spelling fix,12
+APPLIED_REGEX_RULE,Sambuscus sp.,Sambucus sp.,latin spelling fix,30
+APPLIED_REGEX_RULE,Tilia plathyphyllos 'Odin',Tilia platyphyllos 'Odin',latin spelling fix,9
+APPLIED_REGEX_RULE,Zanthozylum piperitum,Zanthoxylum piperitum,latin spelling fix,4
+APPLIED_REGEX_RULE,Prunus sachalinensis,Prunus sargentii,latin synonym,1
+APPLIED_REGEX_RULE,Larix leptolepis,Larix kaempferi,latin synonym -> accepted,1
+APPLIED_REGEX_RULE,Ginkgo sp.,Ginkgo biloba,monotypic extant,1
+APPLIED_REGEX_RULE,Metasequoia sp.,Metasequoia glyptostroboides,monotypic extant,3
+APPLIED_REGEX_RULE,"Carpinus betulus ""Frans Fontaine""",Carpinus betulus 'Frans Fontaine',normalize cultivar style,27
+APPLIED_REGEX_RULE,"Fagus sylvatica ""Dawyck""",Fagus sylvatica 'Dawyck',normalize cultivar style,1
+APPLIED_REGEX_RULE,Ulmus minor  ”Suberosa”,Ulmus minor  'Suberosa',normalize cultivar style,1
+APPLIED_REGEX_RULE,Acer x zoeschense 'Annae',Acer hybr. zoeschense 'Annae',normalize hybrid marker,1
+APPLIED_REGEX_RULE,Catalpa X erubescens,Catalpa hybr. erubescens,normalize hybrid marker,1
+APPLIED_REGEX_RULE,Hamamelis X intermedia,Hamamelis hybr. intermedia,normalize hybrid marker,3
+APPLIED_REGEX_RULE,Magnolia x 'Galaxy',Magnolia hybr. 'Galaxy',normalize hybrid marker,2
+APPLIED_REGEX_RULE,Magnolia x Soulangiana,Magnolia hybr. Soulangiana,normalize hybrid marker,8
+APPLIED_REGEX_RULE,Magnolia x thompsoniana,Magnolia hybr. thompsoniana,normalize hybrid marker,1
+APPLIED_REGEX_RULE,Malus hybrid Hyslop,Malus hybr. 'Hyslop',normalize hybrid marker,15
+APPLIED_REGEX_RULE,Malus x 'Elstar',Malus hybr. 'Elstar',normalize hybrid marker,19
+APPLIED_REGEX_RULE,Malus x 'James Greive',Malus hybr. 'James Greive',normalize hybrid marker,7
+APPLIED_REGEX_RULE,Prunus X amygdalo-persica,Prunus hybr. amygdalo-persica,normalize hybrid marker,2
+APPLIED_REGEX_RULE,Prunus x 'Stella',Prunus hybr. 'Stella',normalize hybrid marker,4
+APPLIED_REGEX_RULE,Prunus x 'Stevnsbær',Prunus hybr. 'Stevnsbær',normalize hybrid marker,15
+APPLIED_REGEX_RULE,Prunus x hilleri 'Spire',Prunus hybr. hilleri 'Spire',normalize hybrid marker,10
+APPLIED_REGEX_RULE,Quercus x turneri,Quercus hybr. turneri,normalize hybrid marker,8
+APPLIED_REGEX_RULE,Robinia x margaretta 'Pink Cascade',Robinia hybr. margaretta 'Pink Cascade',normalize hybrid marker,2
+APPLIED_REGEX_RULE,Tilia x 'Zwarte Linde',Tilia hybr. 'Zwarte Linde',normalize hybrid marker,9
+APPLIED_REGEX_RULE,Viburnum x bodnantense,Viburnum hybr. bodnantense,normalize hybrid marker,3
+DUPLICATE_LOCATION,POINT (12.46385502740357 55.69587010985361),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.48164693169702 55.65476112149447),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.48198733010123 55.67307826900958),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.482331815953712 55.65434271276479),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.487302179526509 55.65239960153055),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.487359830164596 55.65240034383934),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.48738018802805 55.65236717016809),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.48741466565608 55.6523916016872),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.494126867929488 55.68396123266501),NA,duplicate location flag added,3
+DUPLICATE_LOCATION,POINT (12.500264178036351 55.68680469843925),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.500385625012896 55.68700753668292),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.502057188022825 55.66835515302546),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.510974072027127 55.66578309188364),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.518397383749008 55.64465909836234),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.51842692505386 55.63771947926134),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.51944221905425 55.63975023494135),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.519722993458732 55.6179624696676),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.520045379655272 55.64119621111665),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.521754852437843 55.71670785517992),NA,duplicate location flag added,3
+DUPLICATE_LOCATION,POINT (12.521756751671187 55.63761764031433),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.52369133172535 55.71155928450548),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.523865948573262 55.717661555860026),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.525226850110045 55.66177796975064),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.52560771922488 55.71501020916004),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.525815539970502 55.71676109368139),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.526087174809685 55.65726768444446),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.52693531966053 55.71696829191357),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.526948473800271 55.65867417204601),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.527395990690176 55.649944822939666),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.52747732511801 55.649907582239976),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.527534132782488 55.649940118739146),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.527692593851373 55.65958960371874),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.528733894657016 55.66236479810129),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.529466968548878 55.71368130679406),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.530328416981364 55.65248390143767),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.5303809240961 55.652477889960764),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.53050726643538 55.71368075345033),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.531361534859288 55.65277608057289),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.532209311398589 55.65300956373121),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.532890679697172 55.655704699863335),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.532912955300318 55.65574917499554),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.532924894646385 55.655672897220825),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.532943416960665 55.65570481912667),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.53301726382981 55.65861854894303),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.536287333564808 55.71669357465596),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.53681915310734 55.71668435832125),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.536973236098488 55.716703596287985),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.537735383517541 55.71664664886296),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541729849106558 55.70728798225184),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541772486336333 55.6992064743282),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541790430532908 55.69926272283772),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541839019020587 55.69920118342495),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.54184342571219 55.699399338064644),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541864596864704 55.69933160433512),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.541899950929809 55.699291183740314),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.54203825941438 55.699967403046685),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542066052239035 55.69976892733343),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542114033006234 55.69944104627438),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542141812059526 55.699865431009854),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542142871522538 55.69979752505986),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542155753364444 55.69991972911179),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542165079228145 55.69958446183508),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542167730391965 55.69938688690369),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.54222067999628 55.699529146633466),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.54223362675474 55.699696525043905),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542234126130884 55.69999170073656),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542271894913519 55.69960715305401),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542287026580613 55.707203395475645),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.54243510858582 55.69989481014558),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542441017326338 55.6998143420342),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542481797255597 55.69992029247506),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542525490867597 55.699974663793796),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542574726182812 55.700030673319574),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542606216320232 55.70006200359952),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.542628184243588 55.69998814639457),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.548723176103124 55.69893780157003),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.549332617063907 55.691696006626756),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.549455463277505 55.69170706303625),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.55006473749827 55.68891357953793),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.550117309762353 55.688949779936706),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.550350894745849 55.69538028616382),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.55045259039322 55.68872757372471),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.550574798405279 55.69540567487757),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.550690932485821 55.69543803724783),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.55089643359516 55.69543438575924),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.553661017768313 55.696747661179884),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.558400438287057 55.64040983094268),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.56268548091709 55.701996591530836),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.563718634397805 55.72127584607843),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.563742210633096 55.72118981487547),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.564017020751185 55.720522867724554),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.564596258638167 55.701971611115816),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.564646142899893 55.7037704216503),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.565243406024331 55.71484422417799),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.567113960693396 55.715431394440564),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.567330814206375 55.714219425460236),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.567483229091748 55.71414446586402),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.569547210623151 55.6925234268482),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.57069544292464 55.70152241719682),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.572648100152954 55.70484796212152),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.589228744136403 55.641238033374435),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.593634097963495 55.693991583357416),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.593798398097599 55.69402385474039),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.596815943793903 55.6939332156532),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.596860278948435 55.69398512787822),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.596914058160968 55.69403433023191),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597039702468336 55.69412398937664),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597111959546844 55.694174514222546),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597150580010878 55.69395746731587),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597157361399994 55.69390048540556),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597165198702951 55.6940095011048),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597182703565817 55.69421503453742),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597200559169675 55.69384737302744),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597203793337671 55.69406083166017),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597241973368213 55.693798633392944),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597253027638443 55.694254591794675),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597255239477876 55.694109316428175),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597321295459814 55.69428820995654),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597323387061612 55.6941492876081),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597387369157097 55.69417650030227),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597393625444308 55.69432430416131),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597463181513616 55.694210915220694),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597618921346296 55.694278259634096),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597694019267704 55.6943084596922),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.59777520391341 55.694340287596),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.597857812025389 55.6943694177381),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598025061322968 55.694431514609455),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598134014663518 55.69459336236407),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598192157248649 55.694494735633064),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598274425691319 55.69452623237651),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.59835975350544 55.6945560692881),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.5983825584822 55.69468325938865),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.59844149732323 55.69458935669579),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598458409722285 55.69471497330149),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598516571151888 55.6946191113935),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598533074811817 55.694756505463644),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598594059275793 55.69464852902),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.59866231839515 55.694816941619834),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598677283423248 55.69467679278812),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598699663572877 55.69485972971384),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598754986518351 55.69490043058334),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.598794154268887 55.69495524129392),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599193771290878 55.69498288846105),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599260396745747 55.695041350832554),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599294343546752 55.69508415656479),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599327611453639 55.69514261552808),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.59938230268846 55.69520222471182),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599434254824372 55.69526464679243),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599494755084189 55.69531981330235),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.599553930174732 55.69538516445911),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.6136524099952 55.65685088503861),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.614601439635555 55.65685715973024),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.614614641990865 55.657409802788976),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.616005827211366 55.65731081191533),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.61777847686799 55.65687903449775),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.618075482386216 55.65737773150286),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.618521294668838 55.66234059291923),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.61856859256507 55.662292009704544),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633018846939324 55.66660167258455),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633028659810051 55.666616029105604),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.63303814387522 55.66658112709706),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633057910672273 55.66656056768175),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.63306251236067 55.66662541216794),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633080102546648 55.666535675354915),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633091419739207 55.666632278623595),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633097197837191 55.66651679299355),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633111968346958 55.66649824584091),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633116774493313 55.66664035145034),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633127801787985 55.666480998760434),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633144279330324 55.66646053680906),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.63315838104679 55.66644493893542),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633170947574063 55.66643019640918),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.63318570529502 55.66641239010272),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633198452951097 55.66640416967614),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633224572851121 55.66641020628108),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.633252340254831 55.66641825790454),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.6332801198286 55.66642654911345),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.63331047470133 55.66643357884029),NA,duplicate location flag added,2
+DUPLICATE_LOCATION,POINT (12.639850612318241 55.65226087046273),NA,duplicate location flag added,2
+DUPLICATE_UUID_DROPPED,2 rows,1 row,UUID deleted when all values identical,1
+ILLEGAL_CHAR_LATIN,Amelánchier laevis,Amelanchier laevis,remove accents,64
+ILLEGAL_CHAR_LATIN,Bétula maximowicziána,Betula maximowicziana,remove accents,4
+ILLEGAL_CHAR_LATIN,Bétula papyrífera,Betula papyrifera,remove accents,14
+ILLEGAL_CHAR_LATIN,Catálpa bignonioídes,Catalpa bignonioides,remove accents,14
+ILLEGAL_CHAR_LATIN,Cedrús atlántica,Cedrus atlantica,remove accents,6
+ILLEGAL_CHAR_LATIN,Cedrús líbani,Cedrus libani,remove accents,17
+ILLEGAL_CHAR_LATIN,Cercidiphýllum japónicum,Cercidiphyllum japonicum,remove accents,41
+ILLEGAL_CHAR_LATIN,Cydónia oblónga,Cydonia oblonga,remove accents,17
+ILLEGAL_CHAR_LATIN,Cydónia sp.,Cydonia sp.,remove accents,5
+ILLEGAL_CHAR_LATIN,Davídia involuncráta,Davidia involuncrata,remove accents,17
+ILLEGAL_CHAR_LATIN,Fráxinus pennsylvánica,Fraxinus pennsylvanica,remove accents,35
+ILLEGAL_CHAR_LATIN,Fágus orientális,Fagus orientalis,remove accents,10
+ILLEGAL_CHAR_LATIN,Fágus sylvática 'Asplenifolia',Fagus sylvatica 'Asplenifolia',remove accents,4
+ILLEGAL_CHAR_LATIN,Fágus sylvática 'Atropunicea',Fagus sylvatica 'Atropunicea',remove accents,14
+ILLEGAL_CHAR_LATIN,Júglans nígra,Juglans nigra,remove accents,11
+ILLEGAL_CHAR_LATIN,Liquidámbar styracíflua,Liquidambar styraciflua,remove accents,43
+ILLEGAL_CHAR_LATIN,Liriodéndron tulipífera,Liriodendron tulipifera,remove accents,108
+ILLEGAL_CHAR_LATIN,Magnólia sp.,Magnolia sp.,remove accents,17
+ILLEGAL_CHAR_LATIN,Méspilus germánica,Mespilus germanica,remove accents,12
+ILLEGAL_CHAR_LATIN,Méspilus sp.,Mespilus sp.,remove accents,2
+ILLEGAL_CHAR_LATIN,Mórus nígra,Morus nigra,remove accents,20
+ILLEGAL_CHAR_LATIN,Mórus álba,Morus alba,remove accents,5
+ILLEGAL_CHAR_LATIN,Nothofágus antárctica,Nothofagus antarctica,remove accents,30
+ILLEGAL_CHAR_LATIN,Paulównia tomentósa,Paulownia tomentosa,remove accents,39
+ILLEGAL_CHAR_LATIN,Prunus subhirtélla 'Accolade',Prunus subhirtella 'Accolade',remove accents,74
+ILLEGAL_CHAR_LATIN,Prúnus sérrula,Prunus serrula,remove accents,14
+ILLEGAL_CHAR_LATIN,Pterocárya fraxinifólia,Pterocarya fraxinifolia,remove accents,39
+ILLEGAL_CHAR_LATIN,Pterocárya rhederiana,Pterocarya rhederiana,remove accents,1
+ILLEGAL_CHAR_LATIN,Pterocárya sp.,Pterocarya sp.,remove accents,1
+ILLEGAL_CHAR_LATIN,Pínus tabulifórmis,Pinus tabuliformis,remove accents,3
+ILLEGAL_CHAR_LATIN,Quércus x túrneri,Quercus x turneri,remove accents,8
+ILLEGAL_CHAR_LATIN,Rhus potanínii,Rhus potaninii,remove accents,5
+ILLEGAL_CHAR_LATIN,Robínia luxúrians,Robinia luxurians,remove accents,1
+ILLEGAL_CHAR_LATIN,Sequoiadéndron gigantéum,Sequoiadendron giganteum,remove accents,6
+ILLEGAL_CHAR_LATIN,Sórbus commixta 'Dodong',Sorbus commixta 'Dodong',remove accents,45
+ILLEGAL_CHAR_LATIN,Sórbus commíxta,Sorbus commixta,remove accents,27
+ILLEGAL_CHAR_LATIN,Sórbus doméstica,Sorbus domestica,remove accents,3
+ILLEGAL_CHAR_LATIN,Tetradium daniéllii,Tetradium daniellii,remove accents,3
+ILLEGAL_CHAR_LATIN,Táxus baccáta,Taxus baccata,remove accents,82
+ILLEGAL_CHAR_LATIN,Zelkóva serráta,Zelkova serrata,remove accents,11
+ILLEGAL_CHAR_LATIN,Ácer argutum,Acer argutum,remove accents,5
+ILLEGAL_CHAR_LATIN,Ácer carpinifólium,Acer carpinifolium,remove accents,1
+ILLEGAL_CHAR_LATIN,Ácer gríseum,Acer griseum,remove accents,20
+ILLEGAL_CHAR_LATIN,Ácer rúbrum,Acer rubrum,remove accents,17
+ILLEGAL_CHAR_LATIN,Ácer tatáricum,Acer tataricum,remove accents,8
+ILLEGAL_CHAR_LATIN,Álnus inokumea,Alnus inokumea,remove accents,6
+WRONG_CASE_LATIN,Corylus avellana  'contorta',Corylus avellana  'Contorta',fix casing latin name,3
+WRONG_CASE_LATIN,Hamamelis 'brevitala',Hamamelis 'Brevitala',fix casing latin name,1
+WRONG_CASE_LATIN,Malus hybr. 'david',Malus hybr. 'David',fix casing latin name,2
+WRONG_CASE_LATIN,Rhus glabra 'lancianata',Rhus glabra 'Lancianata',fix casing latin name,2
+YEAR_RANGE,2026,NA,year outside allowed range,1
+YEAR_RANGE,2027,NA,year outside allowed range,11

@@ -3,18 +3,16 @@ tt_read_csv <- function(path) {
   
   # Harmonize names
   df <- df %>%
-    dplyr::rename(geometry = wkb_geometry, fredet = fredet_beskyttet_trae, frugter = spiselige_frugter) %>%
     dplyr::select(
       uuid, id, traeart, dansk_navn, slaegtsnavn, planteaar, bydelsnavn,
-      fredet, saerligt_trae, ikonisk_trae, frugter, geometry
+      fredet_beskyttet_trae, saerligt_trae, ikonisk_trae, spiselige_frugter, wkb_geometry
     ) %>%
     dplyr::mutate(
-      fredet = dplyr::if_else(fredet == "Ikke registreret", "", fredet, missing = fredet),
-      saerligt_trae = dplyr::if_else(saerligt_trae == "nej", "", "Særligt træ", missing = saerligt_trae),
       id = suppressWarnings(as.integer(id)),
       planteaar = suppressWarnings(as.integer(planteaar)),
       ikonisk_trae = suppressWarnings(as.integer(ikonisk_trae)),
-      frugter = stringr::str_to_lower(frugter) == "ja"
+      saerligt_trae = stringr::str_to_lower(saerligt_trae),
+      spiselige_frugter = stringr::str_to_lower(spiselige_frugter)
     )
   df
 }

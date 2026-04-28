@@ -1,4 +1,27 @@
-# Cleaning, QC of Copenhagen's municipal tree dataset
+# From raw data to structured taxonomy: Copenhagen’s urban tree dataset
+
+In this project I have built a clean, structured, and map-ready dataset of urban trees based on public municipal data from Københavns Kommune. 
+
+The raw data contains several inconsistencies, such as missing or incorrect taxonomy, inconsistent naming, and duplicate records, which makes it difficult to use directly in applications. This repository implements a reproducible pipeline to clean, normalize, and enrich the data, and to prepare it for use in an interactive online map. 
+
+### What the project does
+
+- Cleans and standardizes raw tree data using rule-based transformations in R
+- Builds a normalized relational database in PostgreSQL with constraints ensuring integrity
+- Resolves taxonomy (genus, species, infraspecies) into a consistent structure
+- Derives common names with fallback logic
+- Maps taxa to custom-designed taxon-specific icons
+- Deduplicates trees with identical coordinates
+- Outputs a dataset optimized for use in an interactive map
+- Leaves an audit trail of every change made to the raw dataset
+
+### Key design principles
+
+- Scientific name is the ground truth
+- All naming logic is anchored in taxonomy
+- R handles data cleaning and rule-based transformations
+- SQL handles relational structure and derived views
+- The entire pipeline from raw data to final map dataset is scripted and reproducible
 
 ## Data source
 
