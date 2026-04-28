@@ -8,10 +8,6 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 
 - Cleans and standardizes raw tree data in R
 - Builds a normalized relational database in PostgreSQL
-- Resolves taxonomy (genus, species, infraspecies) into a consistent structure
-- Derives common names with fallback logic
-- Maps taxa to custom-designed taxon-specific icons
-- Deduplicates trees with identical coordinates
 - Outputs a dataset optimized for use in an interactive map
 - Leaves an audit trail of changes made to the original data records
 
