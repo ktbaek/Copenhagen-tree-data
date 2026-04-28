@@ -77,10 +77,12 @@ map_df <- map_df |> mutate(across(where(is.character), str_squish))
 # add truncated uuid as id
 map_df <- map_df |> mutate(id = str_sub(uuid, start = -8, end = -1))
 
+
+cli::cli_alert_success("UUID truncated unique")
+
 # remove unrequired columns
 map_df <- map_df |> select(-family_name, -order_name)
-
-cli::cli_alert_success("Columns selected")
+if (length(unique(map_df$uuid)) != length(unique(map_df$id))) cli::cli_alert_warning("IDs not unique")
 
 # make loading order on the map: trees with unknown species loads first, then by uuid (i.e more or less random) so no one species dominate the map, and then by planting year so large markers are loaded first
 map_df <- arrange(map_df, !nofill, planting_year)
