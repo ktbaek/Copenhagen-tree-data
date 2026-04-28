@@ -1,5 +1,6 @@
 # From raw data to structured taxonomy: Copenhagen’s urban tree dataset
 
+## Project overview
 In this project I have built a clean, structured, and map-ready dataset of urban trees based on [public municipal data](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) from Københavns Kommune. 
 
 The raw data contains several inconsistencies, such as missing or incorrect taxonomy, inconsistent naming, and duplicate records, which makes it difficult to use directly in applications. This repository implements a reproducible pipeline to clean, normalize, and enrich the data, and to prepare it for use in an interactive online map. 
