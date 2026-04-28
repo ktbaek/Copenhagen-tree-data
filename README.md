@@ -46,7 +46,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 
 The mapping steps assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
 
-All changes to the raw dataset are listed in the [changelog](output/).
+All changes to the raw dataset are listed in the [changelog](output/changelog).
 
 ## Interactive map
 
