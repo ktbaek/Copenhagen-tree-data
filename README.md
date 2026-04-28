@@ -31,7 +31,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 
 ## Data cleaning steps
 
-**Standardization in R.**
+### Standardization in R
 - Check for duplicate UUIDs
 - Flag entries with identical locations
 - Check that year of planting is within an expected range
@@ -39,7 +39,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 - Normalize cultivar quotes (e.g. `"` to `'`)
 - Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these rules](rules/latin_regex.csv)
 
-**Normalization and mapping in postgreSQL:**
+### Normalization and mapping in postgreSQL
 - Separate scientific names into taxonomic components
 - Create lookup tables mapping Danish common names to taxa on genus, species, and infraspecies levels
 - Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
