@@ -74,6 +74,9 @@ cli::cli_alert_success("Rarity classes calculated")
 # remove extra whitespace just in case
 map_df <- map_df |> mutate(across(where(is.character), str_squish))
 
+# add truncated uuid as id
+map_df <- map_df |> mutate(id = str_sub(uuid, start = -8, end = -1))
+
 # remove unrequired columns
 map_df <- map_df |> select(-family_name, -order_name)
 
