@@ -59,7 +59,7 @@ I used the cleaned and quality controlled dataset to develop a beautiful and use
 If you use, modify, or build upon the data cleaning methodologies and code in this repository, please include the following attribution:
 
 ```
-Data cleaning methodology: Kristoffer T. Bæk (2020-2025)
+Data cleaning methodology: Kristoffer T. Bæk (2020-2026)
 https://github.com/ktbaek/Copenhagen-tree-data
 Licensed under AGPL-3.0
 

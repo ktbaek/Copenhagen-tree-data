@@ -1,5 +1,5 @@
 Copenhagen Tree Data Cleaning Project
-Copyright (c) 2025 Kristoffer Torbjørn Bæk
+Copyright (c) 2026 Kristoffer Torbjørn Bæk
 
 This project includes data cleaning code and methodologies for 
 processing municipal tree data.
