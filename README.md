@@ -37,7 +37,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 - Check that year of planting is within an expected range
 - Normalize hybrid markers (e.g. `x` to `hybr.`)
 - Normalize cultivar quotes (e.g. `"` to `'`)
-- Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these rules](rules/latin_regex.csv)
+- Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these](rules/latin_regex.csv) and [these](rules/latin_regex_malus.csv) rules
 
 ### Normalization and mapping in postgreSQL
 - Separate scientific names into taxonomic components
