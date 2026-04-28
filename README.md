@@ -6,8 +6,8 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 
 ### What the project does
 
-- Cleans and standardizes raw tree data using rule-based transformations in R
-- Builds a normalized relational database in PostgreSQL with constraints ensuring integrity
+- Cleans and standardizes raw tree data in R
+- Builds a normalized relational database in PostgreSQL
 - Resolves taxonomy (genus, species, infraspecies) into a consistent structure
 - Derives common names with fallback logic
 - Maps taxa to custom-designed taxon-specific icons
@@ -29,26 +29,27 @@ The dataset from Københavns Kommune was downloaded from [Open Data DK](https://
 
 The contents of this repository (data cleaning code, validation rules, and correction methodologies) are licensed under `AGPL-3.0`.
 
-## Cleaning steps
+## Data cleaning steps
 
+**Standardization in R.**
 - Check for duplicate UUIDs
 - Flag entries with identical locations
 - Check that year of planting is within an expected range
 - Normalize hybrid markers (e.g. `x` to `hybr.`)
 - Normalize cultivar quotes (e.g. `"` to `'`)
-- Fix mistakes in scientific names (e.g. spelling, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these rules](rules/latin_regex.csv)
-- Fix mistakes in Danish names (e.g. spelling, capitalization, compound words) according to [these rules](rules/danish_regex.csv)
-- Separate scientific names into their logical components
-- Fix Danish names based on the scientific name (incl. special Danish names for cultivars and variants) according to [these](rules/latin_da_map.csv) and [these](rules/latin_da_map_malus.csv) rules
-- Fix Danish genus names based on the scientific name according to [these rules](rules/genus_dict.csv)
+- Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these rules](rules/latin_regex.csv)
 
+**Normalization and mapping in postgreSQL:**
+- Separate scientific names into taxonomic components
+- Create lookup tables mapping Danish common names to taxa on genus, species, and infraspecies levels
+- Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
+- Build a normalized taxonomy (orders → families → genera → taxa) and enforce valid taxonomic structure through constraints
+- Implement common name resolution with fallback from infraspecies to species when needed
+- Define display rules (e.g. when to include cultivar names)
 
-The last two steps assume that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
+The mapping steps assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
 
-The rule sets are not complete, but reflect an ongoing effort.
-
-Approximately 20,000 changes (appr. 570 unique) have been applied to the dataset. Some corrections are counted more than once when multiple rules act in sequence, for example, “Park-Lind” → “Park-lind” → “Parklind.” All changes are listed in the [changelog](output/).
-
+All changes to the raw dataset are listed in the [changelog](output/).
 
 ## Interactive map
 
