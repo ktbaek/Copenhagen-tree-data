@@ -13,7 +13,7 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 - Maps taxa to custom-designed taxon-specific icons
 - Deduplicates trees with identical coordinates
 - Outputs a dataset optimized for use in an interactive map
-- Leaves an audit trail of every change made to the raw dataset
+- Leaves an audit trail of changes made to the original data records
 
 ### Key design principles
 
