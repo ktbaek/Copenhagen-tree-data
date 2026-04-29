@@ -39,7 +39,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 ### Normalization and mapping in postgreSQL
 - Separate scientific names into taxonomic components
 - Create lookup tables mapping Danish common names to taxa on genus, species, and infraspecies levels
-- Build a normalized taxonomy (orders → families → genera → taxa) and enforce valid taxonomic structure through constraints
+- Build a normalized taxonomy (orders → families → genera → species → infraspecies) and enforce valid taxonomic structure through constraints
 - Implement common name resolution with fallback from infraspecies to species when needed
 - Define display rules (e.g. when to include cultivar names)
 - Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
