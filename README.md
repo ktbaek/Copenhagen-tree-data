@@ -20,6 +20,12 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 - SQL handles relational structure and derived views
 - The entire pipeline from raw data to final map dataset is scripted and reproducible
 
+### Interactive map
+
+I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen.
+
+![App image](map-sshot.png)
+
 ## Data source
 
 The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in September 2025. It contains information about ~67,000 trees in Copenhagen. The original dataset is not included here and is licensed under `CC-BY-4.0`.
@@ -49,12 +55,6 @@ The mapping steps assumes that the scientific names are the ground truth. This i
 Scientific names were changed for ~6000 trees (~300 unique changes), and common names were changed for ~10,000 trees (~200 unique changes). 
 
 All changes to the raw dataset are listed in the [changelog](output/changelog).
-
-## Interactive map
-
-I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen.
-
-![App image](map-sshot.png)
 
 ## Attribution
 
