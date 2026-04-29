@@ -46,7 +46,7 @@ The contents of this repository (data cleaning code, validation rules, and corre
 
 The mapping steps assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
 
-Scientific names were changed in ~6000 trees (~300 unique changes), and common names were changed in ~10,000 trees (~200 unique changes). 
+Scientific names were changed for ~6000 trees (~300 unique changes), and common names were changed for ~10,000 trees (~200 unique changes). 
 
 All changes to the raw dataset are listed in the [changelog](output/changelog).
 
