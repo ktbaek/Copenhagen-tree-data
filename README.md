@@ -39,12 +39,14 @@ The contents of this repository (data cleaning code, validation rules, and corre
 ### Normalization and mapping in postgreSQL
 - Separate scientific names into taxonomic components
 - Create lookup tables mapping Danish common names to taxa on genus, species, and infraspecies levels
-- Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
 - Build a normalized taxonomy (orders → families → genera → taxa) and enforce valid taxonomic structure through constraints
 - Implement common name resolution with fallback from infraspecies to species when needed
 - Define display rules (e.g. when to include cultivar names)
+- Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
 
 The mapping steps assumes that the scientific names are the ground truth. This is probably true in the vast majority of cases, but without knowing the history of the dataset it can't be known for certain.
+
+Scientific names were changed in ~6000 trees (~300 unique changes), and common names were changed in ~10,000 trees (~200 unique changes). 
 
 All changes to the raw dataset are listed in the [changelog](output/changelog).
 
