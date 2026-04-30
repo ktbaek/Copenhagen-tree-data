@@ -5,7 +5,7 @@
 3. **Import data** into a staging table e.g. `raw_trees_2026`.
 4. **Validation step (important)** to catch new and/or broken/misspelled taxa.
 
-    If any of the following queries return rows, inspect to distinguish between *genuinely new taxa* and *broken/misspelled taxa*. If broken/misspelled, go back to the cleaning pipeline and fix. Then run this step again to ensure there are only genuinely new taxa.
+    If any of the following queries return rows, inspect to distinguish between *genuinely new taxa* and *broken/misspelled taxa*. If broken/misspelled, go back to the cleaning pipeline and fix. Then run this step again to ensure only genuinely new taxa are returned.
 
     Make note of the new taxa for updating common names manually later!
 
