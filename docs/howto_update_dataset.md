@@ -157,3 +157,5 @@ values
 7. **Refresh materialized views** that depends on the updated tables.
 
 8. **Insert tree data** from staging table to table.
+
+9. **Update common name changelog**. Run script `scripts/export_common_name_changelog.R`.
