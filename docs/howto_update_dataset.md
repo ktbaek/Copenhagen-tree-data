@@ -156,6 +156,14 @@ values
 
 7. **Refresh materialized views** that depends on the updated tables.
 
+Example:
+
+```SQL
+REFRESH MATERIALIZED VIEW taxon_primary_common_names;
+REFRESH MATERIALIZED VIEW taxon_display_names;
+REFRESH MATERIALIZED VIEW resolved_icons;
+```
+
 8. **Insert tree data** from staging table to table.
 
 9. **Update common name changelog**. Run script `export_common_name_changelog.R`.
