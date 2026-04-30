@@ -64,7 +64,34 @@ SELECT
             THEN ' ' || b.infraspecies_type || ' ' || b.infraspecies_name
             ELSE ''
         END
+    ) AS scientific_name_medium,
+
+    TRIM(
+        COALESCE(b.genus_name, '') ||
+
+        CASE
+            WHEN b.is_hybrid THEN ' hybr.'
+            WHEN b.taxon_level = 'genus' THEN ' sp.'
+            ELSE ''
+        END ||
+
+        CASE
+            WHEN b.species_epithet IS NOT NULL
+            THEN ' ' || b.species_epithet
+            ELSE ''
+        END ||
+
+        CASE
+            WHEN b.taxon_level = 'infraspecies'
+                 AND b.infraspecies_type IS DISTINCT FROM 'cultivar'
+            THEN ' ' || b.infraspecies_type || ' ' || b.infraspecies_name
+            WHEN b.taxon_level = 'infraspecies'
+            AND b.infraspecies_type = 'cultivar'
+            THEN ' ''' || b.infraspecies_name  || ''''
+            ELSE ''
+        END
     ) AS scientific_name_long,
+
 
     -- Cultivar
     CASE

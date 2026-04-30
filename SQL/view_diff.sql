@@ -6,7 +6,7 @@ SELECT
     tx.species_epithet,
     tx.infraspecies_name,
     tx.infraspecies_type,
-    tdn.scientific_name_long as scientific_name,
+    tdn.scientific_name_medium as scientific_name,
     tdn.cultivar,
     tx.taxon_level,
     t.sex,

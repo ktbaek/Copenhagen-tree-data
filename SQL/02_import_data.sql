@@ -34,6 +34,6 @@ truncate raw_taxon_icons;
 commit;
 
 begin;
-truncate raw_trees;
-\copy raw_trees from 'output/tables/trees.csv' delimiter ',' csv header;
+truncate raw_trees_2026;
+\copy raw_trees_2026 from 'output/tables/trees_2026.csv' delimiter ',' csv header;
 commit;

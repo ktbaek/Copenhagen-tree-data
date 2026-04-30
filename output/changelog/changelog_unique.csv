@@ -1,36 +1,37 @@
 code,value_from,value_to,message,n
-APPLIED_REGEX_RULE,Acer freemanii 'Elegant',Acer hybr. freemanii 'Elegant',add hybrid marker,17
-APPLIED_REGEX_RULE,Acer freemanii X,Acer hybr. freemanii,add hybrid marker,1
+APPLIED_REGEX_RULE,Hippophae rhamnoides,Hippophaë rhamnoides,add diacritic back,5
+APPLIED_REGEX_RULE,Acer freemanii 'Elegant',Acer hybr. freemanii 'Elegant',add hybrid marker,18
+APPLIED_REGEX_RULE,Acer freemanii X,Acer hybr. freemanii,add hybrid marker,2
 APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
 APPLIED_REGEX_RULE,Aronia prunifolia,Aronia hybr. prunifolia,add hybrid marker,1
 APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. 'Brevipetala',add hybrid marker,1
 APPLIED_REGEX_RULE,Laburnum watereri,Laburnum hybr. watereri,add hybrid marker,16
 APPLIED_REGEX_RULE,Laburnum watereri 'Vossii',Laburnum hybr. watereri 'Vossii',add hybrid marker,12
-APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,14
+APPLIED_REGEX_RULE,Larix eurolepis,Larix hybr. eurolepis,add hybrid marker,13
 APPLIED_REGEX_RULE,Malus floribunda,Malus hybr. floribunda,add hybrid marker,51
 APPLIED_REGEX_RULE,Populus canadensis,Populus hybr. canadensis,add hybrid marker,11
 APPLIED_REGEX_RULE,Populus canadensis 'Bachalierii',Populus hybr. canadensis 'Bachalierii',add hybrid marker,6
 APPLIED_REGEX_RULE,Populus canadensis 'De Moffat',Populus hybr. canadensis 'De Moffat',add hybrid marker,16
 APPLIED_REGEX_RULE,Populus canescens,Populus hybr. canescens,add hybrid marker,2
 APPLIED_REGEX_RULE,Populus gileadensis,Populus hybr. gileadensis,add hybrid marker,1
-APPLIED_REGEX_RULE,Prunus yedoensis,Prunus hybr. yedoensis,add hybrid marker,13
+APPLIED_REGEX_RULE,Prunus yedoensis,Prunus hybr. yedoensis,add hybrid marker,18
 APPLIED_REGEX_RULE,Pterocarya rhederiana,Pterocarya hybr. rhederiana,add hybrid marker,1
-APPLIED_REGEX_RULE,Tilia euchlora,Tilia hybr. euchlora,add hybrid marker,361
-APPLIED_REGEX_RULE,Tilia europaea,Tilia hybr. europaea,add hybrid marker,2238
-APPLIED_REGEX_RULE,Ulmus 'Columella',Ulmus hybr. 'Columella',add hybrid marker,95
-APPLIED_REGEX_RULE,Ulmus 'New Horizon',Ulmus hybr. 'New Horizon',add hybrid marker,261
-APPLIED_REGEX_RULE,Ulmus 'Rebona',Ulmus hybr. 'Rebona',add hybrid marker,143
+APPLIED_REGEX_RULE,Tilia euchlora,Tilia hybr. euchlora,add hybrid marker,355
+APPLIED_REGEX_RULE,Tilia europaea,Tilia hybr. europaea,add hybrid marker,2226
+APPLIED_REGEX_RULE,Ulmus 'Columella',Ulmus hybr. 'Columella',add hybrid marker,96
+APPLIED_REGEX_RULE,Ulmus 'New Horizon',Ulmus hybr. 'New Horizon',add hybrid marker,266
+APPLIED_REGEX_RULE,Ulmus 'Rebona',Ulmus hybr. 'Rebona',add hybrid marker,142
 APPLIED_REGEX_RULE,Ulmus 'Regal',Ulmus hybr. 'Regal',add hybrid marker,1
 APPLIED_REGEX_RULE,Ulmus 'Sapporo Autumn Gold',Ulmus hybr. 'Sapporo Autumn Gold',add hybrid marker,1
 APPLIED_REGEX_RULE,Ulmus 'Vada',Ulmus hybr. 'Vada',add hybrid marker,6
-APPLIED_REGEX_RULE,Ulmus Fiorente,Ulmus hybr. 'Fiorente',add hybrid marker,22
-APPLIED_REGEX_RULE,Acer pseudoplatanoides 'Spaethii',Acer pseudoplatanus 'Spaethii',could also be platanoides,5
+APPLIED_REGEX_RULE,Ulmus Fiorente,Ulmus hybr. 'Fiorente',add hybrid marker,23
+APPLIED_REGEX_RULE,Acer pseudoplatanoides 'Spaethii',Acer pseudoplatanus 'Spaethii',could also be platanoides,7
 APPLIED_REGEX_RULE,Malus sieboldii  'Browers beauty',Malus sieboldii 'Brouwers beauty',cultivar spelling fix,3
 APPLIED_REGEX_RULE,Malus hybr. 'Robusta',Malus hybr. robusta,cultivar to species,1
 APPLIED_REGEX_RULE,Prunus domestica 'Incititia',Prunus domestica ssp. insisitia,cultivar to subspecies,18
 APPLIED_REGEX_RULE,Malus hybr. 'Akso',Malus baccata 'Akso',fix species name,22
 APPLIED_REGEX_RULE,Malus hybr. 'James Greive',Malus domestica 'James Grieve',fix species name,7
-APPLIED_REGEX_RULE,Malus hybr. 'Street Parade',Malus baccata 'Street Parade',fix species name,70
+APPLIED_REGEX_RULE,Malus hybr. 'Street Parade',Malus baccata 'Street Parade',fix species name,71
 APPLIED_REGEX_RULE,Amelanchier 'Autumn Brilliance',Amelanchier hybr. grandiflora 'Autumn Brilliance',insert species for cultivars,1
 APPLIED_REGEX_RULE,Malus 'Alice Balsgaard',Malus domestica 'Alice Balsgaard',insert species for cultivars,2
 APPLIED_REGEX_RULE,Malus 'Angold',Malus domestica 'Angold',insert species for cultivars,2
@@ -52,11 +53,11 @@ APPLIED_REGEX_RULE,Prunus 'Rivers Early Prolific',Prunus domestica 'Rivers Early
 APPLIED_REGEX_RULE,Pyrus 'Grev Moltke',Pyrus communis 'Grev Moltke',insert species for cultivars,1
 APPLIED_REGEX_RULE,Ribes 'Jonkheer Van Tets',Ribes rubrum 'Jonkheer Van Tets',insert species for cultivars,7
 APPLIED_REGEX_RULE,Ribes 'Rondom',Ribes rubrum 'Rondom',insert species for cultivars,16
-APPLIED_REGEX_RULE,Tilia hybr. 'Zwarte Linde',Tilia hybr. europaea 'Zwarte Linde',insert species for cultivars,9
+APPLIED_REGEX_RULE,Tilia hybr. 'Zwarte Linde',Tilia hybr. europaea 'Zwarte Linde',insert species for cultivars,15
 APPLIED_REGEX_RULE,Sophora japonica (Styphnolobium japonica),Styphnolobium japonica,latin accepted genus,9
 APPLIED_REGEX_RULE,Magnolia hybr. Soulangiana,Magnolia hybr. soulangeana,latin case fix,8
 APPLIED_REGEX_RULE,Betula albo sinensis,Betula albosinensis,latin compound word,1
-APPLIED_REGEX_RULE,Aesculus hippoc. 'Baumannii',Aesculus hippocastanum 'Baumannii',latin expand abbrev.,20
+APPLIED_REGEX_RULE,Aesculus hippoc. 'Baumannii',Aesculus hippocastanum 'Baumannii',latin expand abbrev.,21
 APPLIED_REGEX_RULE,Laburnocytisus adami,+Laburnocytisus adami,latin normalization,1
 APPLIED_REGEX_RULE,Acer hycarnum,Acer hyrcanum,latin spelling fix,1
 APPLIED_REGEX_RULE,Almus inceana,Alnus incana,latin spelling fix,76
@@ -64,25 +65,26 @@ APPLIED_REGEX_RULE,Alnus inokumea,Alnus inokumae,latin spelling fix,6
 APPLIED_REGEX_RULE,Amelachier canadensis,Amelanchier canadensis,latin spelling fix,65
 APPLIED_REGEX_RULE,Aronia meloncarpia,Aronia melanocarpa,latin spelling fix,3
 APPLIED_REGEX_RULE,Celtis sinesis,Celtis sinensis,latin spelling fix,1
+APPLIED_REGEX_RULE,Craetagus crus-galli var. Inermis,Crataegus crus-galli var. inermis,latin spelling fix,5
 APPLIED_REGEX_RULE,Crytomeria japonica,Cryptomeria japonica,latin spelling fix,2
 APPLIED_REGEX_RULE,Davidia involucrate 'Vilmoriniana',Davidia involucrata 'Vilmoriniana',latin spelling fix,1
 APPLIED_REGEX_RULE,Davidia involuncrata,Davidia involucrata,latin spelling fix,17
-APPLIED_REGEX_RULE,Eleagnus angustifolia,Elaeagnus angustifolia,latin spelling fix,30
+APPLIED_REGEX_RULE,Eleagnus angustifolia,Elaeagnus angustifolia,latin spelling fix,31
 APPLIED_REGEX_RULE,Forthergilla major,Fothergilla major,latin spelling fix,1
-APPLIED_REGEX_RULE,Fraxinus pensylvanica 'Zundert',Fraxinus pennsylvanica 'Zundert',latin spelling fix,627
+APPLIED_REGEX_RULE,Fraxinus pensylvanica 'Zundert',Fraxinus pennsylvanica 'Zundert',latin spelling fix,639
 APPLIED_REGEX_RULE,Hamamelis 'Brevitala',Hamamelis 'Brevipetala',latin spelling fix,1
 APPLIED_REGEX_RULE,Hippophea rhamnoides,Hippophae rhamnoides,latin spelling fix,5
 APPLIED_REGEX_RULE,Malus sieboldie  'Browers beauty',Malus sieboldii  'Browers beauty',latin spelling fix,3
 APPLIED_REGEX_RULE,Malus sieboldie  'Freja',Malus sieboldii  'Freja',latin spelling fix,1
 APPLIED_REGEX_RULE,Physocarbus opulifolius  'El Diabolo',Physocarpus opulifolius  'El Diabolo',latin spelling fix,1
 APPLIED_REGEX_RULE,Picea punges 'Argenta',Picea pungens 'Argenta',latin spelling fix,1
-APPLIED_REGEX_RULE,Populus simonii 'Fastgiata',Populus simonii 'Fastigiata',latin spelling fix,137
-APPLIED_REGEX_RULE,Prunus ceracifera 'Nigra',Prunus cerasifera 'Nigra',latin spelling fix,107
+APPLIED_REGEX_RULE,Populus simonii 'Fastgiata',Populus simonii 'Fastigiata',latin spelling fix,136
+APPLIED_REGEX_RULE,Prunus ceracifera 'Nigra',Prunus cerasifera 'Nigra',latin spelling fix,101
 APPLIED_REGEX_RULE,Prunus mackii 'Amber Shade',Prunus maackii 'Amber Shade',latin spelling fix,2
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. caesia,Pseudotsuga menziesii var. caesia,latin spelling fix,14
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. glauca,Pseudotsuga menziesii var. glauca,latin spelling fix,4
 APPLIED_REGEX_RULE,Pseudotsuga menziezii var. menziezii,Pseudotsuga menziesii var. menziezii,latin spelling fix,1
-APPLIED_REGEX_RULE,Sambuscus nigra,Sambucus nigra,latin spelling fix,12
+APPLIED_REGEX_RULE,Sambuscus nigra,Sambucus nigra,latin spelling fix,13
 APPLIED_REGEX_RULE,Sambuscus sp.,Sambucus sp.,latin spelling fix,30
 APPLIED_REGEX_RULE,Tilia plathyphyllos 'Odin',Tilia platyphyllos 'Odin',latin spelling fix,9
 APPLIED_REGEX_RULE,Zanthozylum piperitum,Zanthoxylum piperitum,latin spelling fix,4
@@ -100,7 +102,7 @@ APPLIED_REGEX_RULE,Magnolia x 'Galaxy',Magnolia hybr. 'Galaxy',normalize hybrid 
 APPLIED_REGEX_RULE,Magnolia x Soulangiana,Magnolia hybr. Soulangiana,normalize hybrid marker,8
 APPLIED_REGEX_RULE,Magnolia x thompsoniana,Magnolia hybr. thompsoniana,normalize hybrid marker,1
 APPLIED_REGEX_RULE,Malus hybrid Hyslop,Malus hybr. 'Hyslop',normalize hybrid marker,15
-APPLIED_REGEX_RULE,Malus x 'Elstar',Malus hybr. 'Elstar',normalize hybrid marker,19
+APPLIED_REGEX_RULE,Malus x 'Elstar',Malus hybr. 'Elstar',normalize hybrid marker,20
 APPLIED_REGEX_RULE,Malus x 'James Greive',Malus hybr. 'James Greive',normalize hybrid marker,7
 APPLIED_REGEX_RULE,Prunus X amygdalo-persica,Prunus hybr. amygdalo-persica,normalize hybrid marker,2
 APPLIED_REGEX_RULE,Prunus x 'Stella',Prunus hybr. 'Stella',normalize hybrid marker,4
@@ -108,8 +110,8 @@ APPLIED_REGEX_RULE,Prunus x 'Stevnsbær',Prunus hybr. 'Stevnsbær',normalize hyb
 APPLIED_REGEX_RULE,Prunus x hilleri 'Spire',Prunus hybr. hilleri 'Spire',normalize hybrid marker,10
 APPLIED_REGEX_RULE,Quercus x turneri,Quercus hybr. turneri,normalize hybrid marker,8
 APPLIED_REGEX_RULE,Robinia x margaretta 'Pink Cascade',Robinia hybr. margaretta 'Pink Cascade',normalize hybrid marker,2
-APPLIED_REGEX_RULE,Tilia x 'Zwarte Linde',Tilia hybr. 'Zwarte Linde',normalize hybrid marker,9
-APPLIED_REGEX_RULE,Viburnum x bodnantense,Viburnum hybr. bodnantense,normalize hybrid marker,3
+APPLIED_REGEX_RULE,Tilia x 'Zwarte Linde',Tilia hybr. 'Zwarte Linde',normalize hybrid marker,15
+APPLIED_REGEX_RULE,Viburnum x bodnantense,Viburnum hybr. bodnantense,normalize hybrid marker,4
 DUPLICATE_LOCATION,POINT (12.46385502740357 55.69587010985361),NA,duplicate location flag added,2
 DUPLICATE_LOCATION,POINT (12.48164693169702 55.65476112149447),NA,duplicate location flag added,2
 DUPLICATE_LOCATION,POINT (12.48198733010123 55.67307826900958),NA,duplicate location flag added,2
@@ -289,8 +291,10 @@ DUPLICATE_LOCATION,POINT (12.633252340254831 55.66641825790454),NA,duplicate loc
 DUPLICATE_LOCATION,POINT (12.6332801198286 55.66642654911345),NA,duplicate location flag added,2
 DUPLICATE_LOCATION,POINT (12.63331047470133 55.66643357884029),NA,duplicate location flag added,2
 DUPLICATE_LOCATION,POINT (12.639850612318241 55.65226087046273),NA,duplicate location flag added,2
-DUPLICATE_UUID_DROPPED,2 rows,1 row,UUID deleted when all values identical,1
-ILLEGAL_CHAR_LATIN,Amelánchier laevis,Amelanchier laevis,remove accents,64
+DUPLICATE_UUID_DROPPED,2 rows,1 row,UUID deleted when all values identical,51
+DUPLICATE_UUID_DROPPED,3 rows,1 row,UUID deleted when all values identical,3
+DUPLICATE_UUID_DROPPED,7 rows,1 row,UUID deleted when all values identical,7
+ILLEGAL_CHAR_LATIN,Amelánchier laevis,Amelanchier laevis,remove accents,69
 ILLEGAL_CHAR_LATIN,Bétula maximowicziána,Betula maximowicziana,remove accents,4
 ILLEGAL_CHAR_LATIN,Bétula papyrífera,Betula papyrifera,remove accents,14
 ILLEGAL_CHAR_LATIN,Catálpa bignonioídes,Catalpa bignonioides,remove accents,14
@@ -305,8 +309,8 @@ ILLEGAL_CHAR_LATIN,Fágus orientális,Fagus orientalis,remove accents,10
 ILLEGAL_CHAR_LATIN,Fágus sylvática 'Asplenifolia',Fagus sylvatica 'Asplenifolia',remove accents,4
 ILLEGAL_CHAR_LATIN,Fágus sylvática 'Atropunicea',Fagus sylvatica 'Atropunicea',remove accents,14
 ILLEGAL_CHAR_LATIN,Júglans nígra,Juglans nigra,remove accents,11
-ILLEGAL_CHAR_LATIN,Liquidámbar styracíflua,Liquidambar styraciflua,remove accents,43
-ILLEGAL_CHAR_LATIN,Liriodéndron tulipífera,Liriodendron tulipifera,remove accents,108
+ILLEGAL_CHAR_LATIN,Liquidámbar styracíflua,Liquidambar styraciflua,remove accents,44
+ILLEGAL_CHAR_LATIN,Liriodéndron tulipífera,Liriodendron tulipifera,remove accents,107
 ILLEGAL_CHAR_LATIN,Magnólia sp.,Magnolia sp.,remove accents,17
 ILLEGAL_CHAR_LATIN,Méspilus germánica,Mespilus germanica,remove accents,12
 ILLEGAL_CHAR_LATIN,Méspilus sp.,Mespilus sp.,remove accents,2
@@ -324,11 +328,11 @@ ILLEGAL_CHAR_LATIN,Quércus x túrneri,Quercus x turneri,remove accents,8
 ILLEGAL_CHAR_LATIN,Rhus potanínii,Rhus potaninii,remove accents,5
 ILLEGAL_CHAR_LATIN,Robínia luxúrians,Robinia luxurians,remove accents,1
 ILLEGAL_CHAR_LATIN,Sequoiadéndron gigantéum,Sequoiadendron giganteum,remove accents,6
-ILLEGAL_CHAR_LATIN,Sórbus commixta 'Dodong',Sorbus commixta 'Dodong',remove accents,45
-ILLEGAL_CHAR_LATIN,Sórbus commíxta,Sorbus commixta,remove accents,27
+ILLEGAL_CHAR_LATIN,Sórbus commixta 'Dodong',Sorbus commixta 'Dodong',remove accents,46
+ILLEGAL_CHAR_LATIN,Sórbus commíxta,Sorbus commixta,remove accents,37
 ILLEGAL_CHAR_LATIN,Sórbus doméstica,Sorbus domestica,remove accents,3
 ILLEGAL_CHAR_LATIN,Tetradium daniéllii,Tetradium daniellii,remove accents,3
-ILLEGAL_CHAR_LATIN,Táxus baccáta,Taxus baccata,remove accents,82
+ILLEGAL_CHAR_LATIN,Táxus baccáta,Taxus baccata,remove accents,81
 ILLEGAL_CHAR_LATIN,Zelkóva serráta,Zelkova serrata,remove accents,11
 ILLEGAL_CHAR_LATIN,Ácer argutum,Acer argutum,remove accents,5
 ILLEGAL_CHAR_LATIN,Ácer carpinifólium,Acer carpinifolium,remove accents,1
@@ -338,7 +342,6 @@ ILLEGAL_CHAR_LATIN,Ácer tatáricum,Acer tataricum,remove accents,8
 ILLEGAL_CHAR_LATIN,Álnus inokumea,Alnus inokumea,remove accents,6
 WRONG_CASE_LATIN,Corylus avellana  'contorta',Corylus avellana  'Contorta',fix casing latin name,3
 WRONG_CASE_LATIN,Hamamelis 'brevitala',Hamamelis 'Brevitala',fix casing latin name,1
-WRONG_CASE_LATIN,Malus hybr. 'david',Malus hybr. 'David',fix casing latin name,2
+WRONG_CASE_LATIN,Malus hybr. 'david',Malus hybr. 'David',fix casing latin name,3
 WRONG_CASE_LATIN,Rhus glabra 'lancianata',Rhus glabra 'Lancianata',fix casing latin name,2
-YEAR_RANGE,2026,NA,year outside allowed range,1
-YEAR_RANGE,2027,NA,year outside allowed range,11
+YEAR_RANGE,2027,NA,year outside allowed range,1

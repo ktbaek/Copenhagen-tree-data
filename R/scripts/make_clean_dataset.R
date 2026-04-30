@@ -1,7 +1,7 @@
 # Cleaning and QC of Copenhagen Municipality's tree dataset ---------------
 suppressWarnings({
 # set constants
-dataset_year = 2025L
+dataset_year = 2026L
 
 # source functions
 rm(set_color_df) # during development 
@@ -9,7 +9,7 @@ r_files <- list.files("2025/R/functions", pattern = "\\.R$", full.names = TRUE)
 invisible(lapply(r_files, source))
 
 # read raw data
-trees_df <- tt_read_csv("2025/raw_data/trae_basis_2025.csv")
+trees_df <- tt_read_csv("2025/raw_data/trae_basis_2026.csv")
 
 # load rules
 dir <- "2025/rules"

@@ -1,19 +1,20 @@
 code,message,n
-APPLIED_REGEX_RULE,add hybrid marker,3312
-APPLIED_REGEX_RULE,latin spelling fix,1162
-ILLEGAL_CHAR_LATIN,remove accents,929
+APPLIED_REGEX_RULE,add hybrid marker,3306
+APPLIED_REGEX_RULE,latin spelling fix,1174
+ILLEGAL_CHAR_LATIN,remove accents,944
 DUPLICATE_LOCATION,duplicate location flag added,360
-APPLIED_REGEX_RULE,normalize hybrid marker,110
-APPLIED_REGEX_RULE,insert species for cultivars,100
-APPLIED_REGEX_RULE,fix species name,99
+APPLIED_REGEX_RULE,normalize hybrid marker,118
+APPLIED_REGEX_RULE,insert species for cultivars,106
+APPLIED_REGEX_RULE,fix species name,100
+DUPLICATE_UUID_DROPPED,UUID deleted when all values identical,61
 APPLIED_REGEX_RULE,normalize cultivar style,29
-APPLIED_REGEX_RULE,latin expand abbrev.,20
+APPLIED_REGEX_RULE,latin expand abbrev.,21
 APPLIED_REGEX_RULE,cultivar to subspecies,18
-YEAR_RANGE,year outside allowed range,12
 APPLIED_REGEX_RULE,latin accepted genus,9
+WRONG_CASE_LATIN,fix casing latin name,9
 APPLIED_REGEX_RULE,latin case fix,8
-WRONG_CASE_LATIN,fix casing latin name,8
-APPLIED_REGEX_RULE,could also be platanoides,5
+APPLIED_REGEX_RULE,could also be platanoides,7
+APPLIED_REGEX_RULE,add diacritic back,5
 APPLIED_REGEX_RULE,monotypic extant,4
 APPLIED_REGEX_RULE,cultivar spelling fix,3
 APPLIED_REGEX_RULE,cultivar to species,1
@@ -21,4 +22,4 @@ APPLIED_REGEX_RULE,latin compound word,1
 APPLIED_REGEX_RULE,latin normalization,1
 APPLIED_REGEX_RULE,latin synonym,1
 APPLIED_REGEX_RULE,latin synonym -> accepted,1
-DUPLICATE_UUID_DROPPED,UUID deleted when all values identical,1
+YEAR_RANGE,year outside allowed range,1

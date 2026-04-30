@@ -21,7 +21,7 @@ traeart;^Forthergilla;Fothergilla;latin spelling fix;100
 traeart;^Ginkgo\s+sp\.$;Ginkgo biloba;monotypic extant;70
 traeart;^Hamamelis\s'Brevipetala';Hamamelis hybr. 'Brevipetala';add hybrid marker;90
 traeart;^Hamamelis\s'Brevitala';Hamamelis 'Brevipetala';latin spelling fix;100
-traeart;^Hippophae;Hippophaë;add diacritic back;100
+traeart;^Hippophae;Hippophaë;add diacritic back;90
 traeart;^Hippophea;Hippophae;latin spelling fix;100
 traeart;^Laburnocytisus;+Laburnocytisus;latin normalization;100
 traeart;^Laburnum\s+watereri;Laburnum hybr. watereri;add hybrid marker;90
@@ -61,3 +61,4 @@ traeart;^Ulmus\s+Fiorente;Ulmus hybr. 'Fiorente';add hybrid marker;90
 traeart;^Ulmus\s+pumilla\s+arborea\b;Ulmus pumila var. arborea;latin rank word;60
 traeart;^Zanthozylum;Zanthoxylum;latin spelling fix;100
 traeart;pensylvanica;pennsylvanica;latin spelling fix;100
+traeart;^Craetagus crus-galli var. Inermis;Crataegus crus-galli var. inermis;latin spelling fix;100

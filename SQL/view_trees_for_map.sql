@@ -17,7 +17,7 @@ WITH ranked AS (
 SELECT
     t.uuid,
     tdn.scientific_name_short as scientific_name,
-    tdn.scientific_name_long as display_name,
+    tdn.scientific_name_medium as display_name,
     tdn.cultivar,
 
     CASE

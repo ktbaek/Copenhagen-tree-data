@@ -30,40 +30,6 @@ clean_harmonized_df <- clean_df |>
   ) |> 
     select(-traeart)
 
-# generate trees table
-trees_df <- clean_harmonized_df |>
-  select(uuid, species, genus, variety, cultivar, planting_year, district_name, protected, special, iconic, fruit, wkb_geometry, dup_loc, raw_dansk_navn, raw_slaegtsnavn) |> 
-  mutate(
-    coords = str_match(wkb_geometry, "POINT \\(([^ ]+) ([^ ]+)\\)"),
-    lon = as.numeric(coords[,2]),
-    lat = as.numeric(coords[,3])
-  )  |> 
-  select(-coords, -wkb_geometry) |> 
-  harmonize_infraspecies_cols() |> 
-  mutate(
-    is_hybrid = str_detect(species, " hybr\\."),
-    sex = case_when(
-      str_detect(species, "\\s*\\(han\\)") ~ "male",
-      str_detect(species, "\\s*\\(hun\\)") ~ "female",
-      TRUE ~ NA_character_
-    ),
-    species_clean = species |> 
-      str_replace_all("hybr\\.", "")  |> 
-      str_remove("\\s*\\((han|hun)\\)") |> 
-      str_squish(),
-    genus = word(species_clean, 1),
-    species_epithet = word(species_clean, 2),
-    species_epithet = if_else(str_detect(species_clean, " sp\\.?$"), NA_character_, species_epithet),
-  ) |> 
-  mutate(
-    protected = as.character(ifelse("Ikke registreret", NA_character_, protected)),
-    special = special == "ja",
-    iconic = !is.na(iconic) & iconic > 0,
-    fruit = fruit == "ja"
-  ) |> 
-  rename(is_duplicate_location = dup_loc) |> 
-  select(uuid, genus, species_epithet, is_hybrid, sex, infraspecies_type, infraspecies_name, planting_year, district_name, protected, special, iconic, fruit, lon, lat, is_duplicate_location, raw_dansk_navn, raw_slaegtsnavn)
-
 # generate genera table
 genera_df <- rules$taxonomy |> 
   select(genus, family) |> 
@@ -114,7 +80,6 @@ species_insert <- trees_df |>
     taxon_level = "species"
   ) 
   
-
 # generate taxa table
 taxon_key_cols <- c("genus", "species_epithet", "is_hybrid", "infraspecies_name", "infraspecies_type")
 
