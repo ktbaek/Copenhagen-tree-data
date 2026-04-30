@@ -158,4 +158,4 @@ values
 
 8. **Insert tree data** from staging table to table.
 
-9. **Update common name changelog**. Run script `scripts/export_common_name_changelog.R`.
+9. **Update common name changelog**. Run script `export_common_name_changelog.R`.
