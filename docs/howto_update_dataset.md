@@ -3,9 +3,9 @@
 1. **Run cleaning script** `make_clean_dataset.R` in R. Make sure `dataset_year` has been updated. This will also reveal if the new dataset has the same structure as the old.
 2. **Build database-ready table** with `make_db_trees_table.R`. Include year or version in the filename, e.g. `trees_2026.csv`.
 3. **Import data** into a staging table e.g. `raw_trees_2026`.
-4. **Validation step (important)** to catch genuinely new taxa and broken / misspelled taxa.
+4. **Validation step (important)** to catch new and/or broken/misspelled taxa.
 
-    If any of the following queries return rows, inspect to distinguish between genuinely new taxa and misspelled taxa. If misspelled, go back to the cleaning pipeline and fix. Then run this step again to ensure there are only genuinely new taxa, no misspellings etc.
+    If any of the following queries return rows, inspect to distinguish between *genuinely new taxa* and *broken/misspelled taxa*. If broken/misspelled, go back to the cleaning pipeline and fix. Then run this step again to ensure there are only genuinely new taxa.
 
     Make note of the new taxa for updating common names manually later!
 
@@ -54,7 +54,7 @@
     AND tx.taxon_id IS NULL;
     ```
 
-5. **Insert genuinely new taxa** into table `taxa` once all typos etc are fixed.
+5. **Insert genuinely new taxa** into table `taxa`.
 
     Insert where `taxon_id` doesn't exist yet, first on species level (to insert possible new species):
 

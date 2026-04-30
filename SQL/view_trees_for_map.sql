@@ -35,7 +35,14 @@ SELECT
 
     g.genus_name,
     gen.common_name AS genus_common_name,
-    sp.common_name AS species_common_name,
+
+    CASE
+        WHEN sp.common_name IS NOT NULL THEN sp.common_name
+        WHEN tx.taxon_id IS NOT NULL AND gen.common_name IS NOT NULL
+        THEN gen.common_name || ' (ukendt dansk artsnavn)'
+        ELSE NULL
+    END AS species_common_name,
+
     f.family_name,
     o.order_name,
     t.lat,

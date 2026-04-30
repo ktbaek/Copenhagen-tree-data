@@ -36,6 +36,7 @@ create table if not exists raw_taxon_common_names (
 );
 
 create table if not exists raw_trees (
+    updated_at date,
     uuid uuid,
     genus text,
     species_epithet text,
