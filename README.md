@@ -28,7 +28,7 @@ I used the cleaned and quality controlled dataset to develop a beautiful and use
 
 ## Data source
 
-The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in September 2025. It contains information about ~67,000 trees in Copenhagen. The original dataset is not included here and is licensed under `CC-BY-4.0`.
+The dataset from Københavns Kommune was downloaded from [Open Data DK](https://www.opendata.dk/city-of-copenhagen/trae-basis-kommunale-traeer) in April 2026. It contains information about ~67,000 trees in Copenhagen. The original dataset is not included here and is licensed under `CC-BY-4.0`.
 
 The contents of this repository (data cleaning code, validation rules, and correction methodologies) are licensed under `AGPL-3.0`.
 
