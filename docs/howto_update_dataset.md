@@ -7,7 +7,7 @@
 
 If any of the following queries return rows, inspect to distinguish between genuinely new taxa and misspelled taxa. If misspelled, go back to the cleaning pipeline and fix. Then run this step again to ensure there are only genuinely new taxa, no misspellings etc.
 
-Make note of the new taxa for updating common_names manually later!
+Make note of the new taxa for updating common names manually later!
 
 ``` SQL
 SELECT DISTINCT r.genus
@@ -143,7 +143,7 @@ WHERE tx.taxon_level = 'infraspecies'
   AND tx.species_taxon_id IS NULL;
 ```
 
-6. **Insert new common names**. Do this manually into table `taxon_common_names`. Insert new common names at genus, species and infraspecies levels, for those that are relevant.  
+6. **Insert new common names**. Do this manually into table `taxon_common_names`. Insert new common names at genus, species and infraspecies levels, for those levels that are relevant.  
 
 Example:
 
@@ -156,4 +156,4 @@ values
 
 7. **Refresh materialized views** that depends on the updated tables.
 
-8. **Insert data** from staging table to table.
+8. **Insert tree data** from staging table to table.

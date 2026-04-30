@@ -1,5 +1,6 @@
 
 INSERT INTO trees (
+    updated_at,
     uuid,
     taxon_id,
     sex,
@@ -16,6 +17,7 @@ INSERT INTO trees (
     raw_slaegtsnavn
 )
 SELECT
+    rt.updated_at,
     rt.uuid,
     tx.taxon_id,
     rt.sex,
@@ -31,7 +33,7 @@ SELECT
     rt.raw_dansk_navn,
     rt.raw_slaegtsnavn
 
-FROM raw_trees rt
+FROM raw_trees_2026 rt
 
 LEFT JOIN districts d
     ON d.district_name = rt.district_name
