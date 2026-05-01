@@ -12,10 +12,22 @@ con <- DBI::dbConnect(
 # get data from db
 df <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM for_species_stats"))
 taxon_common_names <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM taxon_primary_common_names"))
-species_names <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM taxon_names")) |> 
-  filter(!is.na(species_taxon_id)) |> 
-  select(-taxon_id, -genus_id) |> 
-  distinct()
+species_names <- as_tibble(DBI::dbGetQuery(con, 
+  "
+  SELECT DISTINCT
+  tx.species_taxon_id,
+  tdn_species.scientific_name_short AS species_name,
+  tdn_species.common_name AS species_common_name,
+  g.genus_name AS genus_name,
+  tdn_genus.common_name AS genus_common_name
+  
+  FROM taxa tx
+  LEFT JOIN genera g ON tx.genus_id = g.genus_id
+  LEFT JOIN taxon_display_names tdn_genus ON tdn_genus.taxon_id = g.taxon_id
+  LEFT JOIN taxon_display_names tdn_species ON tdn_species.taxon_id = tx.species_taxon_id
+  WHERE tx.species_taxon_id IS NOT NULL
+  ")
+  ) 
 
 total_count <- nrow(df)
 total_known <- sum(!is.na(df$taxon_id))
@@ -82,7 +94,7 @@ species_districts <- df %>%
     count = n_district_species
   ) |> 
   group_by(species_taxon_id) %>%
-  reframe(districtStats = list(cur_data())) 
+  reframe(districtStats = list(pick(everything()))) 
   
 # Counts per species per infraspecies
 species_infra <- df %>%
@@ -109,7 +121,7 @@ species_infra <- df %>%
   ) |> 
   select(-taxon_id) |> 
   group_by(species_taxon_id) %>%
-  reframe(infraspecies = list((cur_data())))
+  reframe(infraspecies = list((pick(everything()))))
   
 # Counts per species per decade
 species_decades <- df %>%
@@ -127,7 +139,7 @@ final <- species_summary %>%
   left_join(species_names, by = "species_taxon_id", relationship = "one-to-one") |> 
   rename(
     count = n_species,
-    speciesName = scientific_name,
+    speciesName = species_name,
     speciesDanishName = species_common_name,
     genusName = genus_name,
     genusDanishName = genus_common_name
@@ -141,4 +153,5 @@ json_list <- final %>%
   pmap(function(...) list(...)) %>%   # each row → named list
   set_names(final$speciesName) 
 
-json_list |> write_json("2025/species_descriptions/species_data.json", pretty = TRUE, auto_unbox = TRUE)
+final |> write_rds("2025/species_descriptions/species_data_2026.rds")
+json_list |> write_json("2025/species_descriptions/species_data_2026.json", pretty = TRUE, auto_unbox = TRUE)

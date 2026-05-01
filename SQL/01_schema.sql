@@ -134,6 +134,7 @@ create table if not exists taxon_common_names (
 
 -- table trees
 create table if not exists trees (
+    updated_at date,
     uuid uuid primary key,
     taxon_id integer references taxa(taxon_id),
     sex text check (

@@ -40,13 +40,13 @@ The contents of this repository (data cleaning code, validation rules, and corre
 - Check that year of planting is within an expected range
 - Normalize hybrid markers (e.g. `x` to `hybr.`)
 - Normalize cultivar quotes (e.g. `"` to `'`)
-- Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid markers) according to [these](rules/latin_regex.csv) and [these](rules/latin_regex_malus.csv) rules
+- Fix mistakes in scientific names (e.g. spelling, casing, diacritics, missing species epithet in cultivars, missing hybrid designations) according to [these](rules/latin_regex.csv) and [these](rules/latin_regex_malus.csv) rules
 
 ### Normalization and mapping in postgreSQL
 - Separate scientific names into taxonomic components
 - Create lookup tables mapping Danish common names to taxa on genus, species, and infraspecies levels
 - Build a normalized taxonomy (orders → families → genera → species → infraspecies) and enforce valid taxonomic structure through constraints
-- Implement common name resolution with fallback from infraspecies to species when needed
+- Implement common name resolution with fallback to parent taxon name when needed
 - Define display rules (e.g. when to include cultivar names)
 - Retain a single record per location based on data completeness (e.g. presence of taxon, planting year)
 

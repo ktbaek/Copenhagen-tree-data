@@ -1,4 +1,4 @@
-CREATE OR REPLACE VIEW trees_for_map AS
+CREATE OR REPLACE VIEW trees_for_map_2025 AS
 
 -- to allow for deduplication
 WITH ranked AS (
@@ -11,7 +11,7 @@ WITH ranked AS (
                 (t.planting_year IS NOT NULL) DESC,
                 t.uuid -- fallback
         ) AS rn
-    FROM trees t
+    FROM trees_2025 t
 )
 
 SELECT
