@@ -130,6 +130,7 @@ species_decades <- df %>%
   nest(decade = c(decade, n)) |> 
   mutate(decade = map(decade, ~setNames(as.list(.x$n), .x$decade)))
 
+
 # Combine and convert
 final <- species_summary %>%
   left_join(genus_summary) %>%

@@ -1,6 +1,11 @@
 # Making map-ready version of the dataset ---------------------------------
 # Make sure you're using clean version!
 suppressWarnings({
+
+# source functions
+rm(set_color_df) # during development 
+r_files <- list.files("2025/R/functions", pattern = "\\.R$", full.names = TRUE)
+invisible(lapply(r_files, source))
   
 # read dataset from db
 cfg <- yaml::read_yaml("2025/config/db.yml")$default
