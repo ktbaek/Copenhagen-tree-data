@@ -6,6 +6,9 @@
 .DS_Store
 .project
 .pgpass
+.env
+.venv
+.vscode
 *cache/
 config/
 output/datasets/

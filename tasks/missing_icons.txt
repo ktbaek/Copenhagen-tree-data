@@ -1,0 +1,268 @@
+|scientific_name                  |common_name              |n  |
+|---------------------------------|-------------------------|---|
+|Malus hybr.                      |Paradisæble              |748|
+|Pinus sylvestris                 |Skovfyr                  |354|
+|Prunus padus                     |Almindelig hæg           |314|
+|Prunus hybr. yedoensis           |Yoshino-kirsebær         |252|
+|Prunus cerasifera                |Mirabel                  |159|
+|Malus sieboldii                  |Japansk prydæble         |138|
+|Populus simonii                  |Kinesisk poppel          |136|
+|Pinus nigra                      |Sortfyr                  |132|
+|Ulmus hybr.                      |Hybridelm                |127|
+|Picea omorika                    |Serbisk gran             |108|
+|Pyrus calleryana                 |Kinapære                 |103|
+|Larix kaempferi                  |Japansk lærk             |100|
+|Malus baccata                    |Bæræble                  |96 |
+|Pinus cembra                     |Cembra-fyr               |93 |
+|Crataegus prunifolia             |Blommetbladet hvidtjørn  |92 |
+|Malus sylvestris                 |Skovæble                 |89 |
+|Crataegus lavallei               |Glansbladet hvidtjørn    |87 |
+|Taxus baccata                    |Almindelig taks          |81 |
+|Amelanchier canadensis           |Canadisk bærmispel       |65 |
+|Pyrus communis                   |Almindelig pære          |57 |
+|Pyrus caucasica                  |Prydpære                 |57 |
+|Malus hybr. floribunda           |Japansk paradisæble      |51 |
+|Styphnolobium japonica           |Pagodetræ                |50 |
+|Prunus domestica                 |Blomme                   |48 |
+|Juglans regia                    |Almindelig valnød        |46 |
+|Sorbus commixta                  |Storblomstret japansk røn|46 |
+|Fraxinus americana               |Amerikansk ask           |46 |
+|Pinus mugo                       |Bjergfyr                 |44 |
+|Crataegus crus-galli             |Hanesporehvidtjørn       |43 |
+|Sorbus americana                 |Amerikansk røn           |40 |
+|Pterocarya fraxinifolia          |Kaukasisk vingevalnød    |39 |
+|Paulownia tomentosa              |Kejsertræ                |39 |
+|Larix hybr. eurolepis            |Hybridlærk               |38 |
+|Sorbus commixta                  |Japansk røn              |37 |
+|Larix decidua                    |Europæisk lærk           |37 |
+|Malus toringo                    |Japansk prydæble         |35 |
+|Prunus sargentii                 |Sakhalinkirsebær         |33 |
+|Aesculus hybr. carnea            |Rød hestekastanje        |33 |
+|Taxodium distichum               |Almindelig sumpcypres    |33 |
+|Nothofagus antarctica            |Antarktisk sydbøg        |30 |
+|Magnolia hybr. soulangeana       |Almindelig magnolia      |27 |
+|Prunus serrulata                 |Japansk kirsebær         |27 |
+|Amelanchier arborea              |Enstammet bærmispel      |26 |
+|Salix fragilis                   |Skørpil                  |24 |
+|Koelreuteria paniculata          |Kinesertræ               |24 |
+|Ribes rubrum                     |Haveribs                 |23 |
+|Ilex meserveae                   |Blågrøn kristtorn        |23 |
+|Chamaecyparis lawsoniana         |Ædelcypres               |22 |
+|Acer ginnala                     |Ildløn                   |22 |
+|Abies procera                    |Sølvædelgran             |22 |
+|Prunus serrulata                 |Japansk søjlekirsebær    |22 |
+|Nyssa sylvatica                  |Tupelotræ                |21 |
+|Magnolia kobus                   |Japansk magnolia         |21 |
+|Morus nigra                      |Sort morbær              |20 |
+|Acer hybr. freemanii             |Freeman-løn              |20 |
+|Acer griseum                     |Papirbarkløn             |20 |
+|Ilex aquifolium                  |Almindelig kristtorn     |19 |
+|Prunus domestica ssp. insisitia  |Kræge                    |18 |
+|Salix aurita                     |Øret pil                 |18 |
+|Davidia involucrata              |Duetræ                   |18 |
+|Acer rubrum                      |Rød løn                  |17 |
+|Cedrus libani                    |Libanonceder             |17 |
+|Cydonia oblonga                  |Almindelig kvæde         |17 |
+|Cedrus deodara                   |Himalaya-ceder           |17 |
+|Laburnum hybr. watereri          |Hybridguldregn           |16 |
+|Prunus hybr.                     |Surkirsebær              |15 |
+|Sambucus nigra                   |Almindelig hyld          |14 |
+|Catalpa bignonioides             |Almindelig trompetkrone  |14 |
+|Prunus serrula                   |Tibetansk kirsebær       |14 |
+|Pseudotsuga menziesii var. caesia|Grå douglasgran          |14 |
+|Malus sargentii                  |Sargents æble            |14 |
+|Picea abies                      |Rødgran                  |13 |
+|Laburnum hybr. watereri          |Voss-guldregn            |12 |
+|Parrotia persica                 |Papegøjebusk             |12 |
+|Mespilus germanica               |Mispel                   |12 |
+|Pyrus nivalis                    |Snepære                  |12 |
+|Zelkova serrata                  |Japansk zelkova          |11 |
+|Cornus kousa                     |Koreakornel              |11 |
+|Juglans nigra                    |Sort valnød              |11 |
+|Prunus hybr. hilleri             |Prydkirsebær             |10 |
+|Euonymus europaeus               |Almindelig benved        |10 |
+|Trachycarpus fortunei            |Hørpalme                 |10 |
+|Populus lasiocarpa               |Rabarberpoppel           |10 |
+|Albizia julibrissin              |Silkerosentræ            |10 |
+|Prunus serrulata                 |Japansk prydkirsebær     |9  |
+|Rhamnus catharticus              |Vrietorn                 |9  |
+|Pinus nigra var. corsicana       |Korsikansk fyr           |9  |
+|Araucaria araucana               |Abetræ                   |9  |
+|Sorbus mougeotii                 |Pyrenæisk røn            |9  |
+|Abies nordmanniana               |Nordmannsgran            |9  |
+|Fraxinus excelsior               |Etbladet ask             |9  |
+|Quercus coccinea                 |Skarlagen-eg             |9  |
+|Salix purpurea                   |Purpurpil                |8  |
+|Prunus spinosa                   |Slåen                    |8  |
+|Acer palmatum                    |Japansk løn              |8  |
+|Crataegus intricata              |Skarlagen-hvidtjørn      |8  |
+|Syringa vulgaris                 |Almindelig syren         |8  |
+|Tsuga canadensis                 |Østamerikansk hemlock    |8  |
+|Acer tataricum                   |Russisk løn              |8  |
+|Magnolia hybr. loebneri          |Magnolie hybr. loebneri  |8  |
+|Prunus mahaleb                   |Weichsel                 |7  |
+|Abies concolor                   |Langnålet ædelgran       |7  |
+|Crataegus douglasii              |Sortfrugtet hvidtjørn    |7  |
+|Malus tschonoskii                |Fujiyama-æble            |7  |
+|Cedrus atlantica                 |Atlasceder               |7  |
+|Ribes nigrum                     |Solbær                   |7  |
+|Pinus sylvestris                 |Norsk skovfyr            |7  |
+|Picea pungens                    |Blågran                  |6  |
+|Populus acuminata                |Lancetbladet poppel      |6  |
+|Styrax japonica                  |Japansk storaks          |6  |
+|Pinus sylvestris                 |Søjle-skovfyr            |6  |
+|Rhus typhina                     |Hjortetaktræ             |6  |
+|Prunus maackii                   |Mandshurisk kirsebær     |6  |
+|Maclura pomifera                 |Orangemorbær             |6  |
+|Betula nigra                     |Sortbirk                 |6  |
+|Sequoiadendron giganteum         |Mammuttræ                |6  |
+|Morus alba                       |Hvid morbær              |5  |
+|Thuja occidentalis               |Almindelig thuja         |5  |
+|Acer truncatum                   |Shantung-løn             |5  |
+|Thujopsis dolabrata              |Hønsebenstræ             |5  |
+|Viburnum opulus                  |Almindelig kvalkved      |5  |
+|Hippophaë rhamnoides             |Almindelig havtorn       |5  |
+|Rhamnus frangula                 |Tørst                    |5  |
+|Acer argutum                     |Japansk løn              |5  |
+|Rhus potaninii                   |Kinesisk sumak           |5  |
+|Euonymus sachaliensis            |Sakhalinbenved           |5  |
+|Ribes uva-crispa                 |Stikkelsbær              |5  |
+|Crataegus crus-galli var. inermis|Hanesporehvidtjørn       |5  |
+|Chamaecyparis obtusa             |Solcypres                |5  |
+|Pinus peuce                      |Silkefyr                 |4  |
+|Juniperus communis               |Almindelig ene           |4  |
+|Pinus bungeana                   |Bungefyr                 |4  |
+|Prunus hybr.                     |Kirsebær                 |4  |
+|Gymnocladus dioicus              |Stennød                  |4  |
+|Zanthoxylum piperitum            |Japansk peber            |4  |
+|Fagus sylvatica                  |Bregnebøg                |4  |
+|Malus trilobata                  |                         |4  |
+|Pinus wallichiana                |Tårefyr                  |4  |
+|Pseudotsuga menziesii var. glauca|Blå douglasgran          |4  |
+|Viburnum hybr. bodnantense       |Kejserbusk               |4  |
+|Buddleja davidii                 |Sommerfuglebusk          |4  |
+|Juniperus virginiana             |Blyant-ene               |4  |
+|Acer cissifolia                  |                         |4  |
+|Betula maximowicziana            |Ellebladet birk          |4  |
+|Cornus contreversa               |Etagekornel              |3  |
+|Aesculus glabra                  |Glat hestekastanje       |3  |
+|Aronia melanocarpa               |Sortfrugtet surbær       |3  |
+|Cunninghamia lanceolata          |Kinesisk ligkistetræ     |3  |
+|Asimina triloba                  |Pawpaw                   |3  |
+|Eucommia ulmoides                |Eucommia                 |3  |
+|Phellodendron amurense           |Amur korktræ             |3  |
+|Hamamelis hybr. intermedia       |Hybridtroldnød           |3  |
+|Zanthoxylum americanum           |Tandpinetræ              |3  |
+|Tetradium daniellii              |Honningtræ               |3  |
+|Acer rufinerve                   |Rødnervet løn            |3  |
+|Tsuga mertensiana                |Bjerg-hemlock            |3  |
+|Pinus tabuliformis               |Måttefyr                 |3  |
+|Sorbus domestica                 |Storfrugtet røn          |3  |
+|Amelanchier lamarckii            |Almindelig bærmispel     |3  |
+|Torreya nucifera                 |Japansk nøddetaks        |2  |
+|Quercus ilex                     |Sten-eg                  |2  |
+|Heptacodium miconioides          |Himlens syv sønner       |2  |
+|Acer buergeranium                |Tretandet løn            |2  |
+|Crataegus submollis              |                         |2  |
+|Trochodendron araliodes          |Hjultræ                  |2  |
+|Prunus hybr. amygdalo-persica    |Ferskenmandel            |2  |
+|Pistacie chinensis               |Kinesisk pistacie        |2  |
+|Cladrastis lutea                 |Almindelig kladrastis    |2  |
+|Torreya californica              |Californisk nøddetaks    |2  |
+|Pinus mugo                       |Dværgfyr                 |2  |
+|Platanus orientalis              |Orientalsk platan        |2  |
+|Picea glauca                     |Sukkertopgran            |2  |
+|Sorbus incana                    |                         |2  |
+|Euonymus alata                   |Vinget benved            |2  |
+|Phillyrea vilmoriniana           |Stenved                  |2  |
+|Pinus parviflora                 |Penselfyr                |2  |
+|Cryptomeria japonica             |Japansk kryptomeria      |2  |
+|Populus koreana                  |Vårpoppel                |2  |
+|Prunus americana                 |Amerikansk blomme        |2  |
+|Euonymus latifolius              |Storbladet benved        |2  |
+|Magnolia hybr.                   |                         |2  |
+|Calycanthus floridus             |Carolina-kanelbusk       |2  |
+|Cotinus coggygria                |Parykbusk                |2  |
+|Cephalotaxus harringtonia        |Japansk blommetaks       |2  |
+|Kolkwitzia amabilis              |Dronningebusk            |2  |
+|Pterocarya rhoifolia             |Rhusbladet vingevalnød   |2  |
+|Picea orientalis                 |Orientalsk gran          |2  |
+|Salix matsudana                  |Troldpil                 |2  |
+|Quercus pubescens                |Dun-eg                   |2  |
+|Pseudotsuga menziesii            |Douglasgran              |2  |
+|Rhus glabra                      |Koralsumak               |2  |
+|Malus ioensis                    |                         |2  |
+|Robinia hybr. margaretta         |                         |2  |
+|Catalpa hybr. erubescens         |Hybrid-trompetkrone      |1  |
+|Hamamelis hybr.                  |Hybridtroldnød           |1  |
+|Betula ermanii                   |Kamchatka-birk           |1  |
+|Acer betulifolia                 |Birkebladet løn          |1  |
+|+Laburnocytisus adami            |Adams guldregn           |1  |
+|Acer davidii                     |David-løn                |1  |
+|Physocarpus opulifolius             |Amerikansk blærespiræa    |1  |
+|Acer cappadonicum                   |Tyrkisk løn               |1  |
+|Acer micranthum                     |Have-løn                  |1  |
+|Sequoia sempervirens                |Rødtræ                    |1  |
+|Hibiscus syriacus                   |Syrisk rose               |1  |
+|Sorbaria arborea                    |Tusindtop                 |1  |
+|Robinia luxurians                   |Pragtrobinie              |1  |
+|Rhamnus imeritinus                  |Kaukasisk vrietorn        |1  |
+|Betula hybr.                        |                          |1  |
+|Pseudotsuga menziesii var. menziezii|Grøn douglasgran          |1  |
+|Aronia hybr. prunifolia             |Blommebladet surbær       |1  |
+|Populus balsamifera                 |Balsampoppel              |1  |
+|Broussonetia papyrifera             |Papirmorbær               |1  |
+|Osmanthus heterophyllus             |Djævletræ                 |1  |
+|Acer pseudosieboldianum             |                          |1  |
+|Malus hybr. robusta                 |Paradisæble               |1  |
+|Symphoricapos albus                 |Hvid snebær               |1  |
+|Celtis sinensis                     |Kinesisk nældetræ         |1  |
+|Aesculus flava f. virginica         |Virginsk hestekastanje    |1  |
+|Sorbus alnifolia                    |Ellebladet røn            |1  |
+|Acer pensylvanicum                  |Stribet løn               |1  |
+|Picea glauca                        |Hvidgran                  |1  |
+|Aesculus flava                      |Gul hestekastanje         |1  |
+|Acer capillipes                     |Rødstilket løn            |1  |
+|Pinus ponderosa                     |Gul fyr                   |1  |
+|Tsuga diversifolia                  |Japansk hemlock           |1  |
+|Populus hybr. gileadensis           |Ontarisk poppel           |1  |
+|Taxus baccata                       |Søjletaks                 |1  |
+|Fothergilla major                   |Stor troldel              |1  |
+|Poncirus trifoliatus                |Trebladet dværgcitron     |1  |
+|Cercis siliquastrum                 |Europæisk judastræ        |1  |
+|Cornus sanguinea                    |Rød kornel                |1  |
+|Acer circinatum                     |Vinløn                    |1  |
+|Amelanchier hybr. grandiflora       |                          |1  |
+|Rhus vernciflua                     |Lak-giftsumak             |1  |
+|Acer palmatum                       |Rødbladet japansk løn     |1  |
+|Pinus strobus                       |Weymouthsfyr              |1  |
+|Acer monspessulanum                 |Fransk løn                |1  |
+|Acer palmatum                       |Brogetbladet japansk løn  |1  |
+|Celtis australis                    |Europæisk nældetræ        |1  |
+|Betula albosinensis                 |Rødbirk                   |1  |
+|Cercis canadensis                   |Judastræ                  |1  |
+|Corylus americana                   |Amerikansk hassel         |1  |
+|Acer crataegifolium                 |Tjørnebladet løn          |1  |
+|Staphylea colchica                  |Kaukasisk blærenød        |1  |
+|Acer globosum                       |Kugleahorn                |1  |
+|Pterocarya hybr. rhederiana         |                          |1  |
+|Abies pinsabo                       |Spansk ædelgran           |1  |
+|Aesculus parviflora                 |Busk-hestekastanje        |1  |
+|Prunus cerasus                      |Surkirsebær               |1  |
+|Quercus pontica                     |Armensk eg                |1  |
+|Prunus persica                      |Fersken                   |1  |
+|Quercus phellos                     |Pile-eg                   |1  |
+|Hydrangea arboreum                  |Hortensia                 |1  |
+|Acer elegantuleum                   |                          |1  |
+|Magnolia hybr. thompsoniana         |                          |1  |
+|Acer japonica                       |Fuldmåne-løn              |1  |
+|Acer carpinifolium                  |Avnbøgbladet løn          |1  |
+|Pyrus piperitum                     |Pære                      |1  |
+|Picea abies                         |Slangegran                |1  |
+|Salix pentandra                     |Femhannet pil             |1  |
+|Kerria japonica                     |Ranunkelbusk              |1  |
+|Acer hybr. zoeschense               |Hybrid-løn                |1  |
+|Colutea arborescens                 |Almindelig blærebælg      |1  |
+|Calocedrus decurrens                |Californisk flodceder     |1  |
+|Rhododendron williamsianum          |Williamsianum rhododendron|1  |
+|Acer nikoensis                      |Nikko-løn                 |1  |

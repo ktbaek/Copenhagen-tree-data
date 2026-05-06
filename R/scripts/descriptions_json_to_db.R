@@ -1,4 +1,4 @@
-json <- fromJSON("2025/species_descriptions/species_descriptions.json")
+json <- fromJSON("2025/species_descriptions/species_descriptions_updated.json")
 
 df <- enframe(json, name = "scientific_name", value = "content") |>
   rowwise() |> 
@@ -37,28 +37,28 @@ mapped_df |>
   filter(is.na(taxon_id) | is.na(prose_html))
 
 # check duplicates - should give zero rows
-duplicates <- mapped_df |>
+mapped_df |>
   count(scientific_name) |>
   filter(n > 1)
 
 # prepare df for inserting into raw db table
 to_insert <- mapped_df |> 
   filter(!is.na(prose_html), !is.na(taxon_id)) |> 
-  select(taxon_id, prose_html) |> 
-  mutate(created_at = as_date("2026-01-14"))
+  select(taxon_id, prose_html)
 
 # create staging table with data
 DBI::dbWriteTable(con, "raw_descriptions", to_insert, overwrite = TRUE)
 
 # upsert
 DBI::dbExecute(con, "
-INSERT INTO taxon_descriptions (taxon_id, prose_html, created_at)
-SELECT taxon_id, prose_html, created_at
+INSERT INTO taxon_descriptions (taxon_id, prose_html)
+SELECT taxon_id, prose_html
 FROM raw_descriptions
 ON CONFLICT (taxon_id)
 DO UPDATE 
 SET 
   prose_html = EXCLUDED.prose_html,
-  updated_at = now();
+  updated_at = now()
+WHERE taxon_descriptions.prose_html IS DISTINCT FROM EXCLUDED.prose_html;
 ")
 

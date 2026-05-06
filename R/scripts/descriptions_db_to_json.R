@@ -17,7 +17,8 @@ df <- DBI::dbGetQuery(con, "
     FROM taxon_descriptions td
     JOIN taxon_display_names tdn
       ON tdn.taxon_id = td.taxon_id
-")
+") |> 
+  arrange(scientific_name_short)
 
 json <- setNames(
   lapply(df$prose_html, function(x) list(prose = x)),

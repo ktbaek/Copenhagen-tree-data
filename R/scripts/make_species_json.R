@@ -10,7 +10,28 @@ con <- DBI::dbConnect(
 )
 
 # get data from db
-df <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM for_species_stats"))
+df <- as_tibble(DBI::dbGetQuery(con, 
+  "
+  SELECT 
+    tfm.uuid,
+    tx.taxon_id,
+    tx.genus_id,
+    tx.species_taxon_id,
+    t.planting_year,
+    (t.protected is not null) AS protected,
+    t.iconic,
+    d.district_name,
+    tx.infraspecies_type,
+    tx.infraspecies_name
+
+FROM trees_for_map tfm
+
+LEFT JOIN trees t ON tfm.uuid = t.uuid
+LEFT JOIN taxa tx ON t.taxon_id = tx.taxon_id
+LEFT JOIN districts d ON t.district_id = d.district_id
+  ")
+  )
+
 taxon_common_names <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM taxon_primary_common_names"))
 species_names <- as_tibble(DBI::dbGetQuery(con, 
   "
