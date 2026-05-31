@@ -18,7 +18,6 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 - All naming logic is anchored in taxonomy
 - R handles data cleaning and rule-based transformations
 - SQL handles relational structure and derived views
-- The entire pipeline from raw data to final map dataset is scripted and reproducible
 
 ### Interactive map
 
