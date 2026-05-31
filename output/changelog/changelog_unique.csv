@@ -3,6 +3,7 @@ APPLIED_REGEX_RULE,Hippophae rhamnoides,Hippophaë rhamnoides,add diacritic back
 APPLIED_REGEX_RULE,Acer freemanii 'Elegant',Acer hybr. freemanii 'Elegant',add hybrid marker,18
 APPLIED_REGEX_RULE,Acer freemanii X,Acer hybr. freemanii,add hybrid marker,2
 APPLIED_REGEX_RULE,Aesculus carnea,Aesculus hybr. carnea,add hybrid marker,21
+APPLIED_REGEX_RULE,Alnus spaethii,Alnus hybr. spaethii,add hybrid marker,322
 APPLIED_REGEX_RULE,Aronia prunifolia,Aronia hybr. prunifolia,add hybrid marker,1
 APPLIED_REGEX_RULE,Hamamelis 'Brevipetala',Hamamelis hybr. 'Brevipetala',add hybrid marker,1
 APPLIED_REGEX_RULE,Laburnum watereri,Laburnum hybr. watereri,add hybrid marker,16

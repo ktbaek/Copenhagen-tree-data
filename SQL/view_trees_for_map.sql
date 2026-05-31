@@ -1,20 +1,38 @@
-CREATE OR REPLACE VIEW trees_for_map_2025 AS
+CREATE OR REPLACE VIEW trees_for_map AS
 
 -- to allow for deduplication
 WITH ranked AS (
     SELECT
         t.*,
-        ROW_NUMBER() OVER (
-            PARTITION BY t.lon, t.lat
+        ROW_NUMBER() 
+        OVER (PARTITION BY
+            ROUND(t.lon::numeric, 6),
+            ROUND(t.lat::numeric, 6)
             ORDER BY
-                (t.taxon_id IS NOT NULL) DESC, 
-                (t.planting_year IS NOT NULL) DESC,
-                t.uuid -- fallback
+            (t.taxon_id IS NOT NULL) DESC,
+            (t.planting_year IS NOT NULL) DESC,
+            t.uuid
         ) AS rn
-    FROM trees_2025 t
+    FROM trees t
 )
 
 SELECT
+    t.uuid,
+    t.taxon_id,
+    t.lat,
+    t.lon,
+    t.planting_year,
+    t.protected,
+    t.special,
+    t.iconic
+    
+
+FROM ranked t
+
+WHERE t.is_duplicate_location = FALSE OR t.rn = 1;
+
+
+/* SELECT
     t.uuid,
     tdn.scientific_name_short as scientific_name,
     tdn.scientific_name_medium as display_name,
@@ -68,6 +86,5 @@ LEFT JOIN taxon_primary_common_names sp ON sp.taxon_id = tx.species_taxon_id
 LEFT JOIN families f ON g.family_id = f.family_id
 LEFT JOIN orders o ON f.order_id = o.order_id
 LEFT JOIN taxon_display_names tdn ON tdn.taxon_id = tx.taxon_id
-LEFT JOIN resolved_icons ri ON ri.taxon_id = tx.taxon_id
+LEFT JOIN resolved_icons ri ON ri.taxon_id = tx.taxon_id */
 
-WHERE t.is_duplicate_location = FALSE OR t.rn = 1;

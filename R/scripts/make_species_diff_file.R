@@ -51,6 +51,15 @@ diff_num <- df |>
     value_to = Y2026
   )
 
+diff_chr <- df |> 
+  select(all_of(key), where(is.character)) |> 
+  pivot_longer(-all_of(key), names_to = c("variable", "year"), names_sep = "_") |> 
+  pivot_wider(names_from = year, values_from = value) |> 
+  filter_out(Y2025 == Y2026) |> 
+  rename(
+    value_from = Y2025,
+    value_to = Y2026
+  )
 
 # isolate species with changes in any of the list variables = tier_2 changes
 diff_list <- df |> select(all_of(key), where(is.list)) |> 
@@ -171,7 +180,7 @@ tier1 <- diff_num  |>
   mutate(update_tier = "tier1") |> 
   filter(!species_taxon_id %in% new_species$species_taxon_id) 
 
-tier2 <- bind_rows(diff_districts, diff_decades, diff_infraspecies) |> 
+tier2 <- bind_rows(diff_chr, diff_districts, diff_decades, diff_infraspecies) |> 
   arrange(speciesName) |> 
   mutate(update_tier = "tier2") |> 
   filter(!species_taxon_id %in% new_species$species_taxon_id) 

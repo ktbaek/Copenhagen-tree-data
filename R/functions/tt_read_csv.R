@@ -4,7 +4,7 @@ tt_read_csv <- function(path) {
   # Harmonize names
   df <- df %>%
     dplyr::select(
-      uuid, id, traeart, dansk_navn, slaegtsnavn, planteaar, bydelsnavn,
+      uuid, id, traeart, dansk_navn, slaegtsnavn, planteaar, bydelsnavn, stednavn, byrumstype,
       fredet_beskyttet_trae, saerligt_trae, ikonisk_trae, spiselige_frugter, wkb_geometry
     ) %>%
     dplyr::mutate(

@@ -7,6 +7,7 @@ traeart;^Aesculus\s+carnea;Aesculus hybr. carnea;add hybrid marker;90
 traeart;^Aesculus\s+hippoc\.\s+;Aesculus hippocastanum ;latin expand abbrev.;90
 traeart;^Almus\s+inceana\b;Alnus incana;latin spelling fix;100
 traeart;^Alnus\s+inokumea\b;Alnus inokumae;latin spelling fix;100
+traeart;^Alnus\s+spaethii\b;Alnus hybr. spaethii;add hybrid marker;90
 traeart;^Amelachier\b;Amelanchier;latin spelling fix;100
 traeart;^Amelanchier\s+'Autumn Brilliance';Amelanchier hybr. grandiflora 'Autumn Brilliance';insert species for cultivars;60
 traeart;^Aronia\s+meloncarpia;Aronia melanocarpa;latin spelling fix;100

@@ -16,6 +16,7 @@ Formatér afstnittene som html med <p> og </p>-tags, og kursiv med <i>-tags.
 - Danske navne for art og slægt skrives altid med småt (almindelig ask, slægten ask – ikke Ask), medmindre navnet forekommer som første ord i en sætning.
 - cultivar → sort/sorter
 - iconic → ikoniske (kommunens betegnelse)
+- district → bydel
 - Brug "registrerede træer" når der refereres til andele – dataene repræsenterer kommunens registrering, ikke en komplet optælling
 
 ## Tidslig kontekst
@@ -35,6 +36,7 @@ Hvis `count < 50`: Nævn kun antal. Spring geografiske og tidsmæssige mønstre 
 - Hvis flere bydele har enrichment >= 2.0, kan de grupperes (f.eks. "på Amager" for Amager Vest og Amager Øst)
 - Hvis ingen bydel har enrichment >= 2.0, sig at arten er "jævnt fordelt i byen" eller lignende
 - Brug formuleringer som "særligt udbredt i [bydel]" eller "koncentreret omkring [bydel]"
+- Hvis `allInProminentPlace` ikke er null, beskriv placeringen med dette navn frem for bydelen fx med en formulering som "alle træer står i [allInProminentPlace]" eller hvis count == 1: "det eneste registrerede eksemplar står i [allInProminentPlace]"
 
 ### Tidsmønstre
 - Fremhæv årtier med markant flere plantninger end gennemsnittet

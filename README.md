@@ -22,7 +22,7 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 
 ### Interactive map
 
-I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.netlify.app#map) using the Leaflet JavaScript library. The map is a handy tool for exploring the trees of Copenhagen.
+I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.dk) using the MapLibre TypeScript library. The map is a handy tool for exploring the trees of Copenhagen.
 
 ![App image](map-sshot.png)
 

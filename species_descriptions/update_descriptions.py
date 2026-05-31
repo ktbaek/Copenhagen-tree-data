@@ -49,15 +49,23 @@ def build_tier2_prompt(existing_prose, tier1_changes, tier2_changes):
     tier2_json = json.dumps(tier2_changes, ensure_ascii=False, indent=2)
     return f"""Du redigerer en dansk artsbeskrivelse til et trækort over København.
 
-De underliggende data er opdateret. Det første afsnit om artens generelle 
-karakteristika skal forblive uændret. Omskriv resten af beskrivelsen, som handler 
-om artens forekomst i København, med samme længde, 
-tone og struktur som originalen. Brug data_to som kilde til opdaterede tal og 
-konklusioner. Feltet meaningful_changes fremhæver de ændringer der sandsynligvis 
-påvirker beskrivelsens konklusioner — fx hvilken bydel der har flest træer, 
-eller beplantningstrends over årtier.
+De underliggende data er opdateret. Følg disse regler:
 
-Returner kun den fulde opdaterede beskrivelsestekst (alle afsnit) uden forklaring.
+- Det første afsnit om artens generelle karakteristika skal forblive uændret
+- Omskriv kun de følgende afsnit om artens forekomst i København
+- Bevar samme længde, tone og struktur som originalen
+- Brug data_to som kilde til opdaterede tal og konklusioner
+- meaningful_changes fremhæver de ændringer der sandsynligvis påvirker konklusionerne
+
+Hvis allInProminentPlace er ændret:
+- Fra null til en værdi: erstat bydelsbaseret beskrivelse med stednavnet
+  - count == 1: "det eneste registrerede eksemplar står i [allInProminentPlace]"
+  - count == 2: "begge træer står i [allInProminentPlace]"
+  - count > 2: "alle [count] træer står i [allInProminentPlace]"
+- Fra en værdi til null: arten er ikke længere koncentreret ét sted — 
+  beskriv udbredelsen med bydelsdata fra data_to i stedet
+
+Returner kun den fulde opdaterede beskrivelsestekst uden forklaring.
 
 <description>
 {existing_prose}

@@ -1,98 +1,67 @@
 # Making map-ready version of the dataset ---------------------------------
-# Make sure you're using clean version!
-suppressWarnings({
 
 # source functions
-rm(set_color_df) # during development 
 r_files <- list.files("2025/R/functions", pattern = "\\.R$", full.names = TRUE)
 invisible(lapply(r_files, source))
   
-# read dataset from db
-cfg <- yaml::read_yaml("2025/config/db.yml")$default
-
-con <- DBI::dbConnect(
-  RPostgres::Postgres(),
-  host = cfg$host,
-  port = cfg$port,
-  dbname = cfg$dbname,
-  user = cfg$user
-)
-
-map_view <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM trees_for_map"))
-
-# calculate color scheme and add colors
-set_color_df <- map_view
-source('2025/R/scripts/set_color_scale.R', local = TRUE)
-map_df <- map_view |> 
-  left_join(species_colors_df, by = "scientific_name", relationship = "many-to-one") |> 
-  mutate(
-    nofill = is.na(scientific_name),
-    fillcolor = if_else(nofill, NA_character_, fillcolor)
-  )
+map_df <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM trees_for_map"))
 
 # calculate radii
 this_year <- as.integer(format(Sys.Date(), "%Y"))
 
-map_df <- map_df |>
-  mutate(radius = calc_radius(year = planting_year, current_year = this_year, r0 = 2.2, a0 = 25, k = 0.7))
+radius_df <- map_df |> 
+  select(planting_year) |> 
+  filter(!is.na(planting_year)) |> 
+  distinct() |> 
+  arrange(planting_year) |> 
+  mutate(radius = round(calc_radius(year = planting_year, current_year = this_year, r0 = 2.2, a0 = 25, k = 0.7), 2)) 
 
-cli::cli_alert_success("Marker radii calculated")
+radius_lookup <- as.list(
+  setNames(
+  radius_df$radius,
+  radius_df$planting_year
+))
 
-# add rarity classes 
-class <- function(df, low, high) {
-  x <- df |> 
-    group_by(scientific_name) |> 
-    mutate(.n = n()) |> 
-    filter(.n >= low, .n <= high, !str_detect(scientific_name, "sp.")) |> 
-    ungroup() |> 
-    pull(uuid)
-  
-  y <- df |> 
-    group_by(genus_name) |> 
-    mutate(.n = n()) |> 
-    filter(.n >= low, .n <= high, str_detect(scientific_name, "sp.")) |> 
-    ungroup() |> 
-    pull(uuid)
-  
-  c(x, y)
-}
-
-class_1 <- class(map_df, 1, 1)
-class_2 <- class(map_df, 2, 5)
-class_3 <- class(map_df, 6, 10)
-
-map_df <- map_df |> 
-  mutate(rarity = case_when(
-    uuid %in% class_3 ~ as.integer(3),
-    uuid %in% class_2 ~ as.integer(2),
-    uuid %in% class_1 ~ as.integer(1),
-    TRUE ~ NA_integer_ 
-    ))
-
-cli::cli_alert_success("Rarity classes calculated")
-
-# experimental: add flowering class for japanske kirsebær-arter
-# map_df <- map_df |> mutate(flower = art %in% c("Prunus hybr. yedoensis", "Prunus sargentii", "Prunus serrulata", "Prunus subhirtella"))
-# 
-# cli::cli_alert_success("Flowering column added")
-
-# remove extra whitespace just in case
-map_df <- map_df |> mutate(across(where(is.character), str_squish))
+radius_lookup |> 
+  write_json(
+    "../website/src/assets/dataset/radius_lookup.json",
+    pretty = TRUE,
+    auto_unbox = TRUE
+  )
 
 # add truncated uuid as id
-map_df <- map_df |> mutate(id = str_sub(uuid, start = -8, end = -1))
-if (length(unique(map_df$uuid)) != length(unique(map_df$id))) cli::cli_alert_warning("IDs not unique")
+trees_df <- map_df |> mutate(id = str_sub(uuid, start = -8, end = -1))
+if (length(unique(map_df$uuid)) != length(unique(trees_df$id))) cli::cli_alert_warning("IDs not unique")
+trees_df$uuid <- NULL
 
-# remove unrequired columns
-map_df <- map_df |> select(-family_name, -order_name)
-
-# make loading order on the map: trees with unknown species loads first, then by uuid (i.e more or less random) so no one species dominate the map, and then by planting year so large markers are loaded first
-map_df <- arrange(map_df, !nofill, uuid, planting_year)
+trees_df <- trees_df |> 
+  arrange(desc(is.na(taxon_id)), planting_year, id) |> 
+  rename(pyr = planting_year, tid = taxon_id) |> 
+  mutate(lon = round(lon, 6), lat = round(lat, 6))
 
 # save file
-write_csv(map_df, "2025/output/datasets/trees.csv")
-write_rds(map_df, "2025/output/datasets/trees.rds")
-trees_sf <- sf::st_as_sf(map_df, coords = c("lon", "lat"), crs = 4326)
-st_write(trees_sf, "2025/output/datasets/trees.geojson", driver = "GeoJSON", delete_dsn = TRUE)
+trees_sf <- sf::st_as_sf(trees_df, coords = c("lon", "lat"), crs = 4326)
 st_write(trees_sf, "../website/src/assets/dataset/trees.geojson", driver = "GeoJSON", delete_dsn = TRUE)
-})
+
+
+source("2025/R/scripts/calculate_counts.R")
+
+# prepare for PMTiles
+taxon_df <- as_tibble(DBI::dbGetQuery(con, "SELECT * FROM taxon_lookup_for_map ORDER BY taxon_id")) 
+
+trees_for_tiles <- trees_df |>
+  left_join(taxon_df, by = join_by("tid" == "taxon_id")) |>
+  left_join(radius_df, by = join_by("pyr" == "planting_year")) |> 
+  select(-c(scientific_name, display_name, cultivar, common_name, genus_name, genus_common_name, species_common_name, icon_id)) |> 
+  mutate(
+    fillcolor = coalesce(fillcolor, "#56C667"),
+    radius = coalesce(radius, 5.5),
+    isOld = this_year - 100 >= pyr,
+    isYoung = this_year - 5 <= pyr
+  ) |> 
+  mutate(draw_order = runif(n()))
+
+
+trees_for_tiles_sf <- sf::st_as_sf(trees_for_tiles, coords = c("lon", "lat"), crs = 4326)
+st_write(trees_for_tiles_sf, "../website/src/assets/dataset/trees_resolved.geojson", driver = "GeoJSON", delete_dsn = TRUE)
+

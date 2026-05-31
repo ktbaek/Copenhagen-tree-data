@@ -1,5 +1,5 @@
 code,message,n
-APPLIED_REGEX_RULE,add hybrid marker,3306
+APPLIED_REGEX_RULE,add hybrid marker,3628
 APPLIED_REGEX_RULE,latin spelling fix,1174
 ILLEGAL_CHAR_LATIN,remove accents,944
 DUPLICATE_LOCATION,duplicate location flag added,360
