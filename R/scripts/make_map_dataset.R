@@ -59,7 +59,10 @@ trees_for_tiles <- trees_df |>
     isOld = this_year - 100 >= pyr,
     isYoung = this_year - 5 <= pyr
   ) |> 
-  mutate(draw_order = runif(n()))
+  mutate(
+    draw_order = runif(n()),
+    draw_order = as.integer(round(draw_order, 1) * 10)
+    )
 
 
 trees_for_tiles_sf <- sf::st_as_sf(trees_for_tiles, coords = c("lon", "lat"), crs = 4326)

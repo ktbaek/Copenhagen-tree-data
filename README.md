@@ -23,7 +23,7 @@ The raw data contains several inconsistencies, such as missing or incorrect taxo
 
 I used the cleaned and quality controlled dataset to develop a beautiful and user-friendly [interactive map](https://cphtreemap.dk) using the MapLibre TypeScript library. The map is a handy tool for exploring the trees of Copenhagen.
 
-![App image](map-sshot.png)
+![App image](map-example.png)
 
 ## Data source
 
